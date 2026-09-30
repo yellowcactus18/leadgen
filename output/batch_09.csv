@@ -1,0 +1,49 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Devdatt,Kurdikar,"Chairman, President & Chief Executive Officer",Embecta Corp.,EMBC,https://investors.embecta.com/corporate-governance/leadership-team,high
+Jake,Elguicze,Chief Financial Officer,Embecta Corp.,EMBC,https://investors.embecta.com/management/jake-elguicze,high
+Seth,Yon,President & Chief Executive Officer,Sanara MedTech Inc.,SMTI,https://sanaramedtech.com/about/management-team/,high
+Elizabeth,Taylor,Chief Financial Officer,Sanara MedTech Inc.,SMTI,https://sanaramedtech.com/about/management-team/,high
+Erqi,Wang,Chief Executive Officer,JIN MEDICAL INTERNATIONAL LTD.,ZJYL,https://www.sec.gov/Archives/edgar/data/1837821/000121390026013870/ea0273234-20f_jinmedical.htm,medium
+Ziqiang,Wang,Chief Financial Officer,JIN MEDICAL INTERNATIONAL LTD.,ZJYL,https://www.sec.gov/Archives/edgar/data/1837821/000121390026013870/ea0273234-20f_jinmedical.htm,medium
+Kris,Vaddi,Chief Executive Officer,Prelude Therapeutics Incorporated,PRLD,https://preludetx.com/about/leadership/,high
+Bryant,Lim,Chief Financial Officer,Prelude Therapeutics Incorporated,PRLD,https://preludetx.com/about/leadership/,high
+Pedro,Beltran,Chief Executive Officer,"BridgeBio Oncology Therapeutics, Inc.",BBOT,https://www.sec.gov/Archives/edgar/data/0001869105/000119312526170888/d253464dex991.htm,medium
+Idan,Elmelech,Chief Operating Officer (oversees finance; no CFO found),"BridgeBio Oncology Therapeutics, Inc.",BBOT,https://www.sec.gov/Archives/edgar/data/0001869105/000119312526170888/d253464dex991.htm,low
+Richard,Foust,President & Chief Executive Officer,"Mobia Medical, Inc.",MOBI,https://www.mobia.com/leadership-team/,medium
+Bunker,Curnes,Chief Financial Officer,"Mobia Medical, Inc.",MOBI,https://www.mobia.com/leadership-team/,medium
+Brent,Pfeiffenberger,Chief Executive Officer,"Century Therapeutics, Inc.",IPSC,https://investors.centurytx.com/news-releases/news-release-details/century-therapeutics-announces-leadership-changes,medium
+Morgan,Conn,Chief Financial Officer,"Century Therapeutics, Inc.",IPSC,https://craft.co/century-therapeutics/executives,low
+Johan,Spoor,Chief Executive Officer,"Perspective Therapeutics, Inc.",CATX,https://researchpark.uiowa.edu/news/2025/01/perspective-therapeutics-appoints-juan-graham-mba-chief-financial-officer,medium
+Joel,Sendek,Chief Financial Officer,"Perspective Therapeutics, Inc.",CATX,https://perspectivetherapeutics.com/pr/perspective-therapeutics-appoints-biotech-veteran-joel-sendek-as-chief-financial-officer,high
+Luis,Pena,"Co-Founder, President & Chief Executive Officer","Evommune, Inc.",EVMN,https://www.evommune.com/leadership/,high
+Kyle,Carver,Chief Financial Officer,"Evommune, Inc.",EVMN,https://www.evommune.com/leadership/,high
+Mihael,Polymeropoulos,"President, Chief Executive Officer & Chairman",Vanda Pharmaceuticals Inc.,VNDA,https://www.marketscreener.com/quote/stock/VANDA-PHARMACEUTICALS-INC-16742/company/,medium
+Kevin,Moran,"SVP, Chief Financial Officer & Treasurer",Vanda Pharmaceuticals Inc.,VNDA,https://www.marketscreener.com/quote/stock/VANDA-PHARMACEUTICALS-INC-16742/company/,medium
+Vishwas,Seshadri,Chief Executive Officer,Abeona Therapeutics Inc.,ABEO,https://www.abeonatherapeutics.com/about-us/leadership/,medium
+Joseph,Vazzano,Chief Financial Officer,Abeona Therapeutics Inc.,ABEO,https://www.abeonatherapeutics.com/about-us/leadership/,medium
+Samuel,Reich,Chief Executive Officer,"SAB Biotherapeutics, Inc.",SABS,https://ir.sab.bio/corporate-governance/senior-management,medium
+Lucy,To,Chief Financial Officer,"SAB Biotherapeutics, Inc.",SABS,https://ir.sab.bio/corporate-governance/senior-management,medium
+John,Treace,Chief Executive Officer,"Treace Medical Concepts, Inc.",TMCI,https://www.treace.com/about-us/management/,high
+Mark,Hair,Chief Financial Officer,"Treace Medical Concepts, Inc.",TMCI,https://www.treace.com/about-us/management/,high
+Jacob,Lalezari,Chief Executive Officer,CytoDyn Inc.,CYDY,https://www.sec.gov/Archives/edgar/data/1175680/000155837025006531/cydy-20250502xex99d1.htm,high
+Robert,Hoffman,Chief Financial Officer,CytoDyn Inc.,CYDY,https://www.sec.gov/Archives/edgar/data/1175680/000155837025006531/cydy-20250502xex99d1.htm,high
+Gaurav,Shah,Chief Executive Officer,"Rocket Pharmaceuticals, Inc.",RCKT,https://rocketpharma.com/about-us/,high
+Aaron,Ondrey,Chief Financial Officer,"Rocket Pharmaceuticals, Inc.",RCKT,https://ir.rocketpharma.com/news-releases/news-release-details/rocket-pharmaceuticals-announces-appointment-aaron-ondrey-chief,medium
+Bahram,Valamehr,President & Chief Executive Officer,"Fate Therapeutics, Inc.",FATE,https://www.fatetherapeutics.com/about-us/management/,high
+Kamal,Adawi,Chief Financial Officer,"Fate Therapeutics, Inc.",FATE,https://ir.fatetherapeutics.com/news-releases/news-release-details/fate-therapeutics-expands-leadership-team-appointment-kamal,high
+Michael,Egholm,President & Chief Executive Officer,Standard BioTools Inc.,LAB,https://livestb.standardbio.com/about/management,high
+Alex,Kim,Chief Financial Officer,Standard BioTools Inc.,LAB,https://investors.standardbio.com/news-releases/news-release-details/standard-biotools-appoints-alex-kim-chief-financial-officer,high
+Rand,Sutherland,Chief Executive Officer,"Upstream Bio, Inc.",UPB,https://upstreambio.com/team/,medium
+Mike,Gray,Chief Financial Officer & Chief Operating Officer,"Upstream Bio, Inc.",UPB,https://upstreambio.com/team/,medium
+Jay,Duker,President & Chief Executive Officer,"EyePoint, Inc.",EYPT,https://eyepointpharma.com/about/,high
+George,Elston,"Executive Vice President, Chief Financial Officer","EyePoint, Inc.",EYPT,https://eyepointpharma.com/about/,high
+John,Volpone,President & Chief Operating Officer (no CEO found; Adam Craig is Executive Chair),"X4 Pharmaceuticals, Inc.",XFOR,https://www.sec.gov/Archives/edgar/data/1501697/000150169725000021/ex991_2025916release.htm,low
+David,Kirske,Chief Financial Officer,"X4 Pharmaceuticals, Inc.",XFOR,https://www.sec.gov/Archives/edgar/data/1501697/000150169725000021/ex991_2025916release.htm,medium
+Mark,Iwicki,Chief Executive Officer,"Inhibikase Therapeutics, Inc.",IKT,https://www.inhibikase.com/about/management-team,high
+David,McIntyre,Chief Financial Officer,"Inhibikase Therapeutics, Inc.",IKT,https://www.inhibikase.com/about/management-team,high
+Nolan,Townsend,Chief Executive Officer,"Lexeo Therapeutics, Inc.",LXEO,https://www.lexeotx.com/team/,medium
+Louis,Tamayo,Chief Financial Officer,"Lexeo Therapeutics, Inc.",LXEO,https://www.marketscreener.com/news/lexeo-therapeutics-inc-announces-cfo-changes-ce7c51dfd98ef125,low
+Alex,Sapir,President & Chief Executive Officer,"Fulcrum Therapeutics, Inc.",FULC,https://www.fulcrumtx.com/about/,medium
+Alan,Musso,Chief Financial Officer,"Fulcrum Therapeutics, Inc.",FULC,https://www.fulcrumtx.com/about/,medium
+Snehal,Patel,Chief Executive Officer & Chief Financial Officer,"Greenwich LifeSciences, Inc.",GLSI,https://www.sahmcapital.com/news/content/greenwich-lifesciences-ceo-and-cfo-snehal-patel-acquires-common-shares-2025-11-28,medium
+Richard,Kaiser,Interim Chief Executive Officer & Chief Financial Officer,"BioForce Nanosciences Holdings, Inc.",BFNH,https://www.tipranks.com/news/company-announcements/bioforce-nanosciences-consolidates-leadership-with-interim-ceo,medium

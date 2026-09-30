@@ -1,0 +1,51 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Gilmore,O'Neill,President & Chief Executive Officer,"Editas Medicine, Inc.",EDIT,https://www.editasmedicine.com/about/,low
+Amy,Parison,Senior Vice President & Chief Financial Officer,"Editas Medicine, Inc.",EDIT,https://www.pharmavoice.com/news/editas-cfo-gene-editing-therapy-amy-parison/748167/,low
+Sergio,Traversa,Chief Executive Officer,"Relmada Therapeutics, Inc.",RLMD,https://www.relmada.com/for-investors/news/detail/206/relmada-therapeutics-strengthens-financial-operations-with,medium
+Maged,Shenouda,Chief Financial Officer,"Relmada Therapeutics, Inc.",RLMD,https://www.relmada.com/for-investors/news/detail/206/relmada-therapeutics-strengthens-financial-operations-with,medium
+Harold,Shlevin,President & Chief Executive Officer,Galectin Therapeutics Inc.,GALT,https://investor.galectintherapeutics.com/news-releases/news-release-details/galectin-therapeutics-inc-announces-new-ceo,low
+Jack,Callicutt,Chief Financial Officer,Galectin Therapeutics Inc.,GALT,https://investor.galectintherapeutics.com/news-releases/news-release-details/galectin-therapeutics-names-industry-veteran-jack-w-callicutt,low
+Robert,Ball,Chief Executive Officer & Executive Chairman,"Shoulder Innovations, Inc.",SI,https://www.sec.gov/Archives/edgar/data/1699350/000162828025037109/shoulderinnovation-final42.htm,medium
+Jeffrey,Points,Chief Financial Officer,"Shoulder Innovations, Inc.",SI,https://www.sec.gov/Archives/edgar/data/1699350/000162828025037109/shoulderinnovation-final42.htm,medium
+Bradley,Burnam,Chief Executive Officer,Turn Therapeutics Inc.,TTRX,https://turntherapeutics.com/about/,medium
+Zuraiz,Chaudhary,Interim Chief Financial Officer,Turn Therapeutics Inc.,TTRX,https://turntherapeutics.com/about/,medium
+Sandeep,Kulkarni,Chief Executive Officer,Zura Bio Limited,ZURA,https://www.sec.gov/Archives/edgar/data/1855644/000110465926002688/tm262894d1_ex99-1.htm,high
+Eric,Hyllengren,Chief Financial Officer,Zura Bio Limited,ZURA,https://www.investing.com/news/company-news/zura-bio-names-eric-hyllengren-as-new-cfo-effective-july-7-93CH-4118991,medium
+Joseph,Payne,President & Chief Executive Officer,Arcturus Therapeutics Holdings Inc.,ARCT,https://arcturusrx.com/about-arcturus/leadership/,medium
+Dennis,Mulroy,Chief Financial Officer,Arcturus Therapeutics Holdings Inc.,ARCT,https://www.bitget.com/asia/news/detail/12560605402160,low
+Massimo,Calafiore,President & Chief Executive Officer,Orthofix Medical Inc.,OFIX,https://www.massdevice.com/orthofix-new-cfo-massimo-caliafiore-ceo/,medium
+Julie,Andrews,Chief Financial Officer,Orthofix Medical Inc.,OFIX,https://ir.orthofix.com/news/news-details/2024/Orthofix-Provides-Executive-Management-Business-Update-and-Appoints-Julie-Andrews-as-Chief-Financial-Officer/default.aspx,medium
+Jay,Luly,President & Chief Executive Officer,"Enanta Pharmaceuticals, Inc.",ENTA,https://www.enanta.com/about/management-team/,medium
+Harry,Trout,Interim Principal Financial Officer,"Enanta Pharmaceuticals, Inc.",ENTA,https://www.investing.com/news/company-news/enanta-pharmaceuticals-announces-passing-of-longtime-cfo-paul-mellett-93CH-4221052,medium
+Joseph,Burnett,President & Chief Executive Officer,ClearPoint Neuro Inc.,CLPT,https://ir.clearpointneuro.com/company-information/management-team,medium
+Danilo,D'Alessandro,Chief Financial Officer,ClearPoint Neuro Inc.,CLPT,https://ir.clearpointneuro.com/company-information/management-team,low
+David,Hochman,Chairman & Chief Executive Officer,"Orchestra BioMed Holdings, Inc.",OBIO,https://www.orchestrabiomed.com/our-people,medium
+Andrew,Taylor,Chief Financial Officer,"Orchestra BioMed Holdings, Inc.",OBIO,https://www.orchestrabiomed.com/our-people,low
+Benjamin,Oakes,Co-founder President & Chief Executive Officer,Scribe Therapeutics Inc.,SCTX,https://www.scribetx.com/about,medium
+David,Parrot,Chief Financial Officer,Scribe Therapeutics Inc.,SCTX,https://www.linkedin.com/company/scribe-therapeutics,low
+Cary,Vance,President & Chief Executive Officer,"Avita Medical, Inc.",RCEL,https://www.stocktitan.net/news/RCEL/avita-medical-names-cary-vance-as-chief-executive-3r7fhd4zgytq.html,medium
+David,O'Toole,Chief Financial Officer,"Avita Medical, Inc.",RCEL,https://avitamedical.com/leadership/,medium
+Craig,Parker,Chief Executive Officer & President,"Surrozen, Inc.",SRZN,https://investors.surrozen.com/corporate-governance/management,medium
+Andrew,Maleki,Chief Financial Officer,"Surrozen, Inc.",SRZN,https://www.gurufocus.com/news/3196440/surrozen-srzn-appoints-andrew-maleki-as-new-cfo,medium
+Jeffrey,Hackman,Chief Executive Officer,Fennec Pharmaceuticals Inc.,FENC,https://investors.fennecpharma.com/news-releases/news-release-details/fennec-pharmaceuticals-appoints-jeffrey-s-hackman-chief,medium
+Robert,Andrade,Chief Financial Officer,Fennec Pharmaceuticals Inc.,FENC,https://www.globaldata.com/company-profile/fennec-pharmaceuticals-inc/executives/,low
+Fred,Aslan,President & Chief Executive Officer,"Artiva Biotherapeutics, Inc.",ARTV,https://investors.artivabio.com/News-and-Events/news/news-details/2026/Artiva-Biotherapeutics-Announces-Appointment-of-Thad-Huston-as-Chief-Financial-Officer-and-Award-of-Inducement-Grant/default.aspx,medium
+Thad,Huston,Chief Financial Officer,"Artiva Biotherapeutics, Inc.",ARTV,https://investors.artivabio.com/News-and-Events/news/news-details/2026/Artiva-Biotherapeutics-Announces-Appointment-of-Thad-Huston-as-Chief-Financial-Officer-and-Award-of-Inducement-Grant/default.aspx,high
+Shankar,Musunuri,Chairman CEO & Co-Founder,"Ocugen, Inc.",OCGN,https://craft.co/ocugen/executives,medium
+Rita,Johnson-Greene,Chief Financial Officer,"Ocugen, Inc.",OCGN,https://www.globenewswire.com/news-release/2026/02/09/3234410/0/en/Ocugen-Appoints-Rita-Johnson-Greene-to-Chief-Financial-Officer.html,high
+Junyi,Dai,Chief Executive Officer & Chairman,"Indaptus Therapeutics, Inc.",INDP,https://www.tradingview.com/news/tradingview:175a3d3080563:0-yun-yao-leads-investor-group-secures-ceo-change-at-indaptus-therapeutics-inc-with-37-8-stake/,medium
+Yu,Ding,Chief Financial Officer,"Indaptus Therapeutics, Inc.",INDP,https://www.investing.com/news/sec-filings/indaptus-therapeutics-announces-cfo-transition-and-new-board-appointment-93CH-4597159,medium
+Kang-Huai,Wang,President & Chief Executive Officer,"CapsoVision, Inc.",CV,https://investors.capsovision.com/corporate-governance/leadership-team,high
+Kevin,Lundquist,Chief Financial Officer,"CapsoVision, Inc.",CV,https://investors.capsovision.com/corporate-governance/leadership-team,high
+Jerel,Banks,Chief Executive Officer & Chairman,Benitec Biopharma Inc.,BNTC,https://www.sec.gov/Archives/edgar/data/1808898/000119312525239131/d32674ddef14a.htm,medium
+Megan,Boston,Chief Financial Officer,Benitec Biopharma Inc.,BNTC,https://www.tipranks.com/news/company-announcements/benitec-biopharma-strengthens-leadership-with-key-appointments,low
+Joseph,Papa,President & Chief Executive Officer,Emergent BioSolutions Inc.,EBS,https://investors.emergentbiosolutions.com/news-releases/news-release-details/emergent-biosolutions-appoints-industry-leader-joseph-c-papa-new,medium
+Richard,Lindahl,EVP & Chief Financial Officer,Emergent BioSolutions Inc.,EBS,https://investors.emergentbiosolutions.com/news-releases/news-release-details/emergent-biosolutions-announces-executive-management-changes-0,low
+James,Green,"President, Chief Executive Officer & Chairman",Vogenx Inc,VOGX,https://vogenx.com/management-team/,medium
+Steven,Delmar,Chief Financial Officer,Vogenx Inc,VOGX,https://vogenx.com/management-team/,medium
+Steven,Nichtberger,"Chief Executive Officer, President & Chairman","Cabaletta Bio, Inc.",CABA,https://www.cabalettabio.com/about/leadership-team,medium
+Anup,Marda,Chief Financial Officer,"Cabaletta Bio, Inc.",CABA,https://www.cabalettabio.com/about/leadership-team,medium
+Carole,Ben-Maimon,President & Chief Executive Officer,"Larimar Therapeutics, Inc.",LRMR,https://larimartx.com/about-larimar/leadership/,medium
+Michael,Celano,Chief Financial Officer,"Larimar Therapeutics, Inc.",LRMR,https://larimartx.com/about-larimar/leadership/,medium
+Kristen,Fortney,"Chief Executive Officer, President & Co-Founder","BioAge Labs, Inc.",BIOA,https://www.aspenideas.org/speakers/kristen-fortney,low
+Dov,Goldstein,Chief Financial Officer,"BioAge Labs, Inc.",BIOA,https://www.businesswire.com/news/home/20211117005482/en/BioAge-appoints-Dov-Goldstein-as-Chief-Financial-Officer-and-Ann-Neale-as-Chief-Development-Officer,low

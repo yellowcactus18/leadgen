@@ -1,0 +1,49 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Aaron,Berg,President & Chief Executive Officer,Amarin Corporation plc,AMRN,https://www.sec.gov/Archives/edgar/data/897448/000119312526151417/amrn-20260410.htm,high
+Peter,Fishman,Chief Financial Officer,Amarin Corporation plc,AMRN,https://www.nasdaq.com/articles/amarin-corporation-appoints-peter-fishman-chief-financial-officer,high
+Martin,Zügel,Interim Chief Executive Officer,AC Immune SA,ACIU,https://www.tipranks.com/news/company-announcements/ac-immune-ceo-and-co-founder-andrea-pfeifer-to-retire-at-june-11-agm-board-chair-martin-zugel-named-interim-chief,medium
+Christopher,Roberts,Chief Financial Officer,AC Immune SA,ACIU,https://www.acimmune.com/about-us/our-teams/,medium
+Mary,Szela,President & Chief Executive Officer,"TriSalus Life Sciences, Inc.",TLSI,https://trisaluslifesci.com/about-trisalus/,medium
+David,Patience,Chief Financial Officer,"TriSalus Life Sciences, Inc.",TLSI,https://www.rttnews.com/3543175/trisalus-life-sciences-appoints-david-patience-to-succeed-james-young-as-cfo.aspx,medium
+Jane,Chung,Chief Executive Officer,"Sutro Biopharma, Inc.",STRO,https://www.sec.gov/Archives/edgar/data/0001382101/000119312526170354/stro-20260420.htm,high
+Gregory,Chow,Chief Financial Officer,"Sutro Biopharma, Inc.",STRO,https://www.sec.gov/Archives/edgar/data/0001382101/000119312526170354/stro-20260420.htm,high
+Niels,Riedemann,Chief Executive Officer,InflaRx N.V.,IFRX,https://www.tipranks.com/news/company-announcements/inflarx-sets-april-23-2026-agm-to-approve-2025-accounts-board-mandates-and-new-ltip,medium
+Thomas,Taapken,Chief Financial Officer,InflaRx N.V.,IFRX,https://www.marketscreener.com/quote/stock/INFLARX-N-V-38607083/company/,low
+Ben,Zeskind,Co-Founder & Chief Executive Officer,Immuneering Corporation,IMRX,https://immuneering.com/our-story/leadership/,medium
+Andrew,Gengos,Chief Financial Officer,Immuneering Corporation,IMRX,https://www.globenewswire.com/news-release/2026/06/15/3311702/0/en/immuneering-appoints-andrew-gengos-as-chief-financial-officer.html,high
+Carrie,Eglinton Manner,President & Chief Executive Officer,"OraSure Technologies, Inc.",OSUR,https://orasure.gcs-web.com/news-releases/news-release-details/carrie-eglinton-manner-appointed-chief-executive-officer-orasure,medium
+Kenneth,McGrath,Chief Financial Officer,"OraSure Technologies, Inc.",OSUR,https://orasure.gcs-web.com/corporate-governance/board-of-directors,low
+Kevin,Guest,Chief Executive Officer,"USANA Health Sciences, Inc.",USNA,https://www.sec.gov/Archives/edgar/data/896264/000089626426000002/ex991ceotransitionpressrel.htm,high
+Douglas,Hekking,Chief Financial Officer,"USANA Health Sciences, Inc.",USNA,https://ir.usana.com/corporate-governance/management-team,low
+Steve,Griffin,Chief Executive Officer,Anika Therapeutics Inc.,ANIK,https://ir.anika.com/2026-01-08-Anika-Therapeutics-Announces-Leadership-Transition,high
+Steve,Griffin,Principal Financial Officer (CFO role vacant),Anika Therapeutics Inc.,ANIK,https://ir.anika.com/2026-01-08-Anika-Therapeutics-Announces-Leadership-Transition,medium
+Julie,Eastland,"Chief Executive Officer, President","Zentalis Pharmaceuticals, Inc.",ZNTL,https://zentalis.com/about/leadership/,medium
+Melissa,Epperly,Chief Financial Officer,"Zentalis Pharmaceuticals, Inc.",ZNTL,https://zentalis.com/about/leadership/,medium
+Nasrat,Hakim,"Chairman, President & Chief Executive Officer","Elite Pharmaceuticals, Inc.",ELTP,https://finance.yahoo.com/quote/ELTP/profile/,medium
+Carter,Ward,Chief Financial Officer,"Elite Pharmaceuticals, Inc.",ELTP,https://finance.yahoo.com/quote/ELTP/profile/,medium
+Kevin,Lee,Chief Executive Officer,Bicycle Therapeutics plc,BCYC,https://investors.bicycletherapeutics.com/news-releases/news-release-details/bicycle-therapeutics-announces-leadership-transitions-next-phase,high
+Travis,Thompson,Chief Financial Officer,Bicycle Therapeutics plc,BCYC,https://investors.bicycletherapeutics.com/news-releases/news-release-details/bicycle-therapeutics-announces-leadership-transitions-next-phase,high
+John,Butler,"President, Chief Executive Officer","Akebia Therapeutics, Inc.",AKBA,https://www.sec.gov/Archives/edgar/data/0001517022/000151702226000034/akba-20260428.htm,high
+Erik,Ostrowski,"SVP, Chief Financial Officer & Chief Business Officer","Akebia Therapeutics, Inc.",AKBA,https://www.sec.gov/Archives/edgar/data/0001517022/000151702226000034/akba-20260428.htm,high
+Jodie,Morrison,Chief Executive Officer,Q32 Bio Inc.,QTTB,https://finance.yahoo.com/quote/QTTB/profile/,low
+Lee,Kalowski,Chief Financial Officer & President,Q32 Bio Inc.,QTTB,https://finance.yahoo.com/quote/QTTB/profile/,low
+Paul,Josephs,President & Chief Executive Officer,"Lifecore Biomedical, Inc.",LFCR,https://www.fiercepharma.com/manufacturing/lifecore-biomedical-names-new-ceo-board-chair-after-year-long-strategic-review,medium
+Ryan,Lake,Chief Financial Officer,"Lifecore Biomedical, Inc.",LFCR,https://www.sec.gov/Archives/edgar/data/0001005286/000100528626000018/lfcr-2026q1xex991earningsr.htm,medium
+Linda,Powers,"Chairperson, CEO, President, CFO & Chief Accounting Officer","Northwest Biotherapeutics, Inc.",NWBO,https://nwbio.com/company-management/,medium
+Joshua,Mandel-Brehm,"CEO, President & Director",CAMP4 Therapeutics Corporation,CAMP,https://www.camp4tx.com/about/,medium
+Kelly,Gold,Chief Financial Officer,CAMP4 Therapeutics Corporation,CAMP,https://www.camp4tx.com/about/,medium
+Marc,Elia,Chairman & Chief Executive Officer,"Invivyd, Inc.",IVVD,https://www.stocktitan.net/news/IVVD/invivyd-appoints-chairman-marc-w-elia-as-chief-executive-officer-j2bd4mqtttct.html,medium
+William,Duke,Principal Financial and Accounting Officer,"Invivyd, Inc.",IVVD,https://www.stocktitan.net/sec-filings/IVVD/8-k-invivyd-inc-reports-material-event-9c951c9bf22d.html,low
+Eric,Risser,President & Chief Executive Officer,"MacroGenics, Inc.",MGNX,https://ir.macrogenics.com/news-releases/news-release-details/macrogenics-appoints-eric-risser-president-and-chief-executive,high
+James,Karrels,"SVP, Chief Financial Officer & Secretary","MacroGenics, Inc.",MGNX,https://www.sec.gov/Archives/edgar/data/1125345/000112534526000021/mgnx-20260407.htm,high
+Dipal,Doshi,Chief Executive Officer,"Entrada Therapeutics, Inc.",TRDA,https://www.entradatx.com/about,medium
+Kory,Wentworth,Chief Financial Officer & Treasurer,"Entrada Therapeutics, Inc.",TRDA,https://www.entradatx.com/about,medium
+J.D.,Finley,Chief Executive Officer and Chief Financial Officer,"Palisade Bio, Inc.",PALI,https://palisadebio.com/corporate-governance/,medium
+Mori,Arkin,Interim Chief Executive Officer,Sol-Gel Technologies Ltd.,SLGL,https://ir.sol-gel.com/news-releases/news-release-details/sol-gel-technologies-announces-management-realignment,low
+Eyal,Ben-Or,Chief Financial Officer,Sol-Gel Technologies Ltd.,SLGL,https://www.sec.gov/Archives/edgar/data/1684693/000117891324002248/exhibit_99-1.htm,low
+Brian,Culley,Chief Executive Officer,"Lineage Cell Therapeutics, Inc.",LCTX,https://www.businesswire.com/news/home/20260512098382/en/Lineage-Cell-Therapeutics-Reports-First-Quarter-2026-Financial-Results-and-Provides-Business-Update,medium
+Jill,Howe,Chief Financial Officer,"Lineage Cell Therapeutics, Inc.",LCTX,https://www.businesswire.com/news/home/20260512098382/en/Lineage-Cell-Therapeutics-Reports-First-Quarter-2026-Financial-Results-and-Provides-Business-Update,medium
+Diem,Nguyen,Chief Executive Officer,SIGA Technologies Inc.,SIGA,https://www.siga.com/about,medium
+Daniel,Luckshire,"EVP, Chief Financial Officer & Secretary",SIGA Technologies Inc.,SIGA,https://www.stocktitan.net/news/SIGA/siga-to-host-business-update-call-on-august-6-2026-following-release-kpkytd5906cw.html,medium
+Kevin,Cornwell,"Chairman, CEO, President","Utah Medical Products, Inc.",UTMD,https://gloom.sh/stocks/utmd/proxy/2026,medium
+Brian,Koopman,Principal Financial Officer,"Utah Medical Products, Inc.",UTMD,https://gloom.sh/stocks/utmd/proxy/2026,medium

@@ -1,0 +1,50 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Dennis,Lanfear,President & Chief Executive Officer,"Coherus Oncology, Inc.",CHRS,https://www.coherus.com/leadership/,medium
+Bryan,McMichael,Chief Financial Officer,"Coherus Oncology, Inc.",CHRS,https://www.coherus.com/leadership/,medium
+Thomas,Civik,Chief Executive Officer & Chairman,"Pyxis Oncology, Inc.",PYXS,https://www.globenewswire.com/news-release/2026/09/08/3357533/0/en/pyxis-oncology-appoints-thomas-civik-chief-executive-officer-and-chairman-of-the-board.html,high
+Pamela,Connealy,Chief Financial Officer & Chief Operating Officer,"Pyxis Oncology, Inc.",PYXS,https://pyxisoncology.com/about/,medium
+Thomas,Schuetz,President & Chief Executive Officer,"Compass Therapeutics, Inc.",CMPX,https://investors.compasstherapeutics.com/news-releases/news-release-details/compass-therapeutics-appoints-biopharmaceutical-industry-leader,medium
+Barry,Shin,Chief Financial Officer,"Compass Therapeutics, Inc.",CMPX,https://investors.compasstherapeutics.com/news-releases/news-release-details/compass-therapeutics-appoints-biopharmaceutical-industry-leader,medium
+Dan,Reuvers,President & Chief Executive Officer,"Neuronetics, Inc.",STIM,https://www.investing.com/news/company-news/neuronetics-names-dan-reuvers-as-ceo-effective-march-23-93CH-4565428,medium
+Nir,Naor,"EVP, Chief Financial Officer & Treasurer","Neuronetics, Inc.",STIM,https://stifflersearch.com/2026/07/20/neuronetics-appoints-nir-naor-as-cfo-and-announces-management-changes/,medium
+Sujal,Patel,"Chief Executive Officer, President & Secretary","Nautilus Biotechnology, Inc.",NAUT,https://www.nautilus.bio/company/,medium
+Anna,Mowry,Chief Financial Officer,"Nautilus Biotechnology, Inc.",NAUT,https://www.nautilus.bio/company/,medium
+Ofer,Gonen,Chief Executive Officer,MediWound Ltd.,MDWD,https://mediwound.com/about/,medium
+Hani,Luxenburg,Chief Financial Officer,MediWound Ltd.,MDWD,https://mediwound.com/about/,medium
+Jesse,Shefferman,Chief Executive Officer,"Protara Therapeutics, Inc.",TARA,https://protaratx.com/about-us/leadership/,medium
+Patrick,Fabbio,Chief Financial Officer,"Protara Therapeutics, Inc.",TARA,https://protaratx.com/about-us/leadership/,medium
+Gary,Gillheeney,President & Chief Executive Officer,Organogenesis Holdings Inc.,ORGO,https://investors.organogenesis.com/corporate-governance/management-team,medium
+David,Francisco,Chief Financial Officer,Organogenesis Holdings Inc.,ORGO,https://investors.organogenesis.com/corporate-governance/management-team,medium
+Christoph,Antz,Chief Executive Officer,Veraxa Biotech AG,VRXA,https://investors.veraxa.com/corporate-governance/management-team,high
+Raju,Willener,Chief Financial Officer,Veraxa Biotech AG,VRXA,https://www.biospace.com/press-releases/veraxa-biotech-appoints-raju-willener-as-chief-financial-officer,high
+Joseph,Chee,Executive Chairman,Solana Company,HSDT,https://www.marketscreener.com/news/solana-company-nasdaq-hsdt-appoints-madelene-gani-as-chief-operating-officer-and-deputy-cfo-to-lea-ce7e50d8dd8ff721,low
+Madelene,Gani,Chief Operating Officer & Deputy CFO,Solana Company,HSDT,https://www.sec.gov/Archives/edgar/data/1610853/000110465926041571/hsdt-20260409xex99d1.htm,medium
+James,McArthur,President & Chief Executive Officer,PepGen Inc.,PEPG,https://www.pepgen.com/about/,medium
+Noel,Donnelly,Chief Financial Officer,PepGen Inc.,PEPG,https://investors.pepgen.com/news-releases/news-release-details/pepgen-appoints-noel-donnelly-chief-financial-officer,medium
+Michael,Amoroso,President & Chief Executive Officer,"Precision BioSciences, Inc.",DTIL,https://investor.precisionbiosciences.com/news-releases/news-release-details/precision-biosciences-announces-executive-leadership-change,medium
+Naresh,Tanna,Chief Financial Officer,"Precision BioSciences, Inc.",DTIL,https://www.citybiz.co/article/879198/alex-kelly-named-coo-naresh-tanna-promoted-cfo-at-precision-biosciences/,medium
+Everett,Cunningham,President & Chief Executive Officer,Quanterix Corporation,QTRX,https://www.quanterix.com/leadership/everett-cunningham/,medium
+Jason,Faessler,Chief Financial Officer,Quanterix Corporation,QTRX,https://www.quanterix.com/news-media-center/press-releases/quanterix-announces-appointment-of-jason-faessler-as-chief-financial-officer/,medium
+Ryan,Rhodes,Chief Executive Officer,EDAP TMS S.A.,FOCL,https://simplywall.st/stocks/us/healthcare/nasdaq-focl/edap-tms/management,low
+Ken,Mobeck,Chief Financial Officer,EDAP TMS S.A.,FOCL,https://simplywall.st/stocks/us/healthcare/nasdaq-focl/edap-tms/management,low
+Daniel,O'Connell,President & Chief Executive Officer,"Acumen Pharmaceuticals, Inc.",ABOS,https://acumenpharm.com/our-team/,medium
+Matt,Zuga,Chief Financial Officer & Chief Business Officer,"Acumen Pharmaceuticals, Inc.",ABOS,https://acumenpharm.com/our-team/,medium
+Seth,Lederman,Chief Executive Officer & Chairman,Tonix Pharmaceuticals Holding Corp.,TNXP,https://www.tonixpharma.com/leadership/,medium
+Bradley,Saenger,Chief Financial Officer,Tonix Pharmaceuticals Holding Corp.,TNXP,https://www.tonixpharma.com/leadership/,medium
+Al,Sandrock,Chief Executive Officer,"Voyager Therapeutics, Inc.",VYGR,https://ir.voyagertherapeutics.com/news-releases/news-release-details/voyager-therapeutics-appoints-alfred-w-sandrock-jr-md-phd-chief,medium
+Robin,Swartz,Principal Financial Officer,"Voyager Therapeutics, Inc.",VYGR,https://www.stocktitan.net/sec-filings/VYGR/8-k-voyager-therapeutics-inc-reports-material-event-277d1f9b7751.html,low
+Ameet,Mallik,President & Chief Executive Officer,ADC Therapeutics SA,ADCT,https://www.adctherapeutics.com/ameet-mallik/,medium
+Jose,Carmona,Chief Financial Officer,ADC Therapeutics SA,ADCT,https://www.adctherapeutics.com/jose-carmona/,medium
+Remy,Luthringer,Executive Chairman & Chief Executive Officer,"Minerva Neurosciences, Inc",NERV,https://www.minervaneurosciences.com/about-us/leadership/,low
+Frederick,Ahlholm,Chief Financial Officer,"Minerva Neurosciences, Inc",NERV,https://www.minervaneurosciences.com/about-us/leadership/,low
+Srishti,Gupta,Chief Executive Officer,NovaBridge Biosciences,NBP,https://www.nasdaq.com/press-release/novabridge-biosciences-appoints-dr-srishti-gupta-chief-executive-officer-2026-06-29,high
+Lishan,Aklog,Chief Executive Officer,Lucid Diagnostics Inc.,LUCD,https://www.luciddx.com/company/leadership,medium
+Dennis,McGrath,Chief Financial Officer,Lucid Diagnostics Inc.,LUCD,https://www.luciddx.com/company/leadership,medium
+Fu-Feng,Kuo,Chief Executive Officer & Chairwoman,Jyong Biotech Ltd.,MENS,https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/jyong-biotech-ceo-outlines-fda-pathway-and-global-strategy-in-pharmaboardroom-live-interview/2355289,low
+Wei,Zhang,Chief Financial Officer,Jyong Biotech Ltd.,MENS,https://www.stocktitan.net/sec-filings/MENS/form-3-jyong-biotech-ltd-initial-statement-of-beneficial-ownership-6b740b861029.html,low
+Bob,Jahr,President & Chief Executive Officer,"Outlook Therapeutics, Inc.",OTLK,https://www.nasdaq.com/articles/outlook-therapeutics-appoints-bob-jahr-chief-executive-officer-0,medium
+Kevin,Lundquist,Chief Financial Officer,"Outlook Therapeutics, Inc.",OTLK,https://briefglance.com/companies/outlook-therapeutics-inc/pulses/72922,medium
+Michael,Kazley,Chairman & Chief Executive Officer,Stablecoin Development Corporation,SDEV,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nysemkt-sdev/stablecoin-development/management,low
+Tommy,Law,Chief Financial Officer & Treasurer,Stablecoin Development Corporation,SDEV,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nysemkt-sdev/stablecoin-development/management,low
+Laura,Niklason,President & Chief Executive Officer,"Humacyte, Inc.",HUMA,https://humacyte.com/leadership/,medium
+Dale,Sander,"Chief Financial Officer, Chief Corporate Development Officer & Treasurer","Humacyte, Inc.",HUMA,https://humacyte.com/leadership/,medium
