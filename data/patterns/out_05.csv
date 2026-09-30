@@ -1,0 +1,26 @@
+ticker,email_domain,pattern,evidence_email,source,confidence
+INKT,minktherapeutics.com,unknown,investor@minktherapeutics.com,MiNK press releases (generic IR address only),low
+SGMOQ,sangamo.com,unknown,ir@sangamo.com,Sangamo press releases/contact page (generic only),low
+KLRS,kalaristx.com,unknown,ir@kalaristx.com,Kalaris press releases (generic only),low
+TLPH,talphera.com,unknown,investors@talphera.com,Talphera IR page (generic only),low
+AURX,nuot.com,flast,djorden@nuot.com,WebSearch snippet (David Jorden) + LeadIQ/ContactOut aggregator flast,medium
+NMAD,nomadpower.com,unknown,ir.info@nomadpower.com,Nomad IR contacts page (generic only),low
+ELOX,eloxxpharma.com,first.last,info@eloxxpharma.com,RocketReach/LeadIQ aggregator summary (first.last 61%); only generic email seen,low
+MREO,mereobiopharma.com,first.last,,RocketReach aggregator summary (first.last 80%); no address seen,low
+MDXH,mdxhealth.com,unknown,ir@mdxhealth.com,MDxHealth press releases (generic only),low
+XLO,xiliotx.com,unknown,investors@xiliotx.com,Xilio press releases (generic only),low
+CLNN,clene.com,unknown,,Only external PR-agency contacts (russopartnersllc.com) found,unknown
+HYPD,hyperiondefi.com,flast,jassad@hyperiondefi.com,Hyperion DeFi press release contact (Jason Assad),medium
+POSC,positron.com,flast,sales@positron.com,Aggregator summary (FLast 58%); only generic email seen,low
+CIRC,circle8.com,unknown,ir@circle8.com,Circle8 investor page shows circle8.com not circle8group.com (generic only),low
+OM,outsetmedical.com,unknown,investors@outsetmedical.com,Outset IR FAQ (generic only),low
+BOLD,boundlessbio.com,unknown,info@boundlessbio.com,Boundless Bio contact page (generic only),low
+ANVS,annovisbio.com,last,morin@annovisbio.com,Annovis press release contact (Alexander Morin); single address,medium
+INMB,inmunebio.com,flast,dcarlson@inmunebio.com,INmune press release contact (Daniel Carlson),medium
+BSEM,biostemtech.com,unknown,ir@biostemtech.com,BioStem IR contact; email domain differs from website domain,low
+COCH,envoymedical.com,unknown,info@envoymedical.com,Envoy contact page (press contacts via KCSA external),low
+NNOX,nanox.vision,unknown,IR@nanox.vision,Nanox IR page (generic only),low
+CVRX,cvrx.com,flast,emeyers@cvrx.com,CVRx press release media contact (Emily Meyers),medium
+IMA,imagenebio.com,flast,ir@imagenebio.com,RocketReach aggregator summary (flast); only generic email seen,low
+MDAI,spectral-ai.com,unknown,ir@spectral-ai.com,Spectral AI IR page (generic only),low
+XTNT,xtantmedical.com,flast,InvestorRelations@xtantmedical.com,LeadIQ/LeadGibbon aggregator summary (FLast); only generic email seen,low

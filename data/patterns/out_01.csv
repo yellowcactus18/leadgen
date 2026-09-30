@@ -1,0 +1,29 @@
+ticker,email_domain,pattern,evidence_email,source,confidence
+BLFS,biolifesolutions.com,flast,twichterman@biolifesolutions.com,press release contact (websearch),medium
+LMAT,lemaitre.com,flast,,aggregator summary (RocketReach/LeadIQ/email-format: 86% flast),low
+ESTA,establishmentlabs.com,flast,,aggregator summary (LeadIQ/RocketReach: 95% flast),low
+VIR,vir.bio,flast,aattridge@vir.bio; rlepke@vir.bio,Vir press releases (BusinessWire),high
+XERS,xerispharma.com,flast,awey@xerispharma.com,Xeris IR contact page snippet (also ir@xerispharma.com),medium
+STOK,stoketherapeutics.com,flast,swillson@stoketherapeutics.com,Stoke contact/press release snippet (also IR@stoketherapeutics.com),medium
+IMCR,immunocore.com,first.last,,aggregator summary (RocketReach/Clay: 97% first.last),low
+ANAB,anaptysbio.com,unknown,investors@anaptysbio.com,ir.anaptysbio.com contact page (generic only),low
+KLRA,kailera.com,first.last,,aggregator summary (Clay/RocketReach: 100% first.last),low
+AVBP,arrivent.com,lastf,,aggregator summary (RocketReach: 98% lastf; info@arrivent.com seen),low
+KRSA,korsana.com,unknown,IR@korsana.com,korsana.com contact page (generic only),low
+IART,integralife.com,first.last,laurene.isip@integralife.com; chris.ward@integralife.com,Integra press release Sept 2026,high
+REPL,replimune.com,unknown,media@replimune.com,Replimune press release (generic only),low
+LBRX,lbpharma.us,flast,erose@lbpharma.us,LB Pharma IR contact snippet (also IR@lbpharma.us),medium
+BCAX,bicara.com,first.last,tim.palmer@bicara.com,Bicara press release (also IR@bicara.com),medium
+STAA,staar.com,flast,cjohnson@staar.com; nliu@staar.com,STAAR investor contacts page,high
+AMPH,amphastar.com,firstl,,aggregator summary (RocketReach: 97% firstl; info@amphastar.com seen),low
+AORT,artivion.com,unknown,investors@artivion.com,Artivion press releases (generic only),low
+JANX,januxrx.com,flast,,aggregator summary (LeadIQ FLast@januxrx.com; email domain differs from website),low
+KURA,kuraoncology.com,flast,gmann@kuraoncology.com,Kura press release 2026 (older releases used first-name-only e.g. pete@kuraoncology.com),medium
+RIGL,rigel.com,flast,ir@rigel.com,aggregator summary (flast) + ir@rigel.com on press release,low
+NNNN,anbio.com,other:lastinitial-firstinitial (d-j),,aggregator summary (SignalHire 74%),low
+ACHV,achievelifesciences.com,unknown,ir@achievelifesciences.com,Achieve press release (generic only),low
+SLDB,solidbio.com,unknown,investors@solidbio.com,Solid press releases (generic only; also media@solidbio.com),low
+DSGN,designtx.com,unknown,investors@designtx.com,Design Therapeutics site (generic only),low
+ACRS,aclaristx.com,flast,kbalthaser@aclaristx.com; wroberts@aclaristx.com,Aclaris press releases (email domain differs from website),high
+AVR,anteristech.com,unknown,info.us@anteristech.com,Anteris contact page (generic only),low
+VSTM,verastem.com,unknown,investors@verastem.com,Verastem press releases (generic only; also media@verastem.com),low

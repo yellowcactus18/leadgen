@@ -1,0 +1,29 @@
+ticker,email_domain,pattern,evidence_email,source,confidence
+UMEW,umeworld.com,first.last,investors@umeworld.com,RocketReach summary (first.last 40%); IR address only,low
+QUCY,quantum-cyber.ai,unknown,admin@quantum-cyber.ai,company contact page snippet (ir@quantumcyber.com also listed),unknown
+KZIA,kaziatherapeutics.com,first.last,info@kaziatherapeutics.com,RocketReach summary (first.last 76.4%),low
+VXRT,vaxart.com,unknown,IR@vaxart.com,investor FAQ page,unknown
+ZSTK,zerostack.ai,first.last,ir@zerostack.ai,RocketReach summary (first.last 100%),low
+ECOR,electrocore.com,unknown,Investors@electrocore.com,investor resources page,unknown
+CTOR,citiusonc.com,unknown,ir@citiusonc.com,citiusonc.com investor contacts,unknown
+BGM,qiliancorp.com,unknown,info@qiliancorp.com,bgmgroupltd.com contact page snippet (email domain differs from website),unknown
+CRDF,cardiffoncology.com,flast,jlevine@cardiffoncology.com,search snippet CFO James Levine; ir@cardiffoncology.com also,medium
+NTRB,nutriband.com,first,info@nutriband.com,Webspotter/ContactOut/SignalHire summaries ({first} most common),low
+RNGE,rangeimpact.com,unknown,ir@rangeimpact.com,search snippet IR contact,unknown
+LNSR,lensar.com,unknown,ir.contact@lensar.com,ir.lensar.com contact page,unknown
+ATRA,atarabio.com,flast,adaugherty@atarabio.com,search snippet (Amber Daugherty) plus RocketReach summary first initial+last,medium
+TELO,telomirpharma.com,unknown,info@telomirpharma.com,company contact page (website domain telomir.com differs from email domain),unknown
+LFVN,lifevantage.com,unknown,,no email found,unknown
+OKYO,okyopharma.com,flast,gjacob@okyopharma.com,search snippet (CEO Gary Jacob) plus RocketReach summary,medium
+MAIA,maiabiotech.com,flast,ir@maiabiotech.com,ContactOut summary (first initial+last 75%); IR address only,low
+TENX,tenaxthera.com,unknown,info@tenaxthera.com,company contact page (email domain differs from tenax.com),unknown
+RNTX,reintx.com,flast,,RocketReach summary (first initial+last 100%); no employee email seen,low
+DRIO,dariohealth.com,first.last,,RocketReach/LeadIQ summary (First.Last 47%); no employee email seen,low
+PLRX,pliantrx.com,flast,ir@pliantrx.com,RocketReach summary (first initial+last 98.9%); IR address only,low
+ACET,adicetbio.com,flast,info@adicetbio.com,RocketReach summary (first initial+last 97%); generic address only,low
+XBIT,xbiotech.com,unknown,info@xbiotech.com,company contact page (publicrelations@xbiotech.com for IR),unknown
+CSBR,championsoncology.com,flast,sforeman@championsoncology.com,search snippet investor contact Susan Foreman,medium
+HYFT,mindwalkai.com,unknown,investors@mindwalkai.com,MindWalk contact page (email domain differs from mindwalk.ai),unknown
+VISK,viskase.com,first.last,,Scalelist/RocketReach summary sentence; no employee email seen,low
+FRMM,forum-markets.com,unknown,ir@forum-markets.com,ir.forum-markets.com contacts page,unknown
+HRTX,herontx.com,flast,iduarte@herontx.com,search snippet CFO Ira Duarte; ir@herontx.com also,medium

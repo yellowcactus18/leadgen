@@ -1,0 +1,29 @@
+ticker,email_domain,pattern,evidence_email,source,confidence
+LXEO,lexeotx.com,unknown,investors@lexeotx.com,ir.lexeotx.com contact; signalhire summary gives odd initial-initial pattern,low
+FULC,fulcrumtx.com,flast,,rocketreach summary (93.5% flast); no employee email seen,low
+GLSI,greenwichlifesciences.com,first.last,info@greenwichlifesciences.com,rocketreach summary sentence; info@ on contact page,low
+BFNH,bioforceeclipse.com,unknown,info@bioforceeclipse.com,bioforceeclipse.com/contact (aggregator data is for bioforcenano.com),low
+AMRN,amarincorp.com,first.last,jessica.beck@amarincorp.com,leadiq/leadgibbon search snippet,medium
+ACIU,acimmune.com,first.last,ir@acimmune.com,ir.acimmune.com contact; aggregator summary first.last 95%,low
+TLSI,trisaluslifesci.com,first.last,investor.relations@trisaluslifesci.com,trisaluslifesci.com contact; rocketreach summary,low
+STRO,sutrobio.com,flast,ewhite@sutrobio.com,search snippet (Emily White IR) + rocketreach 98.6% flast,medium
+IFRX,inflarx.de,first.last,IR@inflarx.de,inflarx.de press releases/contact; aggregator says first.last@inflarx.de (.com only GmbH),low
+IMRX,immuneering.com,flast,ir@immuneering.com,immuneering.com contact; leadiq summary flast 89%,low
+OSUR,orasure.com,flast,Media@OraSure.com,press release contacts; rocketreach summary flast 91%,low
+USNA,usana.com,firstlast,customerservice@usana.com,leadiq summary firstlast 63% (IR uses usanainc.com),low
+ANIK,anika.com,flast,investorrelations@anika.com,ir.anika.com/contacts; contactout summary flast (mhall example),low
+ZNTL,zentalis.com,flast,info@zentalis.com,zentalis.com pages; neverbounce/leadiq summary flast,low
+ELTP,elitepharma.com,first,Dianne@ElitePharma.com,elitepharma.com contact page IR address (aggregators say flast),medium
+BCYC,bicycletherapeutics.com,first.last,info@bicycletherapeutics.com,leadiq summary first.last 79%,low
+PALI,palisadebio.com,first.last,info@palisadebio.com,rocketreach summary first.last 84%,low
+YARW,yarrowbioscience.com,unknown,info@yarrowbioscience.com,yarrowbioscience.com contact page (aggregator data is for yarrowbio.com),low
+ORMP,oramed.com,first,josh@oramed.com; estee@oramed.com,search snippets of oramed.com pages,high
+CUE,cuebio.com,flast,mcampinell@cuebio.com,Cue press releases list mcampinell@cuebio.com and ir@cuebio.com (site is cuebiopharma.com),medium
+VRXA,veraxa.com,unknown,info@veraxa.com,veraxa.com contact; leadiq summary last 48% not reliable,low
+LUCD,luciddx.com,unknown,info@luciddx.com,luciddx.com contact; signalhire summary last.first,low
+MENS,jyongbio.com,unknown,ir@jyongbio.com,Jyong press release IR contact,low
+SDEV,stabledev.com,first,tommy@stabledev.com,search snippet IR contact Tommy Law CFO,medium
+RNA,atrium-tx.com,unknown,investors@atrium-tx.com,Atrium IR press release contact (website atriumtherapeutics.com),low
+SMNR,semnurpharma.com,flast,info@semnurpharma.com,leadiq/rocketreach summary; contact page semnurpharma.com,low
+HRBR,harbordiversified.com,unknown,,no email evidence found,unknown
+PMVP,pmvpharma.com,flast,investors@pmvpharma.com,pmvpharma.com contact; aggregator summary flast,low
