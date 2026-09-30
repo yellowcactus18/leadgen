@@ -1,0 +1,51 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Jacqueline,Shea,President & Chief Executive Officer,"Inovio Pharmaceuticals, Inc.",INO,https://inovio.com/company/leadership,medium
+Peter,Kies,Chief Financial Officer,"Inovio Pharmaceuticals, Inc.",INO,https://inovio.com/company/leadership,medium
+Arun,Swaminathan,Chief Executive Officer,"Coya Therapeutics, Inc.",COYA,https://ir.coyatherapeutics.com/news/news-details/2024/Coya-Therapeutics-Promotes-Arun-Swaminathan-Ph.D.-to-Chief-Executive-Officer-Effective-November-1st-2024/default.aspx,medium
+David,Snyder,Chief Financial Officer & Chief Operating Officer,"Coya Therapeutics, Inc.",COYA,https://theorg.com/org/coya-therapeutics/teams/leadership-team,medium
+Tien-Li,Lee,Chief Executive Officer,"Aardvark Therapeutics, Inc.",AARD,https://aardvarktherapeutics.com/team/,low
+Nelson,Sun,Chief Financial Officer & Chief Operating Officer,"Aardvark Therapeutics, Inc.",AARD,https://aardvarktherapeutics.com/team/,low
+Michael,Lee,Chairman & Chief Executive Officer,UMeWorld Inc.,UMEW,https://www.sec.gov/Archives/edgar/data/1114936/000147793225009175/umewf_20f.htm,medium
+Winfield,Ding,Chief Financial Officer,UMeWorld Inc.,UMEW,https://www.accessnewswire.com/newsroom/en/umeworld-appoints-cfo-and-provides-corporate-update-520465,medium
+Joshua,Pinto,President & Chief Executive Officer,"Neumora Therapeutics, Inc.",NMRA,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-nmra/neumora-therapeutics/management,low
+Michael,Milligan,Chief Financial Officer,"Neumora Therapeutics, Inc.",NMRA,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-nmra/neumora-therapeutics/management,low
+Talat,Imran,Chief Executive Officer,"Rani Therapeutics Holdings, Inc.",RANI,https://www.ranitherapeutics.com/about-us/our-team/,medium
+Nicholas,Maestas,Chief Financial Officer,"Rani Therapeutics Holdings, Inc.",RANI,https://www.sec.gov/Archives/edgar/data/0001856725/000119312526226691/rani-ex99_1.htm,medium
+Thomas,Zindrick,"Chairman, Chief Executive Officer & President",Genelux Corporation,GNLX,https://finance.yahoo.com/quote/GNLX/profile/,medium
+Matthew,Pulisic,Chief Financial Officer,Genelux Corporation,GNLX,https://www.marketscreener.com/quote/stock/GENELUX-CORPORATION-149848934/news/Genelux-Names-Matthew-Pulisic-as-CFO-48940292/,medium
+Josh,Riggs,President & Chief Executive Officer,Insight Molecular Diagnostics Inc.,IMDX,https://www.sec.gov/Archives/edgar/data/1642380/000164238026000004/imdx-20251231.htm,low
+Andrea,James,Chief Financial Officer,Insight Molecular Diagnostics Inc.,IMDX,https://www.sec.gov/Archives/edgar/data/1642380/000164238026000004/imdx-20251231.htm,low
+Adam,Mendelsohn,Chief Executive Officer,"Vivani Medical, Inc.",VANI,https://investors.vivani.com/investors/our-company/executive-leadership,medium
+Anthony,Baldor,Chief Financial Officer,"Vivani Medical, Inc.",VANI,https://www.sec.gov/Archives/edgar/data/1266806/000175392625000956/ex991_1.htm,medium
+David,Lazar,Chief Executive Officer,Quantum Cyber N.V.,QUCY,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-qucy/quantum-cyber/management,low
+William,Caragol,Chief Financial Officer (consultant),Quantum Cyber N.V.,QUCY,https://www.theglobeandmail.com/investing/markets/stocks/QUCY/pressreleases/1830370/quantum-cyber-expands-equity-program-and-cfo-agreement/,low
+John,Friend,Chief Executive Officer,Kazia Therapeutics Limited,KZIA,https://www.kaziatherapeutics.com/site/about-us1/management-team,medium
+James,Levine,Chief Financial Officer,Kazia Therapeutics Limited,KZIA,https://www.marketscreener.com/news/kazia-therapeutics-limited-announces-appointment-of-james-levine-to-chief-financial-officer-effecti-ce7f5ddedb81ff2c,medium
+Joseph,Oliveto,President & Chief Executive Officer,Milestone Pharmaceuticals Inc.,MIST,https://milestonepharma.com/leadership/joseph-oliveto-lt/,medium
+Amit,Hasija,Chief Financial Officer & EVP Corporate Development,Milestone Pharmaceuticals Inc.,MIST,https://milestonepharma.com/leadership/amit-hasija/,medium
+Steven,Lo,President & Chief Executive Officer,"Vaxart, Inc.",VXRT,https://investors.vaxart.com/node/19011/html,medium
+Jeroen,Grasman,Chief Financial Officer,"Vaxart, Inc.",VXRT,https://www.investing.com/news/company-news/vaxart-appoints-jeroen-grasman-as-new-cfo-93CH-4042980,medium
+Mark,Velleca,Chief Executive Officer,"Black Diamond Therapeutics, Inc.",BDTX,https://www.blackdiamondtherapeutics.com/about/leadership,medium
+Erika,Jones,Chief Financial Officer,"Black Diamond Therapeutics, Inc.",BDTX,https://www.marketscreener.com/quote/stock/BLACK-DIAMOND-THERAPEUTIC-102588721/company/,low
+Dikla,Czaczkes Akselbrad,Chief Executive Officer,PolyPid Ltd.,PYPD,https://www.polypid.com/about/management/,medium
+Jonny,Missulawin,Chief Financial Officer,PolyPid Ltd.,PYPD,https://www.polypid.com/about/management/,medium
+Nicholas,Saccomano,President & Chief Executive Officer,"OnKure Therapeutics, Inc.",OKUR,https://onkuretherapeutics.com/about/team/,medium
+Jason,Leverone,Chief Financial Officer,"OnKure Therapeutics, Inc.",OKUR,https://onkuretherapeutics.com/about/team/,medium
+Charles,Goodwin,Chief Executive Officer,Apyx Medical Corporation,APYX,https://www.sec.gov/Archives/edgar/data/719135/000143774926007471/apyx20251231_10k.htm,medium
+Matthew,Hill,Chief Financial Officer,Apyx Medical Corporation,APYX,https://www.businesswire.com/news/home/20231128332429/en/Apyx-Medical-Corporation-Appoints-Matthew-Hill-as-Chief-Financial-Officer,medium
+Daniel,Reis-Faria,Chief Executive Officer,ZeroStack Corp.,ZSTK,https://simplywall.st/stocks/us/healthcare/nasdaq-zstk/zerostack/management,low
+Dany,Vaiman,Chief Financial Officer,ZeroStack Corp.,ZSTK,https://www.tradingview.com/news/tradingview:24f1f35b4f747:0-zerostack-grants-stock-options-to-ceo-cfo-and-executive-chairman/,low
+Bruce,Steel,Chief Executive Officer,"Equillium, Inc.",EQ,https://www.biospace.com/press-releases/equillium-announces-leadership-and-corporate-updates-october-6-2025,medium
+Penny,Tom,Chief Financial Officer,"Equillium, Inc.",EQ,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-eq/equillium/management,low
+Amit,Kumar,Chairman & Chief Executive Officer,"Anixa Biosciences, Inc.",ANIX,https://www.anixa.com/about/management-team,medium
+Michael,Catelani,"President, Chief Operating Officer & Chief Financial Officer","Anixa Biosciences, Inc.",ANIX,https://www.anixa.com/about/management-team,medium
+Neil,Warma,Chief Executive Officer,ProMIS Neurosciences Inc.,PMN,https://www.promisneurosciences.com/investors/company-information/management-team,medium
+Daniel,Geffken,Chief Financial Officer,ProMIS Neurosciences Inc.,PMN,https://www.promisneurosciences.com/investors/company-information/management-team,medium
+Miles,Harrison,"President, Chief Executive Officer & Director",Conexeu Sciences Inc.,CNXU,https://ir.conexeu.com/company-info/executive-team,medium
+Stephen,Inouye,"Chief Financial Officer, Corporate Secretary & Treasurer",Conexeu Sciences Inc.,CNXU,https://ir.conexeu.com/company-info/executive-team,medium
+Joshua,Lev,Co-Chief Executive Officer,"electroCore, Inc.",ECOR,https://investor.electrocore.com/news-releases/news-release-details/electrocore-inc-appoints-joshua-lev-and-mike-fox-co-chief,medium
+Mike,Fox,Co-Chief Executive Officer,"electroCore, Inc.",ECOR,https://investor.electrocore.com/news-releases/news-release-details/electrocore-inc-appoints-joshua-lev-and-mike-fox-co-chief,medium
+Leonard,Mazur,Chairman & Chief Executive Officer,"Citius Oncology, Inc.",CTOR,https://www.roi-nj.com/2026/08/06/healthcare/citius-oncology-of-cranford-says-commercial-response-to-cancer-treatment-is-strong/,medium
+Jaime,Bartushak,Chief Financial Officer,"Citius Oncology, Inc.",CTOR,https://www.thepharmaletter.com/ones-to-watch/citius-oncology,medium
+Thomas,Hull,President & Chief Executive Officer,Kewaunee Scientific Corporation,KEQU,https://craft.co/kewaunee-scientific-corporation/executives,low
+Donald,Gardner,Vice President of Finance & Chief Financial Officer,Kewaunee Scientific Corporation,KEQU,https://craft.co/kewaunee-scientific-corporation/executives,low
