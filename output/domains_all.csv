@@ -1,0 +1,428 @@
+ticker,clean_name,domain
+ZYME,Zymeworks,zymeworks.com
+MRVI,Maravai LifeSciences,maravai.com
+SRPT,Sarepta Therapeutics,sarepta.com
+XNCR,Xencor,xencor.com
+BRVE,Braveheart Bio,braveheart.bio
+GENB,Generate Biomedicines,generatebiomedicines.com
+BLFS,BioLife Solutions,biolifesolutions.com
+LMAT,LeMaitre Vascular,lemaitre.com
+ESTA,Establishment Labs,establishmentlabs.com
+VIR,Vir Biotechnology,vir.bio
+NVCR,Novocure,novocure.com
+SEPN,Septerna,septerna.com
+ABSI,Absci,absci.com
+NVAX,Novavax,novavax.com
+ZBIO,Zenas BioPharma,zenasbio.com
+CMPS,Compass Pathways,compasspathways.com
+XERS,Xeris Biopharma,xerispharma.com
+XRAY,Dentsply Sirona,dentsplysirona.com
+KMTS,Kestra Medical Technologies,kestramedical.com
+QURE,uniQure,uniqure.com
+FRNM,Freenome,freenome.com
+STOK,Stoke Therapeutics,stoketherapeutics.com
+OCUL,Ocular Therapeutix,ocutx.com
+NTLA,Intellia Therapeutics,intelliatx.com
+ANIP,ANI Pharmaceuticals,anipharmaceuticals.com
+SNDX,Syndax Pharmaceuticals,syndax.com
+GHRS,GH Research,ghres.com
+TSHA,Taysha Gene Therapies,tayshagtx.com
+ATEC,Alphatec,atecspine.com
+IMCR,Immunocore,immunocore.com
+RAPP,Rapport Therapeutics,rapportrx.com
+ETON,Eton Pharmaceuticals,etonpharma.com
+INBX,Inhibrx Biosciences,inhibrx.com
+MAZE,Maze Therapeutics,mazetx.com
+INVA,Innoviva,inva.com
+ANAB,AnaptysBio,anaptysbio.com
+TYRA,Tyra Biosciences,tyra.bio
+COAG,Hemab Therapeutics,hemab.com
+RARE,Ultragenyx Pharmaceutical,ultragenyx.com
+KLRA,Kailera Therapeutics,kailera.com
+AVBP,ArriVent BioPharma,arrivent.com
+KRSA,Korsana Biosciences,korsana.com
+ORIC,Oric Pharmaceuticals,oricpharma.com
+PAHC,Phibro Animal Health,pahc.com
+OMER,Omeros,omeros.com
+CNMD,CONMED,conmed.com
+IMTX,Immatics,immatics.com
+KARD,Kardigan,kardigan.bio
+DMRA,Damora Therapeutics,damoratx.com
+TRAX,First Tracks Biotherapeutics,firsttracksbio.com
+IART,Integra LifeSciences,integralife.com
+REPL,Replimune,replimune.com
+LBRX,LB Pharmaceuticals,lbpharma.us
+AVLN,Avalyn Pharma,avalynpharma.com
+BCAX,Bicara Therapeutics,bicara.com
+HROW,Harrow,harrow.com
+MNKD,MannKind,mannkindcorp.com
+VOR,Vor Biopharma,vorbio.com
+TNDM,Tandem Diabetes Care,tandemdiabetes.com
+BVS,Bioventus,bioventus.com
+LTGO,Latigo Biotherapeutics,latigobio.com
+STAA,STAAR Surgical,staar.com
+AMPH,Amphastar Pharmaceuticals,amphastar.com
+AORT,Artivion,artivion.com
+ODTX,Odyssey Therapeutics,odysseytx.com
+IRMD,iRadimed,iradimed.com
+MGTX,MeiraGTx,meiragtx.com
+AKTS,Aktis Oncology,aktisoncology.com
+CSTL,Castle Biosciences,castlebiosciences.com
+JANX,Janux Therapeutics,janux.com
+SVRA,Savara,savarapharma.com
+PRCT,PROCEPT BioRobotics,procept-biorobotics.com
+BBNX,Beta Bionics,betabionics.com
+ENOV,Enovis,enovis.com
+ANRO,Alto Neuroscience,altoneuroscience.com
+SPTX,Seaport Therapeutics,seaporttx.com
+GLUE,Monte Rosa Therapeutics,monterosatx.com
+MLTX,MoonLake Immunotherapeutics,moonlaketx.com
+PCRX,Pacira BioSciences,pacira.com
+CGEM,Cullinan Therapeutics,cullinantherapeutics.com
+ALMS,Alumis,alumis.com
+CRVS,Corvus Pharmaceuticals,corvuspharma.com
+ABUS,Arbutus Biopharma,arbutusbio.com
+KURA,Kura Oncology,kuraoncology.com
+CBLL,CeriBell,ceribell.com
+APMD,Apnimed,apnimed.com
+JBIO,Jade Biosciences,jadebiosciences.com
+RIGL,Rigel Pharmaceuticals,rigel.com
+NNNN,Anbio Biotechnology,anbio.com
+OBX,Obsidian Therapeutics,obsidiantx.com
+SGP,SpyGlass Pharma,spyglasspharma.com
+SANA,Sana Biotechnology,sana.com
+LXRX,Lexicon Pharmaceuticals,lexpharma.com
+ARDX,Ardelyx,ardelyx.com
+SIBN,SI-BONE,si-bone.com
+ACHV,Achieve Life Sciences,achievelifesciences.com
+CADL,Candel Therapeutics,candeltx.com
+AVTX,Avalo Therapeutics,avalotx.com
+INMD,InMode,inmodemd.com
+ANNX,Annexon,annexonbio.com
+ATTO,Attovia Therapeutics,attovia.com
+SLDB,Solid Biosciences,solidbio.com
+GERN,Geron,geron.com
+DSGN,Design Therapeutics,designtx.com
+VREX,Varex Imaging,vareximaging.com
+ACRS,Aclaris Therapeutics,aclaris.com
+FDMT,4D Molecular Therapeutics,4dmt.com
+GYRE,Gyre Therapeutics,gyretx.com
+IMMX,Immix Biopharma,immixbio.com
+FTH,Faeth Therapeutics,faeththerapeutics.com
+OLMA,Olema Pharmaceuticals,olema.com
+CTKB,Cytek Biosciences,cytekbio.com
+AVR,Anteris Technologies,anteristech.com
+VSTM,Verastem,verastem.com
+ETRA,Electra Therapeutics,electra-therapeutics.com
+MLAB,Mesa Laboratories,mesalabs.com
+WVE,Wave Life Sciences,wavelifesciences.com
+STTK,Shattuck Labs,shattucklabs.com
+COLL,Collegium Pharmaceutical,collegiumpharma.com
+PACB,Pacific Biosciences,pacb.com
+QDEL,QuidelOrtho,quidelortho.com
+NVCT,Nuvectis Pharma,nuvectis.com
+MDXG,MiMedx Group,mimedx.com
+CLYM,Climb Bio,climbbio.com
+IRWD,Ironwood Pharmaceuticals,ironwoodpharma.com
+ZVRA,Zevra Therapeutics,zevra.com
+AURA,Aura Biosciences,aurabiosciences.com
+ANGO,AngioDynamics,angiodynamics.com
+CRMD,CorMedix,cormedix.com
+BLSM,BlossomHill Therapeutics,bhtherapeutics.com
+SGMT,Sagimet Biosciences,sagimet.com
+PHAT,Phathom Pharmaceuticals,phathompharma.com
+CTMX,CytomX Therapeutics,cytomx.com
+AQST,Aquestive Therapeutics,aquestive.com
+KIDS,OrthoPediatrics,orthopediatrics.com
+ALT,Altimmune,altimmune.com
+NGNE,Neurogene,neurogene.com
+CAPR,Capricor Therapeutics,capricor.com
+PRME,Prime Medicine,primemedicine.com
+ALLO,Allogene Therapeutics,allogene.com
+SSII,SS Innovations International,ssinnovations.com
+DCTH,Delcath Systems,delcath.com
+MNPR,Monopar Therapeutics,monopar.com
+CBIO,Crescent Biopharma,crescentbiopharma.com
+MPLT,MapLight Therapeutics,maplightrx.com
+YDES,YD Bio,ydesgroup.com
+EOLS,Evolus,evolus.com
+SGHT,Sight Sciences,sightsciences.com
+AGMB,AgomAb Therapeutics,agomab.com
+ARVN,Arvinas,arvinas.com
+PBYI,Puma Biotechnology,pumabiotechnology.com
+MASS,908 Devices,908devices.com
+TCMD,Tactile Systems Technology,tactilemedical.com
+RGNX,REGENXBIO,regenxbio.com
+OVID,Ovid Therapeutics,ovidrx.com
+PROK,ProKidney,prokidney.com
+ENTX,Entera Bio,enterabio.com
+AUTL,Autolus Therapeutics,autolus.com
+CERS,Cerus,cerus.com
+KMDA,Kamada,kamada.com
+CTNM,Contineum Therapeutics,contineum-tx.com
+ASMB,Assembly Biosciences,assemblybio.com
+TKNO,Alpha Teknova,teknova.com
+NPCE,NeuroPace,neuropace.com
+DMAC,DiaMedica Therapeutics,diamedica.com
+AGEN,Agenus,agenusbio.com
+PRTA,Prothena,prothena.com
+KYTX,Kyverna Therapeutics,kyvernatx.com
+SPRY,ARS Pharmaceuticals,ars-pharma.com
+EIKN,Eikon Therapeutics,eikontx.com
+IRD,Opus Genetics,opusgtx.com
+AVIR,Atea Pharmaceuticals,ateapharma.com
+MYGN,Myriad Genetics,myriad.com
+RZLT,Rezolute,rezolutebio.com
+CCCC,C4 Therapeutics,c4therapeutics.com
+EDIT,Editas Medicine,editasmedicine.com
+RLMD,Relmada Therapeutics,relmada.com
+GALT,Galectin Therapeutics,galectintherapeutics.com
+SI,Shoulder Innovations,shoulderinnovations.com
+TTRX,Turn Therapeutics,turntherapeutics.com
+ZURA,Zura Bio,zurabio.com
+ARCT,Arcturus Therapeutics,arcturusrx.com
+OFIX,Orthofix Medical,orthofix.com
+ENTA,Enanta Pharmaceuticals,enanta.com
+CLPT,ClearPoint Neuro,clearpointneuro.com
+OBIO,Orchestra BioMed,orchestrabiomed.com
+SCTX,Scribe Therapeutics,scribetx.com
+RCEL,Avita Medical,avitamedical.com
+SRZN,Surrozen,surrozen.com
+FENC,Fennec Pharmaceuticals,fennecpharma.com
+ARTV,Artiva Biotherapeutics,artivabio.com
+OCGN,Ocugen,ocugen.com
+INDP,Indaptus Therapeutics,indaptusrx.com
+CV,CapsoVision,capsovision.com
+BNTC,Benitec Biopharma,benitec.com
+EBS,Emergent BioSolutions,emergentbiosolutions.com
+VOGX,Vogenx,vogenx.com
+CABA,Cabaletta Bio,cabalettabio.com
+LRMR,Larimar Therapeutics,larimartx.com
+BIOA,BioAge Labs,bioagelabs.com
+EMBC,Embecta,embecta.com
+SMTI,Sanara MedTech,sanaramedtech.com
+ZJYL,Jin Medical International,zhjmedical.com
+PRLD,Prelude Therapeutics,preludetx.com
+BBOT,BridgeBio Oncology Therapeutics,bbotx.com
+MOBI,Mobia Medical,mobia.com
+IPSC,Century Therapeutics,centurytx.com
+CATX,Perspective Therapeutics,perspectivetherapeutics.com
+EVMN,Evommune,evommune.com
+VNDA,Vanda Pharmaceuticals,vandapharma.com
+ABEO,Abeona Therapeutics,abeonatx.com
+SABS,SAB Biotherapeutics,sab.bio
+TMCI,Treace Medical Concepts,treace.com
+CYDY,CytoDyn,cytodyn.com
+RCKT,Rocket Pharmaceuticals,rocketpharma.com
+FATE,Fate Therapeutics,fatetherapeutics.com
+LAB,Standard BioTools,standardbio.com
+UPB,Upstream Bio,upstreambio.com
+EYPT,EyePoint,eyepoint.com
+XFOR,X4 Pharmaceuticals,x4pharma.com
+IKT,Inhibikase Therapeutics,inhibikase.com
+LXEO,Lexeo Therapeutics,lexeotx.com
+FULC,Fulcrum Therapeutics,fulcrumtx.com
+GLSI,Greenwich LifeSciences,greenwichlifesciences.com
+BFNH,BioForce Nanosciences,bioforceeclipse.com
+AMRN,Amarin,amarincorp.com
+ACIU,AC Immune,acimmune.com
+TLSI,TriSalus Life Sciences,trisaluslifesci.com
+STRO,Sutro Biopharma,sutrobio.com
+IFRX,InflaRx,inflarx.com
+IMRX,Immuneering,immuneering.com
+OSUR,OraSure Technologies,orasure.com
+USNA,USANA Health Sciences,usana.com
+ANIK,Anika Therapeutics,anika.com
+ZNTL,Zentalis Pharmaceuticals,zentalis.com
+ELTP,Elite Pharmaceuticals,elitepharma.com
+BCYC,Bicycle Therapeutics,bicycletherapeutics.com
+AKBA,Akebia Therapeutics,akebia.com
+QTTB,Q32 Bio,q32bio.com
+LFCR,Lifecore Biomedical,lifecore.com
+NWBO,Northwest Biotherapeutics,nwbio.com
+CAMP,CAMP4 Therapeutics,camp4tx.com
+IVVD,Invivyd,invivyd.com
+MGNX,MacroGenics,macrogenics.com
+TRDA,Entrada Therapeutics,entradatx.com
+PALI,Palisade Bio,palisadebio.com
+SLGL,Sol-Gel Technologies,sol-gel.com
+LCTX,Lineage Cell Therapeutics,lineagecell.com
+SIGA,SIGA Technologies,siga.com
+UTMD,Utah Medical Products,utahmed.com
+LYEL,Lyell Immunopharma,lyell.com
+ELMD,Electromed,electromed.com
+NAGE,Niagen Bioscience,niagenbioscience.com
+SION,Sionna Therapeutics,sionnatx.com
+PRQR,ProQR Therapeutics,proqr.com
+YARW,Yarrow Bioscience,yarrowbioscience.com
+RNAC,Cartesian Therapeutics,cartesiantx.com
+CGEN,Compugen,cgen.com
+PLX,Protalix BioTherapeutics,protalix.com
+KROS,Keros Therapeutics,kerostx.com
+NATR,Nature's Sunshine Products,naturessunshine.com
+PDEX,Pro-Dex,pro-dex.com
+WHWK,Whitehawk Therapeutics,whitehawktx.com
+ADAG,Adagene,adagene.com
+ALEC,Alector,alector.com
+ELDN,Eledon Pharmaceuticals,eledon.com
+FHTX,Foghorn Therapeutics,foghorntx.com
+NGEN,NervGen Pharma,nervgen.com
+AVXL,Anavex Life Sciences,anavex.com
+ORMP,Oramed Pharmaceuticals,oramed.com
+ANTX,AN2 Therapeutics,an2therapeutics.com
+ALXO,ALX Oncology,alxoncology.com
+CUE,Cue Biopharma,cuebiopharma.com
+DERM,Journey Medical,journeymedicalcorp.com
+NKTX,Nkarta,nkartatx.com
+CHRS,Coherus Oncology,coherus.com
+PYXS,Pyxis Oncology,pyxisoncology.com
+CMPX,Compass Therapeutics,compasstherapeutics.com
+STIM,Neuronetics,neuronetics.com
+NAUT,Nautilus Biotechnology,nautilus.bio
+MDWD,MediWound,mediwound.com
+TARA,Protara Therapeutics,protaratx.com
+ORGO,Organogenesis,organogenesis.com
+VRXA,Veraxa Biotech,veraxa.com
+HSDT,Solana Company,solanacompany.co
+PEPG,PepGen,pepgen.com
+DTIL,Precision BioSciences,precisionbiosciences.com
+QTRX,Quanterix,quanterix.com
+FOCL,EDAP TMS,focalone.com
+ABOS,Acumen Pharmaceuticals,acumenpharm.com
+TNXP,Tonix Pharmaceuticals,tonixpharma.com
+VYGR,Voyager Therapeutics,voyagertherapeutics.com
+ADCT,ADC Therapeutics,adctherapeutics.com
+NERV,Minerva Neurosciences,minervaneurosciences.com
+NBP,NovaBridge Biosciences,novabridge.com
+LUCD,Lucid Diagnostics,luciddx.com
+MENS,Jyong Biotech,jyongbio.com
+OTLK,Outlook Therapeutics,outlooktherapeutics.com
+SDEV,Stablecoin Development Corporation,stabledev.com
+HUMA,Humacyte,humacyte.com
+RNA,Atrium Therapeutics,atriumtherapeutics.com
+KRRO,Korro Bio,korrobio.com
+SPRB,Spruce Biosciences,sprucebio.com
+INGN,Inogen,inogen.com
+TNYA,Tenaya Therapeutics,tenayatherapeutics.com
+HURA,TuHURA Biosciences,tuhurabio.com
+ARMP,Armata Pharmaceuticals,armatapharma.com
+CRBU,Caribou Biosciences,cariboubio.com
+TLSA,Tiziana Life Sciences,tizianalifesciences.com
+KRMD,KORU Medical Systems,korucare.com
+AGPU,Axe Compute,axecompute.com
+SMNR,Semnur Pharmaceuticals,semnur.com
+CRBP,Corbus Pharmaceuticals,corbuspharma.com
+NRXP,NRX Pharmaceuticals,nrxpharma.com
+UNCY,Unicycive Therapeutics,unicycive.com
+HRBR,Harbor Diversified,harbordiversified.com
+AIRS,AirSculpt Technologies,airsculpt.com
+STXS,Stereotaxis,stereotaxis.com
+IMUX,Immunic,imux.com
+MXCT,MaxCyte,maxcyte.com
+PMVP,PMV Pharmaceuticals,pmvpharma.com
+SEER,Seer,seer.bio
+VTVT,vTv Therapeutics,vtvtherapeutics.com
+LENZ,LENZ Therapeutics,lenz-tx.com
+CPIX,Cumberland Pharmaceuticals,cumberlandpharma.com
+INO,Inovio Pharmaceuticals,inovio.com
+COYA,Coya Therapeutics,coyatherapeutics.com
+AARD,Aardvark Therapeutics,aardvarktherapeutics.com
+UMEW,UMeWorld,umeworld.com
+NMRA,Neumora Therapeutics,neumoratx.com
+RANI,Rani Therapeutics,ranitherapeutics.com
+GNLX,Genelux,genelux.com
+IMDX,Insight Molecular Diagnostics,imdxinc.com
+VANI,Vivani Medical,vivani.com
+QUCY,Quantum Cyber,quantum-cyber.ai
+KZIA,Kazia Therapeutics,kaziatherapeutics.com
+MIST,Milestone Pharmaceuticals,milestonepharma.com
+VXRT,Vaxart,vaxart.com
+BDTX,Black Diamond Therapeutics,blackdiamondtherapeutics.com
+PYPD,PolyPid,polypid.com
+OKUR,OnKure Therapeutics,onkuretherapeutics.com
+APYX,Apyx Medical,apyxmedical.com
+ZSTK,ZeroStack,zerostack.ai
+EQ,Equillium,equilliumbio.com
+ANIX,Anixa Biosciences,anixa.com
+PMN,ProMIS Neurosciences,promisneurosciences.com
+CNXU,Conexeu Sciences,conexeu.com
+ECOR,electroCore,electrocore.com
+CTOR,Citius Oncology,citiusonc.com
+KEQU,Kewaunee Scientific,kewaunee.com
+BGM,BGM Group,bgmgroupltd.com
+BMEA,Biomea Fusion,biomeafusion.com
+NTHI,NeOnc Technologies,neonc.com
+CRDF,Cardiff Oncology,cardiffoncology.com
+NTRB,Nutriband,nutriband.com
+NRXS,Neuraxis,neuraxis.com
+UPXI,Upexi,upexi.com
+RNGE,Range Impact,rangeimpact.com
+CGTX,Cognition Therapeutics,cogrx.com
+ACRV,Acrivon Therapeutics,acrivon.com
+GUTS,Fractyl Health,fractyl.com
+RLYB,Rallybio,rallybio.com
+ICCC,ImmuCell,immucell.com
+FTLF,FitLife Brands,fitlifebrands.com
+HYPR,Hyperfine,hyperfine.io
+WRAP,Wrap Technologies,wrap.com
+MNOV,MediciNova,medicinova.com
+LUNG,Pulmonx,pulmonx.com
+LNSR,LENSAR,lensar.com
+ATRA,Atara Biotherapeutics,atarabio.com
+ONCY,Oncolytics Biotech,oncolyticsbiotech.com
+MBOT,Microbot Medical,microbotmedical.com
+PTHS,Pelthos Therapeutics,pelthos.com
+TELO,Telomir Pharmaceuticals,telomir.com
+SKIN,SkinHealth Systems,skinhealthsystems.com
+LFVN,LifeVantage,lifevantage.com
+ALDX,Aldeyra Therapeutics,aldeyra.com
+GANX,Gain Therapeutics,gaintherapeutics.com
+VRCA,Verrica Pharmaceuticals,verrica.com
+CNTB,Connect Biopharma,connectbiopharm.com
+ZOMDF,Zomedica,zomedica.com
+OSTX,OS Therapies,ostherapies.com
+GOSS,Gossamer Bio,gossamerbio.com
+IBIO,iBio,ibioinc.com
+RNXT,RenovoRx,renovorx.com
+FBIO,Fortress Biotech,fortressbiotech.com
+SPRO,Spero Therapeutics,sperotherapeutics.com
+CING,Cingulate,cingulate.com
+OKYO,OKYO Pharma,okyopharma.com
+MAIA,MAIA Biotechnology,maiabiotech.com
+TENX,Tenax Therapeutics,tenax.com
+RNTX,Rein Therapeutics,reintx.com
+DRIO,DarioHealth,dariohealth.com
+PLRX,Pliant Therapeutics,pliantrx.com
+ACET,Adicet Bio,adicetbio.com
+XBIT,XBiotech,xbiotech.com
+CSBR,Champions Oncology,championsoncology.com
+HYFT,MindWalk,mindwalk.ai
+VISK,Viskase,viskase.com
+FRMM,Forum Markets,forum-markets.com
+HRTX,Heron Therapeutics,herontx.com
+INKT,MiNK Therapeutics,minktherapeutics.com
+SGMOQ,Sangamo Therapeutics,sangamo.com
+KLRS,Kalaris Therapeutics,kalaristx.com
+TLPH,Talphera,talphera.com
+AURX,Nuo Therapeutics,nuot.com
+NMAD,Nomad Power Solutions,nomadpower.com
+ELOX,Eloxx Pharmaceuticals,eloxxpharma.com
+MREO,Mereo BioPharma,mereobiopharma.com
+MDXH,MDxHealth,mdxhealth.com
+XLO,Xilio Therapeutics,xiliotx.com
+CLNN,Clene,clene.com
+HYPD,Hyperion DeFi,hyperiondefi.com
+POSC,Positron,positron.com
+CIRC,Circle8 Group,circle8group.com
+OM,Outset Medical,outsetmedical.com
+BOLD,Boundless Bio,boundlessbio.com
+ANVS,Annovis Bio,annovisbio.com
+INMB,INmune Bio,inmunebio.com
+BSEM,BioStem Technologies,biostemtechnologies.com
+TELA,TELA Bio,telabio.com
+COCH,Envoy Medical,envoymedical.com
+NNOX,Nano-X Imaging,nanox.vision
+CVRX,CVRx,cvrx.com
+IMA,ImageneBio,imagenebio.com
+MDAI,Spectral AI,spectral-ai.com
+XTNT,Xtant Medical,xtantmedical.com
