@@ -1,0 +1,843 @@
+First Name,Last Name,Title,Company,Ticker,Confidence
+Kenneth,Galbraith,"Chair, President & Chief Executive Officer",Zymeworks Inc.,ZYME,high
+Kristin,Stafford,Executive Vice President & Chief Financial Officer,Zymeworks Inc.,ZYME,high
+Bernd,Brust,Chief Executive Officer,"Maravai LifeSciences Holdings, Inc.",MRVI,high
+Rajesh,Asarpota,Executive Vice President & Chief Financial Officer,"Maravai LifeSciences Holdings, Inc.",MRVI,high
+Michael,Severino,Chief Executive Officer,"Sarepta Therapeutics, Inc.",SRPT,high
+Ryan,Wong,Executive Vice President & Chief Financial Officer,"Sarepta Therapeutics, Inc.",SRPT,high
+Bassil,Dahiyat,President & Chief Executive Officer,"Xencor, Inc.",XNCR,high
+Bart,Cornelissen,Senior Vice President & Chief Financial Officer,"Xencor, Inc.",XNCR,high
+Travis,Murdoch,Chief Executive Officer,"Braveheart Bio, Inc.",BRVE,high
+Paul,Rickey,Chief Financial Officer,"Braveheart Bio, Inc.",BRVE,medium
+Michael,Nally,Chief Executive Officer,"Generate Biomedicines, Inc.",GENB,high
+Jason,Silvers,President & Chief Financial Officer,"Generate Biomedicines, Inc.",GENB,high
+Roderick,de Greef,Chairman & Chief Executive Officer,"BioLife Solutions, Inc.",BLFS,high
+Troy,Wichterman,Chief Financial Officer,"BioLife Solutions, Inc.",BLFS,high
+George,LeMaitre,Chairman & Chief Executive Officer,"LeMaitre Vascular, Inc.",LMAT,medium
+Dorian,LeBlanc,Chief Financial Officer,"LeMaitre Vascular, Inc.",LMAT,medium
+Peter,Caldini,Chief Executive Officer,Establishment Labs Holdings Inc.,ESTA,high
+Sandra,Harris,Senior Vice President & Chief Financial Officer,Establishment Labs Holdings Inc.,ESTA,high
+Marianne,De Backer,President & Chief Executive Officer,"Vir Biotechnology, Inc.",VIR,high
+Brent,Sabatini,"Interim Principal Financial Officer & SVP, Chief Accounting Officer","Vir Biotechnology, Inc.",VIR,medium
+Frank,Leonard,Chief Executive Officer,NovoCure Limited,NVCR,high
+Christoph,Brackmann,Chief Financial Officer,NovoCure Limited,NVCR,high
+Jeffrey,Finer,Chief Executive Officer,"Septerna, Inc.",SEPN,medium
+Gil,Labrucherie,Chief Financial Officer,"Septerna, Inc.",SEPN,medium
+Sean,McClain,"Founder, Chief Executive Officer",Absci Corporation,ABSI,high
+Zach,Jonasson,Chief Financial Officer & Chief Business Officer,Absci Corporation,ABSI,high
+John,Jacobs,President & Chief Executive Officer,"Novavax, Inc.",NVAX,high
+Jim,Kelly,"Executive Vice President, Chief Financial Officer & Treasurer","Novavax, Inc.",NVAX,high
+Leon,Moulder,"Founder, Chief Executive Officer & Chairman","Zenas BioPharma, Inc.",ZBIO,high
+Joseph,Farmer,"President, Chief Operating Officer & Interim Principal Financial Officer","Zenas BioPharma, Inc.",ZBIO,high
+Kabir,Nath,Chief Executive Officer,COMPASS Pathways Plc - American Depository Shares,CMPS,medium
+Teri,Loxam,Chief Financial Officer,COMPASS Pathways Plc - American Depository Shares,CMPS,medium
+John,Shannon,Chairman & Chief Executive Officer,"Xeris Biopharma Holdings, Inc.",XERS,high
+Steven,Pieper,Chief Financial Officer,"Xeris Biopharma Holdings, Inc.",XERS,high
+Simon,Campion,President & Chief Executive Officer,DENTSPLY SIRONA Inc.,XRAY,medium
+Matthew,Garth,Executive Vice President & Chief Financial Officer,DENTSPLY SIRONA Inc.,XRAY,high
+Brian,Webster,"Founder, President & Chief Executive Officer","Kestra Medical Technologies, Ltd.",KMTS,high
+Vaseem,Mahboob,Chief Financial Officer,"Kestra Medical Technologies, Ltd.",KMTS,high
+Matthew,Kapusta,Chief Executive Officer,uniQure N.V.,QURE,high
+Christian,Klemt,Chief Financial Officer,uniQure N.V.,QURE,medium
+Aaron,Elliott,Chief Executive Officer,"Freenome, Inc.",FRNM,high
+Linh,Le,Chief Financial Officer,"Freenome, Inc.",FRNM,high
+Ian,Smith,Chief Executive Officer,"Stoke Therapeutics, Inc.",STOK,high
+Tommy,Leggett,Chief Financial Officer,"Stoke Therapeutics, Inc.",STOK,high
+Pravin,Dugel,"Executive Chairman, President & Chief Executive Officer","Ocular Therapeutix, Inc.",OCUL,high
+Jason,Robins,Chief Financial Officer,"Ocular Therapeutix, Inc.",OCUL,medium
+John,Leonard,President & Chief Executive Officer,"Intellia Therapeutics, Inc.",NTLA,high
+Edward,Dulac,"Executive Vice President, Chief Financial Officer & Treasurer","Intellia Therapeutics, Inc.",NTLA,high
+Nikhil,Lalwani,President & Chief Executive Officer,"ANI Pharmaceuticals, Inc.",ANIP,high
+Stephen,Carey,Senior Vice President & Chief Financial Officer,"ANI Pharmaceuticals, Inc.",ANIP,high
+Michael,Metzger,Chief Executive Officer,"Syndax Pharmaceuticals, Inc.",SNDX,high
+Keith,Goldan,Chief Financial Officer,"Syndax Pharmaceuticals, Inc.",SNDX,high
+Velichka,Valcheva,Chief Executive Officer,GH Research PLC,GHRS,high
+Julie,Ryan,Vice President of Finance (CFO not confirmed),GH Research PLC,GHRS,low
+Sean,Nolan,Chief Executive Officer,"Taysha Gene Therapies, Inc.",TSHA,medium
+Kamran,Alam,Chief Financial Officer,"Taysha Gene Therapies, Inc.",TSHA,medium
+Patrick,Miles,Chairman & Chief Executive Officer,"Alphatec Holdings, Inc.",ATEC,medium
+Todd,Koning,Executive Vice President & Chief Financial Officer,"Alphatec Holdings, Inc.",ATEC,medium
+Bahija,Jallal,Chief Executive Officer,Immunocore Holdings plc,IMCR,medium
+Travis,Coy,"EVP, Chief Financial Officer and Head of Corporate Development",Immunocore Holdings plc,IMCR,high
+Abraham,Ceesay,Chief Executive Officer,"Rapport Therapeutics, Inc.",RAPP,high
+Troy,Ignelzi,Chief Financial Officer,"Rapport Therapeutics, Inc.",RAPP,high
+Sean,Brynjelsen,Chief Executive Officer,"Eton Pharmaceuticals, Inc.",ETON,high
+Judith,Matthews,"EVP, Accounting and Finance and Chief Financial Officer","Eton Pharmaceuticals, Inc.",ETON,high
+Mark,Lappe,Chief Executive Officer,"Inhibrx Biosciences, Inc.",INBX,medium
+Kelly,Deck,Chief Financial Officer,"Inhibrx Biosciences, Inc.",INBX,medium
+Jason,Coloma,Chief Executive Officer,"Maze Therapeutics, Inc.",MAZE,high
+Misbah,Tahir,Chief Financial Officer,"Maze Therapeutics, Inc.",MAZE,high
+Pavel,Raifeld,Chief Executive Officer,"Innoviva, Inc.",INVA,medium
+Stephen,Basso,Chief Financial Officer,"Innoviva, Inc.",INVA,medium
+Daniel,Faga,President & Chief Executive Officer,"AnaptysBio, Inc.",ANAB,high
+Christopher,Murphy,Chief Financial Officer,"AnaptysBio, Inc.",ANAB,high
+Todd,Harris,Chief Executive Officer,"Tyra Biosciences, Inc.",TYRA,high
+Alan,Fuhrman,Chief Financial Officer,"Tyra Biosciences, Inc.",TYRA,medium
+Benny,Sorensen,President & Chief Executive Officer,"Hemab Therapeutics Holdings, Inc.",COAG,high
+Mads,Behrndt,Chief Financial Officer,"Hemab Therapeutics Holdings, Inc.",COAG,medium
+Emil,Kakkis,"Chairman, CEO and President",Ultragenyx Pharmaceutical Inc.,RARE,high
+Howard,Horn,EVP & Chief Financial Officer,Ultragenyx Pharmaceutical Inc.,RARE,high
+Ron,Renaud,President & Chief Executive Officer,"Kailera Therapeutics, Inc.",KLRA,high
+Doug,Pagan,Chief Financial Officer,"Kailera Therapeutics, Inc.",KLRA,high
+Zhengbin,Yao,Chairman & Chief Executive Officer,"ArriVent BioPharma, Inc.",AVBP,medium
+Winston,Kung,Chief Financial Officer and Treasurer,"ArriVent BioPharma, Inc.",AVBP,medium
+Jonathan,Violin,President & Chief Executive Officer,"Korsana Biosciences, Inc.",KRSA,high
+Mark,Vignola,Chief Financial Officer,"Korsana Biosciences, Inc.",KRSA,high
+Jacob,Chacko,President & Chief Executive Officer,"Oric Pharmaceuticals, Inc.",ORIC,medium
+Dominic,Piscitelli,Chief Financial Officer,"Oric Pharmaceuticals, Inc.",ORIC,medium
+Daniel,Bendheim,"President & Chief Executive Officer (effective July 1, 2026)",Phibro Animal Health Corporation,PAHC,high
+Glenn,David,Chief Financial Officer,Phibro Animal Health Corporation,PAHC,medium
+Gregory,Demopulos,Chairman & Chief Executive Officer,Omeros Corporation,OMER,high
+David,Borges,"VP Finance, Chief Accounting Officer & Treasurer (no CFO named)",Omeros Corporation,OMER,medium
+Patrick,Beyer,President & Chief Executive Officer,CONMED Corporation,CNMD,high
+John,Gallagher,Chief Financial Officer,CONMED Corporation,CNMD,high
+Harpreet,Singh,Chief Executive Officer,Immatics N.V.,IMTX,medium
+Venkat,Ramanan,Chief Financial Officer,Immatics N.V.,IMTX,high
+Tassos,Gianakakos,Chief Executive Officer,"Kardigan, Inc.",KARD,high
+Brianne,Jahn,Chief Financial Officer,"Kardigan, Inc.",KARD,high
+Jennifer,Jarrett,President & Chief Executive Officer,"Damora Therapeutics, Inc.",DMRA,high
+Brian,Burkavage,"Principal Financial Officer; SVP, Finance","Damora Therapeutics, Inc.",DMRA,medium
+Daniel,Faga,President & Chief Executive Officer,"First Tracks Biotherapeutics, Inc.",TRAX,high
+Ajim,Tamboli,Chief Financial Officer,"First Tracks Biotherapeutics, Inc.",TRAX,high
+Stuart,Essig,"Chairman, President & Chief Executive Officer",Integra LifeSciences Holdings Corporation,IART,high
+Lea,Knight,Executive Vice President & Chief Financial Officer,Integra LifeSciences Holdings Corporation,IART,medium
+Sushil,Patel,Chief Executive Officer,"Replimune Group, Inc.",REPL,high
+Emily,Hill,Chief Financial Officer,"Replimune Group, Inc.",REPL,high
+Heather,Turner,Chief Executive Officer,LB Pharmaceuticals Inc,LBRX,medium
+Joseph,Miller,Chief Financial Officer,LB Pharmaceuticals Inc,LBRX,medium
+Lyn,Baranowski,President & Chief Executive Officer,Avalyn Pharma Inc.,AVLN,medium
+Douglas,Carlson,Chief Financial Officer & Chief Business Officer,Avalyn Pharma Inc.,AVLN,medium
+Claire,Mazumdar,Chief Executive Officer,Bicara Therapeutics Inc.,BCAX,high
+Jenn,Larson,Chief Financial Officer,Bicara Therapeutics Inc.,BCAX,high
+Mark,Baum,Chief Executive Officer,"Harrow, Inc.",HROW,high
+Andrew,Boll,"President, Chief Financial Officer & Corporate Secretary","Harrow, Inc.",HROW,high
+Michael,Castagna,Chief Executive Officer,MannKind Corporation,MNKD,high
+Chris,Prentiss,Chief Financial Officer,MannKind Corporation,MNKD,high
+Jean-Paul,Kress,"President, Chief Executive Officer & Chairman",Vor Biopharma Inc.,VOR,medium
+Sandy,Mahatme,Chief Financial Officer & Chief Business Officer,Vor Biopharma Inc.,VOR,high
+John,Sheridan,President & Chief Executive Officer,"Tandem Diabetes Care, Inc.",TNDM,high
+Leigh,Vosseller,"Executive Vice President, Chief Financial Officer & Treasurer","Tandem Diabetes Care, Inc.",TNDM,high
+Robert,Claypoole,President & Chief Executive Officer,Bioventus Inc.,BVS,high
+Mark,Singleton,Senior Vice President & Chief Financial Officer,Bioventus Inc.,BVS,high
+Nima,Farzan,Chief Executive Officer,"Latigo Biotherapeutics, Inc.",LTGO,high
+Neha,Krishnamohan,Chief Financial Officer & Chief Business Officer,"Latigo Biotherapeutics, Inc.",LTGO,high
+Warren,Foust,"President, Chief Executive Officer",STAAR Surgical Company,STAA,medium
+Deborah,Andrews,Executive Vice President & Chief Financial Officer,STAAR Surgical Company,STAA,medium
+Jack,Zhang,Chief Executive Officer & President,"Amphastar Pharmaceuticals, Inc.",AMPH,medium
+William,Peters,"Chief Financial Officer, Executive Vice President of Finance & Treasurer","Amphastar Pharmaceuticals, Inc.",AMPH,medium
+Patrick,MacKin,"Chairman, President & Chief Executive Officer","Artivion, Inc.",AORT,high
+Lance,Berry,"Executive Vice President, Chief Operating Officer & Chief Financial Officer","Artivion, Inc.",AORT,high
+Gary,Glick,Chief Executive Officer,"Odyssey Therapeutics, Inc.",ODTX,medium
+Jason,Haas,Chief Financial Officer,"Odyssey Therapeutics, Inc.",ODTX,medium
+Roger,Susi,President & Chief Executive Officer,iRadimed Corporation,IRMD,medium
+John,Glenn,Chief Financial Officer & Corporate Secretary,iRadimed Corporation,IRMD,medium
+Zandy,Forbes,President & Chief Executive Officer,MeiraGTx Holdings plc,MGTX,high
+Richard,Giroux,Chief Operating Officer & Chief Financial Officer,MeiraGTx Holdings plc,MGTX,high
+Matthew,Roden,President & Chief Executive Officer,"Aktis Oncology, Inc.",AKTS,medium
+Kyle,Kuvalanka,Chief Financial Officer,"Aktis Oncology, Inc.",AKTS,medium
+Derek,Maetzold,"Founder, President & Chief Executive Officer","Castle Biosciences, Inc.",CSTL,high
+Frank,Stokes,Chief Financial Officer,"Castle Biosciences, Inc.",CSTL,high
+David,Campbell,"Founder, President & Chief Executive Officer","Janux Therapeutics, Inc.",JANX,high
+Tighe,Reardon,Acting Chief Financial Officer,"Janux Therapeutics, Inc.",JANX,medium
+Matthew,Pauls,Chair & Chief Executive Officer,"Savara, Inc.",SVRA,high
+Robert,Lutz,Chief Operating & Financial Officer,"Savara, Inc.",SVRA,high
+Larry,Wood,President & Chief Executive Officer,PROCEPT BioRobotics Corporation,PRCT,medium
+Kevin,Waters,Executive Vice President & Chief Financial Officer,PROCEPT BioRobotics Corporation,PRCT,medium
+Sean,Saint,"President, Chief Executive Officer",Beta Bionics Inc.,BBNX,medium
+Stephen,Feider,Chief Financial Officer,Beta Bionics Inc.,BBNX,medium
+Damien,McDonald,Chief Executive Officer,Enovis Corporation,ENOV,high
+Ben,Berry,Senior Vice President & Chief Financial Officer,Enovis Corporation,ENOV,medium
+Amit,Etkin,"Founder, President, CEO & Chairman","Alto Neuroscience, Inc.",ANRO,medium
+Nick,Smith,President & Chief Financial Officer,"Alto Neuroscience, Inc.",ANRO,medium
+Daphne,Zohar,Founder & Chief Executive Officer,"Seaport Therapeutics, Inc.",SPTX,high
+Lauren,White,Chief Financial Officer,"Seaport Therapeutics, Inc.",SPTX,medium
+Markus,Warmuth,Chief Executive Officer,"Monte Rosa Therapeutics, Inc.",GLUE,medium
+Ajim,Tamboli,Chief Financial Officer,"Monte Rosa Therapeutics, Inc.",GLUE,medium
+Jorge,Santos da Silva,Chief Executive Officer,MoonLake Immunotherapeutics,MLTX,medium
+Matthias,Bodenstedt,Chief Financial Officer,MoonLake Immunotherapeutics,MLTX,medium
+Frank,Lee,Chief Executive Officer,"Pacira BioSciences, Inc.",PCRX,high
+Shawn,Cross,Chief Financial Officer,"Pacira BioSciences, Inc.",PCRX,high
+Nadim,Ahmed,President & Chief Executive Officer,"Cullinan Therapeutics, Inc.",CGEM,medium
+Mary Kay,Fenton,Chief Financial Officer,"Cullinan Therapeutics, Inc.",CGEM,medium
+Martin,Babler,"Chairman, President & Chief Executive Officer",Alumis Inc.,ALMS,high
+John,Schroer,Chief Financial Officer,Alumis Inc.,ALMS,high
+Richard,Miller,"Co-Founder, President & Chief Executive Officer","Corvus Pharmaceuticals, Inc.",CRVS,medium
+Leiv,Lea,Chief Financial Officer,"Corvus Pharmaceuticals, Inc.",CRVS,medium
+Lindsay,Androski,"President, Chief Executive Officer & Chairperson",Arbutus Biopharma Corporation,ABUS,high
+Tuan,Nguyen,Chief Financial Officer,Arbutus Biopharma Corporation,ABUS,high
+Troy,Wilson,President & Chief Executive Officer,"Kura Oncology, Inc.",KURA,medium
+Jennifer,Fulk,Chief Financial Officer,"Kura Oncology, Inc.",KURA,high
+Jane,Chao,Co-Founder & Chief Executive Officer,"CeriBell, Inc.",CBLL,high
+Scott,Blumberg,Chief Financial Officer,"CeriBell, Inc.",CBLL,high
+Kevin,Lind,Chief Executive Officer,"Apnimed, Inc.",APMD,high
+Michael,Kelly,Chief Financial Officer,"Apnimed, Inc.",APMD,medium
+Tom,Frohlich,Chief Executive Officer,"Jade Biosciences, Inc.",JBIO,medium
+Brad,Dahms,Chief Financial Officer,"Jade Biosciences, Inc.",JBIO,medium
+Raul,Rodriguez,President & Chief Executive Officer,"Rigel Pharmaceuticals, Inc.",RIGL,high
+Dean,Schorno,Executive Vice President & Chief Financial Officer,"Rigel Pharmaceuticals, Inc.",RIGL,high
+Michael,Lau,Chief Executive Officer,Anbio Biotechnology,NNNN,medium
+Suki,Song,Chief Financial Officer,Anbio Biotechnology,NNNN,medium
+Madan,Jagasia,"President, Chief Executive Officer & Director","Obsidian Therapeutics, Inc.",OBX,medium
+Julie,Feder,Chief Financial Officer,"Obsidian Therapeutics, Inc.",OBX,medium
+Patrick,Mooney,Chief Executive Officer,"SpyGlass Pharma, Inc.",SGP,medium
+Jean-Frederic,Viret,Chief Financial Officer,"SpyGlass Pharma, Inc.",SGP,medium
+Steven,Harr,President & Chief Executive Officer,"Sana Biotechnology, Inc.",SANA,high
+Brian,Piper,Executive Vice President & Chief Financial Officer,"Sana Biotechnology, Inc.",SANA,medium
+Mike,Exton,Chief Executive Officer,"Lexicon Pharmaceuticals, Inc.",LXRX,medium
+Scott,Coiante,Senior Vice President & Chief Financial Officer,"Lexicon Pharmaceuticals, Inc.",LXRX,medium
+Michael,Raab,Chief Executive Officer & Chairman,"Ardelyx, Inc.",ARDX,high
+Sue,Hohenleitner,Chief Financial Officer,"Ardelyx, Inc.",ARDX,high
+Laura,Francis,Chief Executive Officer,"SI-BONE, Inc.",SIBN,high
+Anshul,Maheshwari,Chief Operating Officer & Chief Financial Officer,"SI-BONE, Inc.",SIBN,high
+Andrew,Goldberg,Chief Executive Officer,"Achieve Life Sciences, Inc.",ACHV,high
+Mark,Oki,Chief Financial Officer,"Achieve Life Sciences, Inc.",ACHV,high
+Paul-Peter,Tak,President & Chief Executive Officer,"Candel Therapeutics, Inc.",CADL,medium
+Charles,Schoch,Chief Financial Officer,"Candel Therapeutics, Inc.",CADL,medium
+Garry,Neil,Chief Executive Officer,"Avalo Therapeutics, Inc.",AVTX,high
+Christopher,Sullivan,Chief Financial Officer,"Avalo Therapeutics, Inc.",AVTX,high
+Moshe,Mizrahy,Chief Executive Officer,InMode Ltd.,INMD,medium
+Moshik,Itzkovich,Chief Financial Officer,InMode Ltd.,INMD,medium
+Douglas,Love,President & Chief Executive Officer,"Annexon, Inc.",ANNX,medium
+Jennifer,Lew,Executive Vice President & Chief Financial Officer,"Annexon, Inc.",ANNX,medium
+Tao,Fu,Chief Executive Officer,"Attovia Therapeutics, Inc.",ATTO,medium
+Steven,Chan,Chief Financial Officer,"Attovia Therapeutics, Inc.",ATTO,medium
+Alexander,Cumbo,President & Chief Executive Officer,Solid Biosciences Inc.,SLDB,medium
+Kevin,Tan,Chief Financial Officer,Solid Biosciences Inc.,SLDB,medium
+Harout,Semerjian,President & Chief Executive Officer,Geron Corporation,GERN,high
+Michelle,Robertson,"EVP, Chief Financial Officer & Treasurer",Geron Corporation,GERN,medium
+Pratik,Shah,Chairperson & Chief Executive Officer,"Design Therapeutics, Inc.",DSGN,high
+Julie,Burgess,Chief Accounting Officer,"Design Therapeutics, Inc.",DSGN,medium
+Sunny,Sanyal,President & Chief Executive Officer,Varex Imaging Corporation,VREX,medium
+Shubham,Maheshwari,Chief Financial Officer,Varex Imaging Corporation,VREX,medium
+Neal,Walker,Chief Executive Officer,"Aclaris Therapeutics, Inc.",ACRS,medium
+Kevin,Balthaser,Chief Financial Officer,"Aclaris Therapeutics, Inc.",ACRS,medium
+David,Kirn,Chief Executive Officer,"4D Molecular Therapeutics, Inc.",FDMT,medium
+Kristian,Humer,Chief Financial Officer,"4D Molecular Therapeutics, Inc.",FDMT,medium
+Ying,Luo,President & Chief Executive Officer,"Gyre Therapeutics, Inc.",GYRE,medium
+Thomas,Eastling,Chief Financial Officer,"Gyre Therapeutics, Inc.",GYRE,medium
+Ilya,Rachman,Chief Scientific Officer & Chairman,"Immix Biopharma, Inc.",IMMX,medium
+Gabriel,Morris,President & Chief Financial Officer,"Immix Biopharma, Inc.",IMMX,medium
+Anand,Parikh,"Chairman, President & Chief Executive Officer","Faeth Therapeutics, Inc.",FTH,medium
+Brian,Stephenson,Chief Financial Officer,"Faeth Therapeutics, Inc.",FTH,medium
+Sean,Bohen,Chief Executive Officer,"Olema Pharmaceuticals, Inc.",OLMA,medium
+Jason,O'Byrne,Chief Financial Officer,"Olema Pharmaceuticals, Inc.",OLMA,medium
+Wenbin,Jiang,Chief Executive Officer,"Cytek Biosciences, Inc.",CTKB,medium
+William,McCombe,Chief Financial Officer,"Cytek Biosciences, Inc.",CTKB,medium
+Wayne,Paterson,Chief Executive Officer,Anteris Technologies Global Corp.,AVR,medium
+Brent,Moen,Chief Financial Officer,Anteris Technologies Global Corp.,AVR,medium
+Dan,Paterson,President & Chief Executive Officer,"Verastem, Inc.",VSTM,medium
+Dan,Calkins,Chief Financial Officer,"Verastem, Inc.",VSTM,medium
+Kathy,Dong,President & Chief Executive Officer,"Electra Therapeutics, Inc.",ETRA,high
+Chris,Clark,Chief Financial Officer,"Electra Therapeutics, Inc.",ETRA,high
+Siddhartha,Kadia,President & Chief Executive Officer,"Mesa Laboratories, Inc.",MLAB,high
+John,Sakys,Chief Financial Officer,"Mesa Laboratories, Inc.",MLAB,medium
+Paul,Bolno,President & Chief Executive Officer,"Wave Life Sciences, Inc.",WVE,medium
+Kyle,Moran,Chief Financial Officer,"Wave Life Sciences, Inc.",WVE,medium
+Taylor,Schreiber,Chief Executive Officer,"Shattuck Labs, Inc.",STTK,medium
+Andrew,Neill,Chief Financial Officer,"Shattuck Labs, Inc.",STTK,medium
+Vikram,Karnani,President & Chief Executive Officer,"Collegium Pharmaceutical, Inc.",COLL,medium
+Colleen,Tupper,Chief Financial Officer,"Collegium Pharmaceutical, Inc.",COLL,medium
+Mark,Van Oene,President & Chief Executive Officer,"Pacific Biosciences of California, Inc.",PACB,high
+Jim,Gibson,Chief Financial Officer,"Pacific Biosciences of California, Inc.",PACB,high
+Brian,Blaser,President & Chief Executive Officer,QuidelOrtho Corporation,QDEL,medium
+Micah,Young,Chief Financial Officer,QuidelOrtho Corporation,QDEL,high
+Ron,Bentsur,Chairman & Chief Executive Officer,"Nuvectis Pharma, Inc.",NVCT,high
+Michael,Carson,Vice President of Finance & Principal Financial Officer,"Nuvectis Pharma, Inc.",NVCT,medium
+Joseph,Capper,Chief Executive Officer,"MiMedx Group, Inc",MDXG,medium
+Doug,Rice,Chief Financial Officer,"MiMedx Group, Inc",MDXG,medium
+Aoife,Brennan,President & Chief Executive Officer,"Climb Bio, Inc.",CLYM,high
+Susan,Altschuller,Chief Financial Officer,"Climb Bio, Inc.",CLYM,high
+Thomas,McCourt,Chief Executive Officer,"Ironwood Pharmaceuticals, Inc.",IRWD,medium
+Ron,Silver,Interim Chief Financial Officer,"Ironwood Pharmaceuticals, Inc.",IRWD,medium
+Neil,McFarlane,President & Chief Executive Officer,"Zevra Therapeutics, Inc.",ZVRA,high
+Justin,Renz,Chief Financial Officer,"Zevra Therapeutics, Inc.",ZVRA,high
+Natalie,Holles,Chief Executive Officer,"Aura Biosciences, Inc.",AURA,medium
+Tony,Gibney,Chief Financial & Business Officer,"Aura Biosciences, Inc.",AURA,medium
+Jim,Clemmer,President & Chief Executive Officer,"AngioDynamics, Inc.",ANGO,high
+Stephen,Trowbridge,Executive Vice President & Chief Financial Officer,"AngioDynamics, Inc.",ANGO,high
+Joseph,Todisco,Chairman & Chief Executive Officer,CorMedix Inc.,CRMD,high
+Susan,Blum,EVP & Chief Financial Officer,CorMedix Inc.,CRMD,high
+Jingrong Jean,Cui,Chief Executive Officer,"BlossomHill Therapeutics, Inc.",BLSM,medium
+Jason,Keyes,Chief Financial Officer & Executive Vice President,"BlossomHill Therapeutics, Inc.",BLSM,medium
+David,Happel,Chief Executive Officer,Sagimet Biosciences Inc. - Series A,SGMT,medium
+Thierry,Chauche,Chief Financial Officer,Sagimet Biosciences Inc. - Series A,SGMT,medium
+Steven,Basta,President & Chief Executive Officer,"Phathom Pharmaceuticals, Inc.",PHAT,high
+Sanjeev,Narula,Chief Financial & Business Officer,"Phathom Pharmaceuticals, Inc.",PHAT,medium
+Sean,McCarthy,Chief Executive Officer & Chairman,"CytomX Therapeutics, Inc.",CTMX,medium
+Chris,Ogden,Chief Financial Officer,"CytomX Therapeutics, Inc.",CTMX,high
+Daniel,Barber,Chief Executive Officer,"Aquestive Therapeutics, Inc.",AQST,medium
+Ernie,Toth,Chief Financial Officer,"Aquestive Therapeutics, Inc.",AQST,medium
+David,Bailey,President & Chief Executive Officer,OrthoPediatrics Corp.,KIDS,high
+Fred,Hite,Chief Financial Officer & Chief Operating Officer,OrthoPediatrics Corp.,KIDS,high
+Jerome,Durso,"President, Chief Executive Officer & Chairman","Altimmune, Inc.",ALT,high
+Gregory,Weaver,Chief Financial Officer,"Altimmune, Inc.",ALT,high
+Rachel,McMinn,Chief Executive Officer,Neurogene Inc.,NGNE,high
+Christine,Mikail,President & Chief Financial Officer,Neurogene Inc.,NGNE,high
+Linda,Marban,Chief Executive Officer,"Capricor Therapeutics, Inc.",CAPR,high
+AJ,Bergmann,Chief Financial Officer,"Capricor Therapeutics, Inc.",CAPR,high
+Allan,Reine,Chief Executive Officer,"Prime Medicine, Inc.",PRME,medium
+Svetlana,Makhni,Chief Financial Officer,"Prime Medicine, Inc.",PRME,medium
+Zachary,Roberts,President & Chief Executive Officer,"Allogene Therapeutics, Inc.",ALLO,medium
+Geoffrey,Parker,Executive Vice President & Chief Financial Officer,"Allogene Therapeutics, Inc.",ALLO,medium
+Sudhir,Srivastava,Chairman & Chief Executive Officer,SS Innovations International Inc.,SSII,medium
+Sarah,Romano,Chief Financial Officer,SS Innovations International Inc.,SSII,medium
+Gerard,Michel,Chief Executive Officer,"Delcath Systems, Inc.",DCTH,medium
+Sandra,Pennell,Chief Financial Officer,"Delcath Systems, Inc.",DCTH,medium
+Chandler,Robinson,Chief Executive Officer,Monopar Therapeutics Inc.,MNPR,medium
+Quan,Vu,Chief Financial Officer,Monopar Therapeutics Inc.,MNPR,medium
+Joshua,Brumm,Chief Executive Officer,"Crescent Biopharma, Inc.",CBIO,high
+Rick,Scalzo,Chief Financial Officer,"Crescent Biopharma, Inc.",CBIO,high
+Christopher,Kroeger,Chief Executive Officer,"MapLight Therapeutics, Inc.",MPLT,high
+Vishwas,Setia,Chief Financial Officer,"MapLight Therapeutics, Inc.",MPLT,high
+Ethan,Shen,Chief Executive Officer & Chairman,YD Bio Limited,YDES,medium
+Edmund,Hen,Chief Financial Officer,YD Bio Limited,YDES,medium
+David,Moatazedi,President & Chief Executive Officer,"Evolus, Inc. Common Stock",EOLS,medium
+Tatjana,Mitchell,Chief Financial Officer,"Evolus, Inc. Common Stock",EOLS,high
+Paul,Badawi,Chief Executive Officer,"Sight Sciences, Inc.",SGHT,high
+Jim,Rodberg,Chief Financial Officer,"Sight Sciences, Inc.",SGHT,high
+Tim,Knotnerus,Chief Executive Officer,AgomAb Therapeutics NV,AGMB,high
+Pierre,Kemula,Chief Financial Officer,AgomAb Therapeutics NV,AGMB,high
+Randy,Teel,President & Chief Executive Officer,"Arvinas, Inc.",ARVN,medium
+Andrew,Saik,Chief Financial Officer,"Arvinas, Inc.",ARVN,medium
+Alan,Auerbach,"Chairman, CEO & President",Puma Biotechnology Inc,PBYI,medium
+Maximo,Nougues,Chief Financial Officer,Puma Biotechnology Inc,PBYI,medium
+Kevin,Knopp,President & Chief Executive Officer,908 Devices Inc.,MASS,high
+Joseph,Griffith,Chief Financial Officer,908 Devices Inc.,MASS,high
+Sheri,Dodd,Chief Executive Officer,"Tactile Systems Technology, Inc.",TCMD,medium
+Elaine,Birkemeyer,Chief Financial Officer,"Tactile Systems Technology, Inc.",TCMD,medium
+Curran,Simpson,President & CEO,REGENXBIO Inc.,RGNX,medium
+Mitchell,Chan,"EVP, Chief Financial Officer & Treasurer",REGENXBIO Inc.,RGNX,medium
+Meg,Alexander,Chief Executive Officer,Ovid Therapeutics Inc.,OVID,medium
+Charles,Carter,Chief Financial Officer,Ovid Therapeutics Inc.,OVID,medium
+Bruce,Culleton,Chief Executive Officer,ProKidney Corp.,PROK,medium
+James,Coulston,Chief Financial Officer,ProKidney Corp.,PROK,medium
+Miranda,Toledano,Chief Executive Officer,Entera Bio Ltd.,ENTX,medium
+Ronnie,Yaacov-Garbeli,Chief Financial Officer,Entera Bio Ltd.,ENTX,medium
+Christian,Itin,Chief Executive Officer,Autolus Therapeutics plc,AUTL,medium
+Robert,Dolski,Chief Financial Officer,Autolus Therapeutics plc,AUTL,medium
+Vivek,Jayaraman,President & CEO,Cerus Corporation,CERS,medium
+Kevin,Green,VP Finance & Chief Financial Officer,Cerus Corporation,CERS,medium
+Amir,London,Chief Executive Officer,Kamada Ltd.,KMDA,medium
+Chaime,Orlev,Chief Financial Officer,Kamada Ltd.,KMDA,medium
+Carmine,Stengone,"President, CEO & Director","Contineum Therapeutics, Inc.",CTNM,medium
+Peter,Slover,Chief Financial Officer,"Contineum Therapeutics, Inc.",CTNM,medium
+Jason,Okazaki,President & CEO,"Assembly Biosciences, Inc.",ASMB,high
+Jeanette,Bjorkquist,Principal Financial Officer (CFO),"Assembly Biosciences, Inc.",ASMB,medium
+Stephen,Gunstream,President & CEO,"Alpha Teknova, Inc.",TKNO,medium
+Matthew,Lowell,Chief Financial Officer,"Alpha Teknova, Inc.",TKNO,medium
+Joel,Becker,President & CEO,"Neuropace, Inc.",NPCE,medium
+Patrick,Williams,Chief Financial Officer,"Neuropace, Inc.",NPCE,medium
+Rick,Pauls,President & CEO,DiaMedica Therapeutics Inc.,DMAC,medium
+Scott,Kellen,Chief Financial Officer,DiaMedica Therapeutics Inc.,DMAC,medium
+Garo,Armen,Chairman & CEO,Agenus Inc.,AGEN,medium
+Garo,Armen,Interim CFO (principal financial officer),Agenus Inc.,AGEN,medium
+Gene,Kinney,President & CEO,Prothena Corporation plc,PRTA,medium
+Tran,Nguyen,Chief Financial Officer,Prothena Corporation plc,PRTA,medium
+Warner,Biddle,Chief Executive Officer,"Kyverna Therapeutics, Inc.",KYTX,medium
+Greg,Martini,Chief Financial Officer,"Kyverna Therapeutics, Inc.",KYTX,medium
+Donn,Casale,CEO & Director,"ARS Pharmaceuticals, Inc.",SPRY,medium
+Kathleen,Scott,Chief Financial Officer,"ARS Pharmaceuticals, Inc.",SPRY,medium
+Roger,Perlmutter,Chairman & Chief Executive Officer,"Eikon Therapeutics, Inc.",EIKN,high
+Freddie,Bowie,Chief Financial Officer,"Eikon Therapeutics, Inc.",EIKN,high
+George,Magrath,Chief Executive Officer,"Opus Genetics, Inc.",IRD,medium
+Robert,Gagnon,Chief Financial Officer,"Opus Genetics, Inc.",IRD,medium
+Jean-Pierre,Sommadossi,"Chairman, CEO & President","Atea Pharmaceuticals, Inc.",AVIR,medium
+Andrea,Corcoran,"CFO, EVP Legal & Secretary","Atea Pharmaceuticals, Inc.",AVIR,medium
+Sam,Raha,President & CEO,"Myriad Genetics, Inc.",MYGN,medium
+Scott,Leffler,Chief Financial Officer,"Myriad Genetics, Inc.",MYGN,medium
+Nevan,Elam,CEO,"Rezolute, Inc.",RZLT,medium
+Daron,Evans,Chief Financial Officer,"Rezolute, Inc.",RZLT,medium
+Andrew,Hirsch,President & CEO,"C4 Therapeutics, Inc.",CCCC,high
+Kendra,Adams,Chief Financial Officer,"C4 Therapeutics, Inc.",CCCC,high
+Gilmore,O'Neill,President & Chief Executive Officer,"Editas Medicine, Inc.",EDIT,high
+Amy,Parison,Senior Vice President & Chief Financial Officer,"Editas Medicine, Inc.",EDIT,high
+Sergio,Traversa,Chief Executive Officer,"Relmada Therapeutics, Inc.",RLMD,medium
+Maged,Shenouda,Chief Financial Officer,"Relmada Therapeutics, Inc.",RLMD,medium
+Joel,Lewis,President & Chief Executive Officer,Galectin Therapeutics Inc.,GALT,high
+Jack,Callicutt,Chief Financial Officer,Galectin Therapeutics Inc.,GALT,high
+Robert,Ball,Chief Executive Officer & Executive Chairman,"Shoulder Innovations, Inc.",SI,medium
+Jeffrey,Points,Chief Financial Officer,"Shoulder Innovations, Inc.",SI,medium
+Bradley,Burnam,Chief Executive Officer,Turn Therapeutics Inc.,TTRX,medium
+Zuraiz,Chaudhary,Interim Chief Financial Officer,Turn Therapeutics Inc.,TTRX,medium
+Sandeep,Kulkarni,Chief Executive Officer,Zura Bio Limited,ZURA,high
+Eric,Hyllengren,Chief Financial Officer,Zura Bio Limited,ZURA,medium
+Joseph,Payne,President & Chief Executive Officer,Arcturus Therapeutics Holdings Inc.,ARCT,high
+Dennis,Mulroy,Chief Financial Officer,Arcturus Therapeutics Holdings Inc.,ARCT,high
+Massimo,Calafiore,President & Chief Executive Officer,Orthofix Medical Inc.,OFIX,medium
+Julie,Andrews,Chief Financial Officer,Orthofix Medical Inc.,OFIX,medium
+Jay,Luly,President & Chief Executive Officer,"Enanta Pharmaceuticals, Inc.",ENTA,medium
+Harry,Trout,Interim Principal Financial Officer,"Enanta Pharmaceuticals, Inc.",ENTA,medium
+Joseph,Burnett,President & Chief Executive Officer,ClearPoint Neuro Inc.,CLPT,high
+Danilo,D'Alessandro,Executive Vice President & Chief Financial Officer,ClearPoint Neuro Inc.,CLPT,high
+David,Hochman,Chairman & Chief Executive Officer,"Orchestra BioMed Holdings, Inc.",OBIO,high
+Andrew,Taylor,Chief Financial Officer,"Orchestra BioMed Holdings, Inc.",OBIO,high
+Benjamin,Oakes,Co-founder President & Chief Executive Officer,Scribe Therapeutics Inc.,SCTX,high
+David,Parrot,Chief Financial Officer,Scribe Therapeutics Inc.,SCTX,medium
+Cary,Vance,President & Chief Executive Officer,"Avita Medical, Inc.",RCEL,medium
+David,O'Toole,Chief Financial Officer,"Avita Medical, Inc.",RCEL,medium
+Craig,Parker,Chief Executive Officer & President,"Surrozen, Inc.",SRZN,medium
+Andrew,Maleki,Chief Financial Officer,"Surrozen, Inc.",SRZN,medium
+Jeffrey,Hackman,Chief Executive Officer,Fennec Pharmaceuticals Inc.,FENC,high
+Robert,Andrade,Chief Financial Officer,Fennec Pharmaceuticals Inc.,FENC,high
+Fred,Aslan,President & Chief Executive Officer,"Artiva Biotherapeutics, Inc.",ARTV,medium
+Thad,Huston,Chief Financial Officer,"Artiva Biotherapeutics, Inc.",ARTV,high
+Shankar,Musunuri,Chairman CEO & Co-Founder,"Ocugen, Inc.",OCGN,medium
+Rita,Johnson-Greene,Chief Financial Officer,"Ocugen, Inc.",OCGN,high
+Junyi,Dai,Chief Executive Officer & Chairman,"Indaptus Therapeutics, Inc.",INDP,medium
+Yu,Ding,Chief Financial Officer,"Indaptus Therapeutics, Inc.",INDP,medium
+Kang-Huai,Wang,President & Chief Executive Officer,"CapsoVision, Inc.",CV,high
+Kevin,Lundquist,Chief Financial Officer,"CapsoVision, Inc.",CV,high
+Jerel,Banks,Chief Executive Officer & Chairman,Benitec Biopharma Inc.,BNTC,high
+Megan,Boston,Chief Financial Officer,Benitec Biopharma Inc.,BNTC,high
+Joseph,Papa,President & Chief Executive Officer,Emergent BioSolutions Inc.,EBS,high
+Richard,Lindahl,EVP & Chief Financial Officer,Emergent BioSolutions Inc.,EBS,high
+James,Green,"President, Chief Executive Officer & Chairman",Vogenx Inc,VOGX,medium
+Steven,Delmar,Chief Financial Officer,Vogenx Inc,VOGX,medium
+Steven,Nichtberger,"Chief Executive Officer, President & Chairman","Cabaletta Bio, Inc.",CABA,medium
+Anup,Marda,Chief Financial Officer,"Cabaletta Bio, Inc.",CABA,medium
+Carole,Ben-Maimon,President & Chief Executive Officer,"Larimar Therapeutics, Inc.",LRMR,medium
+Michael,Celano,Chief Financial Officer,"Larimar Therapeutics, Inc.",LRMR,medium
+Kristen,Fortney,"Chief Executive Officer, President & Co-Founder","BioAge Labs, Inc.",BIOA,high
+Dov,Goldstein,Chief Financial Officer,"BioAge Labs, Inc.",BIOA,high
+Devdatt,Kurdikar,"Chairman, President & Chief Executive Officer",Embecta Corp.,EMBC,high
+Jake,Elguicze,Chief Financial Officer,Embecta Corp.,EMBC,high
+Seth,Yon,President & Chief Executive Officer,Sanara MedTech Inc.,SMTI,high
+Elizabeth,Taylor,Chief Financial Officer,Sanara MedTech Inc.,SMTI,high
+Erqi,Wang,Chief Executive Officer,JIN MEDICAL INTERNATIONAL LTD.,ZJYL,medium
+Ziqiang,Wang,Chief Financial Officer,JIN MEDICAL INTERNATIONAL LTD.,ZJYL,medium
+Kris,Vaddi,Chief Executive Officer,Prelude Therapeutics Incorporated,PRLD,high
+Bryant,Lim,Chief Financial Officer,Prelude Therapeutics Incorporated,PRLD,high
+Pedro,Beltran,Chief Executive Officer,"BridgeBio Oncology Therapeutics, Inc.",BBOT,high
+Uneek,Mehra,Chief Financial Officer,"BridgeBio Oncology Therapeutics, Inc.",BBOT,medium
+Richard,Foust,President & Chief Executive Officer,"Mobia Medical, Inc.",MOBI,medium
+Bunker,Curnes,Chief Financial Officer,"Mobia Medical, Inc.",MOBI,medium
+Brent,Pfeiffenberger,President & Chief Executive Officer,"Century Therapeutics, Inc.",IPSC,high
+Douglas,Carr,Senior Vice President Finance (Principal Financial Officer; CFO not confirmed),"Century Therapeutics, Inc.",IPSC,low
+Johan,Spoor,Chief Executive Officer,"Perspective Therapeutics, Inc.",CATX,medium
+Joel,Sendek,Chief Financial Officer,"Perspective Therapeutics, Inc.",CATX,high
+Luis,Pena,"Co-Founder, President & Chief Executive Officer","Evommune, Inc.",EVMN,high
+Kyle,Carver,Chief Financial Officer,"Evommune, Inc.",EVMN,high
+Mihael,Polymeropoulos,"President, Chief Executive Officer & Chairman",Vanda Pharmaceuticals Inc.,VNDA,medium
+Kevin,Moran,"SVP, Chief Financial Officer & Treasurer",Vanda Pharmaceuticals Inc.,VNDA,medium
+Vishwas,Seshadri,Chief Executive Officer,Abeona Therapeutics Inc.,ABEO,medium
+Joseph,Vazzano,Chief Financial Officer,Abeona Therapeutics Inc.,ABEO,medium
+Samuel,Reich,Chief Executive Officer,"SAB Biotherapeutics, Inc.",SABS,medium
+Lucy,To,Chief Financial Officer,"SAB Biotherapeutics, Inc.",SABS,medium
+John,Treace,Chief Executive Officer,"Treace Medical Concepts, Inc.",TMCI,high
+Mark,Hair,Chief Financial Officer,"Treace Medical Concepts, Inc.",TMCI,high
+Jacob,Lalezari,Chief Executive Officer,CytoDyn Inc.,CYDY,high
+Robert,Hoffman,Chief Financial Officer,CytoDyn Inc.,CYDY,high
+Gaurav,Shah,Chief Executive Officer,"Rocket Pharmaceuticals, Inc.",RCKT,high
+Aaron,Ondrey,Chief Financial Officer,"Rocket Pharmaceuticals, Inc.",RCKT,medium
+Bahram,Valamehr,President & Chief Executive Officer,"Fate Therapeutics, Inc.",FATE,high
+Kamal,Adawi,Chief Financial Officer,"Fate Therapeutics, Inc.",FATE,high
+Michael,Egholm,President & Chief Executive Officer,Standard BioTools Inc.,LAB,high
+Alex,Kim,Chief Financial Officer,Standard BioTools Inc.,LAB,high
+Rand,Sutherland,Chief Executive Officer,"Upstream Bio, Inc.",UPB,medium
+Mike,Gray,Chief Financial Officer & Chief Operating Officer,"Upstream Bio, Inc.",UPB,medium
+Jay,Duker,President & Chief Executive Officer,"EyePoint, Inc.",EYPT,high
+George,Elston,"Executive Vice President, Chief Financial Officer","EyePoint, Inc.",EYPT,high
+Adam,Craig,Executive Chairman (no CEO; principal executive),"X4 Pharmaceuticals, Inc.",XFOR,medium
+David,Kirske,Chief Financial Officer,"X4 Pharmaceuticals, Inc.",XFOR,high
+Mark,Iwicki,Chief Executive Officer,"Inhibikase Therapeutics, Inc.",IKT,high
+David,McIntyre,Chief Financial Officer,"Inhibikase Therapeutics, Inc.",IKT,high
+Nolan,Townsend,Chief Executive Officer,"Lexeo Therapeutics, Inc.",LXEO,high
+Louis,Tamayo,Chief Financial Officer,"Lexeo Therapeutics, Inc.",LXEO,high
+Alex,Sapir,President & Chief Executive Officer,"Fulcrum Therapeutics, Inc.",FULC,medium
+Alan,Musso,Chief Financial Officer,"Fulcrum Therapeutics, Inc.",FULC,medium
+Snehal,Patel,Chief Executive Officer & Chief Financial Officer,"Greenwich LifeSciences, Inc.",GLSI,medium
+Richard,Kaiser,Interim Chief Executive Officer & Chief Financial Officer,"BioForce Nanosciences Holdings, Inc.",BFNH,medium
+Aaron,Berg,President & Chief Executive Officer,Amarin Corporation plc,AMRN,high
+Peter,Fishman,Chief Financial Officer,Amarin Corporation plc,AMRN,high
+Martin,Zügel,Interim Chief Executive Officer,AC Immune SA,ACIU,medium
+Christopher,Roberts,Chief Financial Officer,AC Immune SA,ACIU,medium
+Mary,Szela,President & Chief Executive Officer,"TriSalus Life Sciences, Inc.",TLSI,medium
+David,Patience,Chief Financial Officer,"TriSalus Life Sciences, Inc.",TLSI,medium
+Jane,Chung,Chief Executive Officer,"Sutro Biopharma, Inc.",STRO,high
+Gregory,Chow,Chief Financial Officer,"Sutro Biopharma, Inc.",STRO,high
+Niels,Riedemann,Chief Executive Officer,InflaRx N.V.,IFRX,high
+Thomas,Taapken,Chief Financial Officer,InflaRx N.V.,IFRX,high
+Ben,Zeskind,Co-Founder & Chief Executive Officer,Immuneering Corporation,IMRX,medium
+Andrew,Gengos,Chief Financial Officer,Immuneering Corporation,IMRX,high
+Carrie,Eglinton Manner,President & Chief Executive Officer,"OraSure Technologies, Inc.",OSUR,medium
+Kenneth,McGrath,Chief Financial Officer,"OraSure Technologies, Inc.",OSUR,high
+Kevin,Guest,Chief Executive Officer,"USANA Health Sciences, Inc.",USNA,high
+Douglas,Hekking,Chief Financial Officer,"USANA Health Sciences, Inc.",USNA,high
+Steve,Griffin,Chief Executive Officer,Anika Therapeutics Inc.,ANIK,high
+Steve,Griffin,Principal Financial Officer (CFO role vacant),Anika Therapeutics Inc.,ANIK,medium
+Julie,Eastland,"Chief Executive Officer, President","Zentalis Pharmaceuticals, Inc.",ZNTL,medium
+Melissa,Epperly,Chief Financial Officer,"Zentalis Pharmaceuticals, Inc.",ZNTL,medium
+Nasrat,Hakim,"Chairman, President & Chief Executive Officer","Elite Pharmaceuticals, Inc.",ELTP,medium
+Carter,Ward,Chief Financial Officer,"Elite Pharmaceuticals, Inc.",ELTP,medium
+Kevin,Lee,Chief Executive Officer,Bicycle Therapeutics plc,BCYC,high
+Travis,Thompson,Chief Financial Officer,Bicycle Therapeutics plc,BCYC,high
+John,Butler,"President, Chief Executive Officer","Akebia Therapeutics, Inc.",AKBA,high
+Erik,Ostrowski,"SVP, Chief Financial Officer & Chief Business Officer","Akebia Therapeutics, Inc.",AKBA,high
+Jodie,Morrison,Chief Executive Officer,Q32 Bio Inc.,QTTB,high
+Lee,Kalowski,Chief Financial Officer & President,Q32 Bio Inc.,QTTB,high
+Paul,Josephs,President & Chief Executive Officer,"Lifecore Biomedical, Inc.",LFCR,medium
+Ryan,Lake,Chief Financial Officer,"Lifecore Biomedical, Inc.",LFCR,medium
+Linda,Powers,"Chairperson, CEO, President, CFO & Chief Accounting Officer","Northwest Biotherapeutics, Inc.",NWBO,medium
+Joshua,Mandel-Brehm,"CEO, President & Director",CAMP4 Therapeutics Corporation,CAMP,medium
+Kelly,Gold,Chief Financial Officer,CAMP4 Therapeutics Corporation,CAMP,medium
+Marc,Elia,Chairman & Chief Executive Officer,"Invivyd, Inc.",IVVD,medium
+Bill,Duke,Chief Financial Officer,"Invivyd, Inc.",IVVD,high
+Eric,Risser,President & Chief Executive Officer,"MacroGenics, Inc.",MGNX,high
+James,Karrels,"SVP, Chief Financial Officer & Secretary","MacroGenics, Inc.",MGNX,high
+Dipal,Doshi,Chief Executive Officer,"Entrada Therapeutics, Inc.",TRDA,medium
+Kory,Wentworth,Chief Financial Officer & Treasurer,"Entrada Therapeutics, Inc.",TRDA,medium
+J.D.,Finley,Chief Executive Officer and Chief Financial Officer,"Palisade Bio, Inc.",PALI,medium
+Mori,Arkin,Interim Chief Executive Officer & Chairman,Sol-Gel Technologies Ltd.,SLGL,medium
+Eyal,Ben-Or,Chief Financial Officer,Sol-Gel Technologies Ltd.,SLGL,medium
+Brian,Culley,Chief Executive Officer,"Lineage Cell Therapeutics, Inc.",LCTX,medium
+Jill,Howe,Chief Financial Officer,"Lineage Cell Therapeutics, Inc.",LCTX,medium
+Diem,Nguyen,Chief Executive Officer,SIGA Technologies Inc.,SIGA,medium
+Daniel,Luckshire,"EVP, Chief Financial Officer & Secretary",SIGA Technologies Inc.,SIGA,medium
+Kevin,Cornwell,"Chairman, CEO, President","Utah Medical Products, Inc.",UTMD,medium
+Brian,Koopman,Principal Financial Officer,"Utah Medical Products, Inc.",UTMD,medium
+Lynn,Seely,President & Chief Executive Officer,"Lyell Immunopharma, Inc.",LYEL,high
+Smital,Shah,Chief Financial and Business Officer,"Lyell Immunopharma, Inc.",LYEL,high
+James,Cunniff,Chief Executive Officer,"Electromed, Inc.",ELMD,medium
+Bradley,Nagel,Chief Financial Officer,"Electromed, Inc.",ELMD,medium
+Rob,Fried,Chief Executive Officer,"Niagen Bioscience, Inc.",NAGE,medium
+Ozan,Pamir,Chief Financial Officer,"Niagen Bioscience, Inc.",NAGE,medium
+Mike,Cloonan,President & CEO,"Sionna Therapeutics, Inc.",SION,medium
+Elena,Ridloff,Chief Financial Officer,"Sionna Therapeutics, Inc.",SION,medium
+Daniel,de Boer,Chief Executive Officer,ProQR Therapeutics N.V.,PRQR,medium
+Dennis,Hom,Chief Financial Officer,ProQR Therapeutics N.V.,PRQR,medium
+Rebecca,Frey,President & CEO,"Yarrow Bioscience, Inc.",YARW,medium
+Tyler,Zeronda,Chief Financial Officer,"Yarrow Bioscience, Inc.",YARW,medium
+Carsten,Brunn,"President, CEO & Chairman","Cartesian Therapeutics, Inc.",RNAC,medium
+Blaine,Davis,Chief Financial Officer,"Cartesian Therapeutics, Inc.",RNAC,medium
+Eran,Ophir,President & CEO,Compugen Ltd.,CGEN,medium
+Alberto,Sessa,Chief Financial Officer,Compugen Ltd.,CGEN,medium
+Dror,Bashan,President & CEO,"Protalix BioTherapeutics, Inc. (DE)",PLX,medium
+Gilad,Mamlok,Senior Vice President & Chief Financial Officer,"Protalix BioTherapeutics, Inc. (DE)",PLX,medium
+Jasbir,Seehra,President & Chief Executive Officer,"Keros Therapeutics, Inc.",KROS,high
+Annita,Tanini,Interim Principal Financial Officer,"Keros Therapeutics, Inc.",KROS,high
+Kenneth,Romanzi,Chief Executive Officer,Nature's Sunshine Products Inc.,NATR,high
+Ruth,Perkins,Executive Vice President & Chief Financial Officer,Nature's Sunshine Products Inc.,NATR,high
+Rick,Van Kirk,President & Chief Executive Officer,"Pro-Dex, Inc.",PDEX,high
+Alisha,Charlton,Chief Financial Officer,"Pro-Dex, Inc.",PDEX,high
+David,Lennon,President & CEO,"Whitehawk Therapeutics, Inc.",WHWK,medium
+Scott,Giacobello,Chief Financial Officer,"Whitehawk Therapeutics, Inc.",WHWK,medium
+Peter,Luo,Chief Executive Officer,Adagene Inc.,ADAG,medium
+Raymond,Tam,Chief Financial Officer,Adagene Inc.,ADAG,medium
+Arnon,Rosenthal,Chief Executive Officer,"Alector, Inc.",ALEC,medium
+Neil,Berkley,Chief Financial Officer & Chief Business Officer,"Alector, Inc.",ALEC,medium
+David-Alexandre,Gros,Chief Executive Officer,"Eledon Pharmaceuticals, Inc.",ELDN,medium
+Paul,Little,Chief Financial Officer,"Eledon Pharmaceuticals, Inc.",ELDN,medium
+Adrian,Gottschalk,Chief Executive Officer,Foghorn Therapeutics Inc.,FHTX,medium
+Ryan,Maynard,Chief Financial Officer,Foghorn Therapeutics Inc.,FHTX,medium
+Adam,Rogers,President & CEO,NervGen Pharma Corp.,NGEN,medium
+Keith,Vendola,Chief Financial Officer,NervGen Pharma Corp.,NGEN,medium
+Terrie,Kellmeyer,Interim Chief Executive Officer,Anavex Life Sciences Corp.,AVXL,high
+Sandra,Boenisch,Principal Financial Officer,Anavex Life Sciences Corp.,AVXL,high
+Nadav,Kidron,Chief Executive Officer,Oramed Pharmaceuticals Inc.,ORMP,medium
+Avraham,Gabay,Chief Financial Officer,Oramed Pharmaceuticals Inc.,ORMP,medium
+Eric,Easom,President & CEO,"AN2 Therapeutics, Inc.",ANTX,medium
+Lucy,Day,Chief Financial Officer,"AN2 Therapeutics, Inc.",ANTX,medium
+Jason,Lettmann,Chief Executive Officer,ALX Oncology Holdings Inc.,ALXO,medium
+Harish,Shantharam,Chief Financial Officer,ALX Oncology Holdings Inc.,ALXO,medium
+Shao-Lee,Lin,"President, CEO & Director","Cue Biopharma, Inc.",CUE,medium
+James,Ahlers,Chief Financial Officer,"Cue Biopharma, Inc.",CUE,medium
+Claude,Maraoui,Chief Executive Officer,Journey Medical Corporation,DERM,medium
+Joseph,Benesch,Chief Financial Officer,Journey Medical Corporation,DERM,medium
+Paul,Hastings,Chief Executive Officer,"Nkarta, Inc.",NKTX,high
+Nadir,Mahmood,President & Principal Financial Officer,"Nkarta, Inc.",NKTX,medium
+Dennis,Lanfear,President & Chief Executive Officer,"Coherus Oncology, Inc.",CHRS,medium
+Bryan,McMichael,Chief Financial Officer,"Coherus Oncology, Inc.",CHRS,medium
+Thomas,Civik,Chief Executive Officer & Chairman,"Pyxis Oncology, Inc.",PYXS,high
+Pamela,Connealy,Chief Financial Officer & Chief Operating Officer,"Pyxis Oncology, Inc.",PYXS,medium
+Thomas,Schuetz,President & Chief Executive Officer,"Compass Therapeutics, Inc.",CMPX,medium
+Barry,Shin,Chief Financial Officer,"Compass Therapeutics, Inc.",CMPX,medium
+Dan,Reuvers,President & Chief Executive Officer,"Neuronetics, Inc.",STIM,medium
+Nir,Naor,"EVP, Chief Financial Officer & Treasurer","Neuronetics, Inc.",STIM,medium
+Sujal,Patel,"Chief Executive Officer, President & Secretary","Nautilus Biotechnology, Inc.",NAUT,medium
+Anna,Mowry,Chief Financial Officer,"Nautilus Biotechnology, Inc.",NAUT,medium
+Ofer,Gonen,Chief Executive Officer,MediWound Ltd.,MDWD,medium
+Hani,Luxenburg,Chief Financial Officer,MediWound Ltd.,MDWD,medium
+Jesse,Shefferman,Chief Executive Officer,"Protara Therapeutics, Inc.",TARA,medium
+Patrick,Fabbio,Chief Financial Officer,"Protara Therapeutics, Inc.",TARA,medium
+Gary,Gillheeney,President & Chief Executive Officer,Organogenesis Holdings Inc.,ORGO,medium
+David,Francisco,Chief Financial Officer,Organogenesis Holdings Inc.,ORGO,medium
+Christoph,Antz,Chief Executive Officer,Veraxa Biotech AG,VRXA,high
+Raju,Willener,Chief Financial Officer,Veraxa Biotech AG,VRXA,high
+Joseph,Chee,Chairman & Chief Executive Officer,Solana Company,HSDT,high
+Madelene,Gani,Chief Operating Officer & Deputy CFO,Solana Company,HSDT,medium
+James,McArthur,President & Chief Executive Officer,PepGen Inc.,PEPG,medium
+Noel,Donnelly,Chief Financial Officer,PepGen Inc.,PEPG,medium
+Michael,Amoroso,President & Chief Executive Officer,"Precision BioSciences, Inc.",DTIL,medium
+Naresh,Tanna,Chief Financial Officer,"Precision BioSciences, Inc.",DTIL,medium
+Everett,Cunningham,President & Chief Executive Officer,Quanterix Corporation,QTRX,medium
+Jason,Faessler,Chief Financial Officer,Quanterix Corporation,QTRX,medium
+Ryan,Rhodes,Chief Executive Officer,EDAP TMS S.A.,FOCL,high
+Ken,Mobeck,Chief Financial Officer,EDAP TMS S.A.,FOCL,high
+Daniel,O'Connell,President & Chief Executive Officer,"Acumen Pharmaceuticals, Inc.",ABOS,medium
+Matt,Zuga,Chief Financial Officer & Chief Business Officer,"Acumen Pharmaceuticals, Inc.",ABOS,medium
+Seth,Lederman,Chief Executive Officer & Chairman,Tonix Pharmaceuticals Holding Corp.,TNXP,medium
+Bradley,Saenger,Chief Financial Officer,Tonix Pharmaceuticals Holding Corp.,TNXP,medium
+Al,Sandrock,Chief Executive Officer,"Voyager Therapeutics, Inc.",VYGR,medium
+Robin,Swartz,"Chief Operating Officer, Chief Business Officer & Principal Financial Officer (Interim CFO)","Voyager Therapeutics, Inc.",VYGR,high
+Ameet,Mallik,President & Chief Executive Officer,ADC Therapeutics SA,ADCT,medium
+Jose,Carmona,Chief Financial Officer,ADC Therapeutics SA,ADCT,medium
+Remy,Luthringer,Executive Chairman & Chief Executive Officer,"Minerva Neurosciences, Inc",NERV,high
+Frederick,Ahlholm,Chief Financial Officer,"Minerva Neurosciences, Inc",NERV,medium
+Srishti,Gupta,Chief Executive Officer,NovaBridge Biosciences,NBP,high
+Lishan,Aklog,Chief Executive Officer,Lucid Diagnostics Inc.,LUCD,medium
+Dennis,McGrath,Chief Financial Officer,Lucid Diagnostics Inc.,LUCD,medium
+Fu-Feng,Kuo,Chief Executive Officer & Chairwoman,Jyong Biotech Ltd.,MENS,high
+Wei,Zhang,Chief Financial Officer,Jyong Biotech Ltd.,MENS,high
+Bob,Jahr,President & Chief Executive Officer,"Outlook Therapeutics, Inc.",OTLK,medium
+Kevin,Lundquist,Chief Financial Officer,"Outlook Therapeutics, Inc.",OTLK,medium
+Michael,Kazley,Chairman & Chief Executive Officer,Stablecoin Development Corporation,SDEV,high
+Tommy,Law,Chief Financial Officer & Treasurer,Stablecoin Development Corporation,SDEV,medium
+Laura,Niklason,President & Chief Executive Officer,"Humacyte, Inc.",HUMA,medium
+Dale,Sander,"Chief Financial Officer, Chief Corporate Development Officer & Treasurer","Humacyte, Inc.",HUMA,medium
+Kath,Gallagher,President & Chief Executive Officer,"Atrium Therapeutics, Inc.",RNA,medium
+Brendan,Winslow,Chief Financial Officer,"Atrium Therapeutics, Inc.",RNA,medium
+Ram,Aiyar,Chief Executive Officer & President,"Korro Bio, Inc.",KRRO,medium
+Vineet,Agarwal,Chief Financial Officer,"Korro Bio, Inc.",KRRO,medium
+Javier,Szwarcberg,Chief Executive Officer,"Spruce Biosciences, Inc.",SPRB,medium
+Samir,Gharib,President & Chief Financial Officer,"Spruce Biosciences, Inc.",SPRB,medium
+Kevin,Smith,President & Chief Executive Officer,"Inogen, Inc",INGN,medium
+Jason,Richardson,Chief Financial Officer,"Inogen, Inc",INGN,medium
+Faraz,Ali,Chief Executive Officer,"Tenaya Therapeutics, Inc.",TNYA,medium
+Eric,Hyllengren,Chief Financial Officer,"Tenaya Therapeutics, Inc.",TNYA,medium
+James,Bianco,President & Chief Executive Officer,"TuHURA Biosciences, Inc.",HURA,medium
+Dan,Dearborn,Executive VP of Finance & Chief Financial Officer,"TuHURA Biosciences, Inc.",HURA,medium
+Deborah,Birx,Chief Executive Officer,"Armata Pharmaceuticals, Inc.",ARMP,medium
+David,House,SVP Finance & Principal Financial Officer,"Armata Pharmaceuticals, Inc.",ARMP,medium
+Rachel,Haurwitz,President & Chief Executive Officer,"Caribou Biosciences, Inc.",CRBU,high
+Sriram,Ryali,Chief Financial Officer,"Caribou Biosciences, Inc.",CRBU,high
+Ivor,Elrifi,Chief Executive Officer,Tiziana Life Sciences Ltd,TLSA,medium
+Keeren,Shah,Chief Financial Officer & Chief Operating Officer,Tiziana Life Sciences Ltd,TLSA,medium
+Adam,Kalbermatten,President & Chief Executive Officer,"KORU Medical Systems, Inc.",KRMD,high
+Thomas,Adams,Chief Financial Officer,"KORU Medical Systems, Inc.",KRMD,medium
+Christopher,Miglino,Chief Executive Officer,Axe Compute Inc.,AGPU,medium
+Jeremy,Yaukey-Witter,Chief Financial Officer,Axe Compute Inc.,AGPU,medium
+Henry,Ji,"Executive Chairman, Chief Executive Officer & President",Semnur Pharmaceuticals Inc.,SMNR,medium
+Stephen,Ma,"Chief Operating Officer (formerly SVP, CFO)",Semnur Pharmaceuticals Inc.,SMNR,medium
+Yuval,Cohen,Chief Executive Officer,"Corbus Pharmaceuticals Holdings, Inc.",CRBP,medium
+Sean,Moran,Chief Financial Officer,"Corbus Pharmaceuticals Holdings, Inc.",CRBP,medium
+Jonathan,Javitt,Interim Chief Executive Officer,"NRX Pharmaceuticals, Inc.",NRXP,high
+Michael,Abrams,Chief Financial Officer,"NRX Pharmaceuticals, Inc.",NRXP,high
+Shalabh,Gupta,Chief Executive Officer,"Unicycive Therapeutics, Inc.",UNCY,medium
+John,Townsend,Chief Financial Officer,"Unicycive Therapeutics, Inc.",UNCY,medium
+Christine,Deister,Chief Executive Officer,"Harbor Diversified, Inc.",HRBR,medium
+Gregg,Garvey,Chief Financial Officer,"Harbor Diversified, Inc.",HRBR,medium
+Yogi,Jashnani,Chief Executive Officer,"AirSculpt Technologies, Inc.",AIRS,medium
+Michael,Arthur,Chief Financial Officer,"AirSculpt Technologies, Inc.",AIRS,medium
+David,Fischel,Chairman & Chief Executive Officer,"Stereotaxis, Inc.",STXS,high
+Kimberly,Peery,Chief Financial Officer,"Stereotaxis, Inc.",STXS,high
+Erik,Lundgren,Chief Executive Officer,"Immunic, Inc.",IMUX,medium
+Maher,Masoud,President & Chief Executive Officer,"MaxCyte, Inc.",MXCT,medium
+Parmeet,Ahuja,Chief Financial Officer,"MaxCyte, Inc.",MXCT,medium
+David,Mack,President & Chief Executive Officer,"PMV Pharmaceuticals, Inc.",PMVP,high
+Michael,Carulli,Chief Financial Officer,"PMV Pharmaceuticals, Inc.",PMVP,high
+Omid,Farokhzad,Chair & Chief Executive Officer,"Seer, Inc.",SEER,medium
+David,Horn,"President, Chief Financial Officer & Treasurer (departing Oct 1, 2026)","Seer, Inc.",SEER,medium
+Charles,Endweiss,"Principal Financial Officer & Treasurer (effective Oct 1, 2026)","Seer, Inc.",SEER,medium
+Paul,Sekhri,President & Chief Executive Officer,vTv Therapeutics Inc.,VTVT,medium
+Michael,Tung,EVP & Chief Financial Officer,vTv Therapeutics Inc.,VTVT,medium
+Evert,Schimmelpennink,President & Chief Executive Officer,"LENZ Therapeutics, Inc.",LENZ,medium
+Dan,Chevallard,Chief Financial Officer,"LENZ Therapeutics, Inc.",LENZ,medium
+A.J.,Kazimi,Chairman & Chief Executive Officer,Cumberland Pharmaceuticals Inc.,CPIX,medium
+John,Hamm,Chief Financial Officer,Cumberland Pharmaceuticals Inc.,CPIX,medium
+Jacqueline,Shea,President & Chief Executive Officer,"Inovio Pharmaceuticals, Inc.",INO,medium
+Peter,Kies,Chief Financial Officer,"Inovio Pharmaceuticals, Inc.",INO,medium
+Arun,Swaminathan,Chief Executive Officer,"Coya Therapeutics, Inc.",COYA,medium
+David,Snyder,Chief Financial Officer & Chief Operating Officer,"Coya Therapeutics, Inc.",COYA,medium
+Tien-Li,Lee,Chief Executive Officer,"Aardvark Therapeutics, Inc.",AARD,medium
+Nelson,Sun,Chief Financial Officer & Chief Operating Officer,"Aardvark Therapeutics, Inc.",AARD,medium
+Michael,Lee,Chairman & Chief Executive Officer,UMeWorld Inc.,UMEW,medium
+Winfield,Ding,Chief Financial Officer,UMeWorld Inc.,UMEW,medium
+Joshua,Pinto,President & Chief Executive Officer,"Neumora Therapeutics, Inc.",NMRA,high
+Michael,Milligan,Chief Financial Officer,"Neumora Therapeutics, Inc.",NMRA,medium
+Talat,Imran,Chief Executive Officer,"Rani Therapeutics Holdings, Inc.",RANI,medium
+Nicholas,Maestas,Chief Financial Officer,"Rani Therapeutics Holdings, Inc.",RANI,medium
+Thomas,Zindrick,"Chairman, Chief Executive Officer & President",Genelux Corporation,GNLX,medium
+Matthew,Pulisic,Chief Financial Officer,Genelux Corporation,GNLX,medium
+Joshua,Riggs,President & Chief Executive Officer,Insight Molecular Diagnostics Inc.,IMDX,high
+Andrea,James,Chief Financial Officer,Insight Molecular Diagnostics Inc.,IMDX,high
+Adam,Mendelsohn,Chief Executive Officer,"Vivani Medical, Inc.",VANI,medium
+Anthony,Baldor,Chief Financial Officer,"Vivani Medical, Inc.",VANI,medium
+David,Lazar,Chief Executive Officer,Quantum Cyber N.V.,QUCY,high
+William,Caragol,Chief Financial Officer (consultant),Quantum Cyber N.V.,QUCY,high
+John,Friend,Chief Executive Officer,Kazia Therapeutics Limited,KZIA,medium
+James,Levine,Chief Financial Officer,Kazia Therapeutics Limited,KZIA,medium
+Joseph,Oliveto,President & Chief Executive Officer,Milestone Pharmaceuticals Inc.,MIST,medium
+Amit,Hasija,Chief Financial Officer & EVP Corporate Development,Milestone Pharmaceuticals Inc.,MIST,medium
+Steven,Lo,President & Chief Executive Officer,"Vaxart, Inc.",VXRT,medium
+Jeroen,Grasman,Chief Financial Officer,"Vaxart, Inc.",VXRT,medium
+Mark,Velleca,Chief Executive Officer,"Black Diamond Therapeutics, Inc.",BDTX,high
+Erika,Jones,Senior Vice President Finance & Principal Financial Officer,"Black Diamond Therapeutics, Inc.",BDTX,medium
+Dikla,Czaczkes Akselbrad,Chief Executive Officer,PolyPid Ltd.,PYPD,medium
+Jonny,Missulawin,Chief Financial Officer,PolyPid Ltd.,PYPD,medium
+Nicholas,Saccomano,President & Chief Executive Officer,"OnKure Therapeutics, Inc.",OKUR,medium
+Jason,Leverone,Chief Financial Officer,"OnKure Therapeutics, Inc.",OKUR,medium
+Charles,Goodwin,Chief Executive Officer,Apyx Medical Corporation,APYX,medium
+Matthew,Hill,Chief Financial Officer,Apyx Medical Corporation,APYX,medium
+Daniel,Reis-Faria,Chief Executive Officer,ZeroStack Corp.,ZSTK,medium
+Dany,Vaiman,Chief Financial Officer,ZeroStack Corp.,ZSTK,medium
+Bruce,Steel,Chief Executive Officer,"Equillium, Inc.",EQ,medium
+Stephen,Connelly,President & Chief Scientific Officer,"Equillium, Inc.",EQ,medium
+Amit,Kumar,Chairman & Chief Executive Officer,"Anixa Biosciences, Inc.",ANIX,medium
+Michael,Catelani,"President, Chief Operating Officer & Chief Financial Officer","Anixa Biosciences, Inc.",ANIX,medium
+Neil,Warma,Chief Executive Officer,ProMIS Neurosciences Inc.,PMN,medium
+Daniel,Geffken,Chief Financial Officer,ProMIS Neurosciences Inc.,PMN,medium
+Miles,Harrison,"President, Chief Executive Officer & Director",Conexeu Sciences Inc.,CNXU,medium
+Stephen,Inouye,"Chief Financial Officer, Corporate Secretary & Treasurer",Conexeu Sciences Inc.,CNXU,medium
+Joshua,Lev,Co-Chief Executive Officer,"electroCore, Inc.",ECOR,medium
+Mike,Fox,Co-Chief Executive Officer,"electroCore, Inc.",ECOR,medium
+Leonard,Mazur,Chairman & Chief Executive Officer,"Citius Oncology, Inc.",CTOR,medium
+Jaime,Bartushak,Chief Financial Officer,"Citius Oncology, Inc.",CTOR,medium
+Thomas,Hull,President & Chief Executive Officer,Kewaunee Scientific Corporation,KEQU,high
+Donald,Gardner,Executive Vice President Finance & Chief Financial Officer,Kewaunee Scientific Corporation,KEQU,medium
+Hong,Li,Co-Chief Executive Officer,BGM Group Ltd.,BGM,medium
+Yaxuan,Zhai,Chief Financial Officer,BGM Group Ltd.,BGM,medium
+Michael,Hitchcock,Interim Chief Executive Officer,"Biomea Fusion, Inc.",BMEA,medium
+Franco,Valle,Chief Financial Officer,"Biomea Fusion, Inc.",BMEA,medium
+Amir,Heshmatpour,Chief Executive Officer,"NeOnc Technologies Holdings, Inc.",NTHI,high
+Keithly,Garnett,Chief Financial Officer,"NeOnc Technologies Holdings, Inc.",NTHI,medium
+Mani,Mohindru,President & Chief Executive Officer,"Cardiff Oncology, Inc.",CRDF,medium
+Joshua,Muntner,Chief Financial Officer,"Cardiff Oncology, Inc.",CRDF,medium
+Gareth,Sheridan,Chief Executive Officer,Nutriband Inc.,NTRB,high
+Gerald,Goodman,Chief Financial Officer,Nutriband Inc.,NTRB,medium
+Brian,Carrico,President & Chief Executive Officer,"Neuraxis, Inc.",NRXS,high
+Tim,Henrichs,Chief Financial Officer,"Neuraxis, Inc.",NRXS,high
+Allan,Marshall,Chief Executive Officer,"Upexi, Inc.",UPXI,high
+Andrew,Norstrud,Chief Financial Officer,"Upexi, Inc.",UPXI,high
+Michael,Cavanaugh,Chief Executive Officer,Range Impact Inc.,RNGE,medium
+Patricia,Missal,Chief Financial Officer,Range Impact Inc.,RNGE,medium
+Lisa,Ricciardi,President & Chief Executive Officer,"Cognition Therapeutics, Inc.",CGTX,medium
+John,Doyle,Chief Financial Officer,"Cognition Therapeutics, Inc.",CGTX,medium
+Peter,Blume-Jensen,"Chairman, CEO & President","Acrivon Therapeutics, Inc.",ACRV,medium
+Adam,Levy,Chief Financial Officer,"Acrivon Therapeutics, Inc.",ACRV,medium
+Harith,Rajagopalan,Co-Founder & Chief Executive Officer,"Fractyl Health, Inc.",GUTS,medium
+Lara,Smith Weber,Chief Financial Officer,"Fractyl Health, Inc.",GUTS,medium
+Stephen,Uden,Chief Executive Officer,Rallybio Corporation,RLYB,medium
+Jonathan,Lieber,Chief Financial Officer,Rallybio Corporation,RLYB,medium
+Olivier,te Boekhorst,President & Chief Executive Officer,ImmuCell Corporation,ICCC,medium
+Timothy,Fiori,Chief Financial Officer,ImmuCell Corporation,ICCC,medium
+Dayton,Judd,Chairman & Chief Executive Officer,"FitLife Brands, Inc.",FTLF,medium
+Jakob,York,Chief Financial Officer,"FitLife Brands, Inc.",FTLF,medium
+Maria,Sainz,President & Chief Executive Officer,"Hyperfine, Inc.",HYPR,medium
+Brett,Hale,Chief Administrative Officer & Chief Financial Officer,"Hyperfine, Inc.",HYPR,medium
+Scot,Cohen,Chief Executive Officer & Executive Chairman,"Wrap Technologies, Inc.",WRAP,high
+Scot,Cohen,Interim Chief Financial Officer (Principal Financial Officer),"Wrap Technologies, Inc.",WRAP,medium
+Yuichi,Iwaki,Founder & Chief Executive Officer,"MediciNova, Inc.",MNOV,medium
+Jason,Kruger,Chief Financial Officer,"MediciNova, Inc.",MNOV,medium
+Glendon,French,President & Chief Executive Officer,Pulmonx Corporation,LUNG,medium
+Derrick,Sung,Chief Operating Officer & Chief Financial Officer,Pulmonx Corporation,LUNG,medium
+Nicholas,Curtis,Chief Executive Officer,"LENSAR, Inc.",LNSR,high
+Michael,Rossi,Interim Chief Financial Officer,"LENSAR, Inc.",LNSR,high
+Cokey,Nguyen,President & Chief Executive Officer,"Atara Biotherapeutics, Inc.",ATRA,medium
+Kevin,Sarney,Interim Chief Financial Officer,"Atara Biotherapeutics, Inc.",ATRA,medium
+Jared,Kelly,Chief Executive Officer,Oncolytics Biotech Inc.,ONCY,medium
+Kirk,Look,Chief Financial Officer,Oncolytics Biotech Inc.,ONCY,medium
+Harel,Gadot,"CEO, President & Chairman",Microbot Medical Inc.,MBOT,medium
+Rachel,Vaknin,Chief Financial Officer,Microbot Medical Inc.,MBOT,medium
+Scott,Plesha,Chief Executive Officer,Pelthos Therapeutics Inc.,PTHS,medium
+John,Gay,Chief Financial Officer,Pelthos Therapeutics Inc.,PTHS,medium
+Erez,Aminov,Chairman & Chief Executive Officer,"Telomir Pharmaceuticals, Inc.",TELO,medium
+Alan,Weichselbaum,Chief Financial Officer,"Telomir Pharmaceuticals, Inc.",TELO,medium
+Pedro,Malha,"President, Chief Executive Officer",SkinHealth Systems Inc.,SKIN,medium
+Michael,Monahan,Chief Financial Officer,SkinHealth Systems Inc.,SKIN,medium
+Terrence,Moorehead,President & Chief Executive Officer,Lifevantage Corporation,LFVN,high
+Carl,Aure,Chief Financial Officer,Lifevantage Corporation,LFVN,medium
+Todd,Brady,President & Chief Executive Officer,"Aldeyra Therapeutics, Inc.",ALDX,medium
+Michael,Alfieri,Principal Financial Officer (CFO),"Aldeyra Therapeutics, Inc.",ALDX,medium
+Gene,Mack,President & Chief Executive Officer,"Gain Therapeutics, Inc.",GANX,high
+Gene,Mack,Interim Chief Financial Officer,"Gain Therapeutics, Inc.",GANX,high
+Jayson,Rieger,Chief Executive Officer & President,Verrica Pharmaceuticals Inc.,VRCA,medium
+John,Kirby,Chief Financial Officer,Verrica Pharmaceuticals Inc.,VRCA,medium
+Barry,Quart,Chief Executive Officer,Connect Biopharma Holdings Limited,CNTB,medium
+Steven,Chan,Chief Financial Officer,Connect Biopharma Holdings Limited,CNTB,medium
+Larry,Heaton,Chief Executive Officer,Zomedica Corp.,ZOMDF,medium
+Scott,Jordan,Executive VP Finance & Chief Financial Officer,Zomedica Corp.,ZOMDF,medium
+Paul,Romness,"Founder, President, Chief Executive Officer",OS Therapies Incorporated,OSTX,medium
+Christopher,Acevedo,Chief Financial Officer,OS Therapies Incorporated,OSTX,medium
+Faheem,Hasnain,Chairman & Chief Executive Officer,"Gossamer Bio, Inc.",GOSS,medium
+Bryan,Giraudo,Chief Operating Officer & Chief Financial Officer,"Gossamer Bio, Inc.",GOSS,medium
+Martin,Brenner,Chief Executive Officer,"iBio, Inc.",IBIO,medium
+Felipe,Duran,Chief Financial Officer,"iBio, Inc.",IBIO,medium
+Shaun,Bagai,Chief Executive Officer,"RenovoRx, Inc.",RNXT,medium
+Mark,Voll,Chief Financial Officer,"RenovoRx, Inc.",RNXT,medium
+Lindsay,Rosenwald,"Chairman, President & Chief Executive Officer","Fortress Biotech, Inc.",FBIO,high
+David,Jin,Chief Financial Officer,"Fortress Biotech, Inc.",FBIO,medium
+Esther,Rajavelu,"President, Chief Executive Officer & Chief Financial Officer","Spero Therapeutics, Inc.",SPRO,medium
+Jennifer,Callahan,Interim CEO & Chief Financial Officer,Cingulate Inc.,CING,medium
+Robert,Dempsey,Chief Executive Officer,OKYO Pharma Limited,OKYO,high
+Keeren,Shah,Chief Financial Officer,OKYO Pharma Limited,OKYO,medium
+Vlad,Vitoc,Chief Executive Officer & President,"MAIA Biotechnology, Inc.",MAIA,medium
+Jeffrey,Himmelreich,Head of Finance & Principal Financial Officer,"MAIA Biotechnology, Inc.",MAIA,medium
+Chris,Giordano,President & Chief Executive Officer,"Tenax Therapeutics, Inc.",TENX,high
+Thomas,Staab,Chief Financial Officer,"Tenax Therapeutics, Inc.",TENX,high
+Brian,Windsor,President & Chief Executive Officer,Rein Therapeutics Inc.,RNTX,high
+Timothy,Cunningham,Interim Chief Financial Officer,Rein Therapeutics Inc.,RNTX,high
+Erez,Raphael,Chief Executive Officer,DarioHealth Corp.,DRIO,medium
+Chen,Franco-Yehuda,Chief Financial Officer,DarioHealth Corp.,DRIO,medium
+Bernard,Coulie,President & Chief Executive Officer,"Pliant Therapeutics, Inc.",PLRX,medium
+Keith,Cummings,Chief Financial Officer,"Pliant Therapeutics, Inc.",PLRX,medium
+Chen,Schor,President & Chief Executive Officer,"Adicet Bio, Inc.",ACET,medium
+Nick,Harvey,Chief Financial Officer,"Adicet Bio, Inc.",ACET,medium
+Sushma,Shivaswamy,Interim CEO & Chief Scientific Officer,XBiotech Inc.,XBIT,medium
+Angela,Hu,"Interim Chief Financial Officer (Director of Finance, Principal Financial Officer)",XBiotech Inc.,XBIT,medium
+Rob,Brainin,Chief Executive Officer,"Champions Oncology, Inc.",CSBR,medium
+David,Miller,Chief Financial Officer,"Champions Oncology, Inc.",CSBR,medium
+Jennifer,Bath,Chief Executive Officer & President,MindWalk Holdings Corp.,HYFT,medium
+Scott,Areglado,Chief Financial Officer,MindWalk Holdings Corp.,HYFT,medium
+Thomas,Davis,Chief Executive Officer,"Viskase Holdings, Inc.",VISK,high
+Michael,Blecic,Chief Financial Officer,"Viskase Holdings, Inc.",VISK,high
+McAndrew,Rudisill,Executive Chairman & Chief Executive Officer,"Forum Markets, Incorporated",FRMM,medium
+John,Saunders,Chief Financial Officer,"Forum Markets, Incorporated",FRMM,medium
+Craig,Collard,Chief Executive Officer,"Heron Therapeutics, Inc.",HRTX,medium
+Ira,Duarte,Executive Vice President & Chief Financial Officer,"Heron Therapeutics, Inc.",HRTX,medium
+Jennifer,Buell,President & Chief Executive Officer,"MiNK Therapeutics, Inc.",INKT,medium
+Melissa,Orilall,Chief Financial Officer,"MiNK Therapeutics, Inc.",INKT,medium
+Sandy,Macrae,Chief Executive Officer,"Sangamo Therapeutics, Inc.",SGMOQ,medium
+Nikunj,Jain,Interim Chief Financial Officer,"Sangamo Therapeutics, Inc.",SGMOQ,medium
+Andrew,Oxtoby,President & Chief Executive Officer,"Kalaris Therapeutics, Inc.",KLRS,high
+Liisa,Bayko,Chief Financial Officer,"Kalaris Therapeutics, Inc.",KLRS,high
+Vincent,Angotti,Chief Executive Officer,"Talphera, Inc.",TLPH,medium
+Raffi,Asadorian,Chief Financial Officer,"Talphera, Inc.",TLPH,medium
+David,Jorden,Chief Executive Officer & Chief Financial Officer,"Nuo Therapeutics, Inc.",AURX,medium
+Geordan,Pursglove,"Chairman, President & Chief Executive Officer","Nomad Power Solutions, Inc.",NMAD,high
+Peter,Stazzone,Chief Financial Officer,"Nomad Power Solutions, Inc.",NMAD,high
+Sumit,Aggarwal,President & Chief Executive Officer,"Eloxx Pharmaceuticals, Inc.",ELOX,high
+Daniel,Geffken,Interim Chief Financial Officer,"Eloxx Pharmaceuticals, Inc.",ELOX,high
+Denise,Scots-Knight,Chief Executive Officer,Mereo BioPharma Group plc,MREO,high
+Christine,Fox,Chief Financial Officer,Mereo BioPharma Group plc,MREO,high
+Michael,McGarrity,Chief Executive Officer,MDxHealth SA,MDXH,high
+Ron,Kalfus,Interim Chief Financial Officer,MDxHealth SA,MDXH,high
+Rene,Russo,President & Chief Executive Officer,"Xilio Therapeutics, Inc.",XLO,medium
+Christopher,Frankenfield,Chief Financial Officer & Chief Operating Officer,"Xilio Therapeutics, Inc.",XLO,medium
+Rob,Etherington,President & Chief Executive Officer,Clene Inc.,CLNN,medium
+Morgan,Brown,Chief Financial Officer,Clene Inc.,CLNN,medium
+Hyunsu,Jung,Chief Executive Officer,"Hyperion DeFi, Inc.",HYPD,high
+David,Knox,Chief Financial Officer,"Hyperion DeFi, Inc.",HYPD,medium
+Adel,Abdullah,President & Chairman (Principal Executive & Financial Officer),Positron Corp.,POSC,medium
+Guus,Franke,Chief Executive Officer,"Circle8 Group, Inc.",CIRC,medium
+Kevin,Murphy,Chief Financial Officer,"Circle8 Group, Inc.",CIRC,medium
+Leslie,Trigg,"Chair, President & Chief Executive Officer","Outset Medical, Inc.",OM,medium
+Renee,Gaeta,Chief Financial Officer,"Outset Medical, Inc.",OM,medium
+Zachary,Hornby,President & Chief Executive Officer,"Boundless Bio, Inc.",BOLD,medium
+David,Hinkle,Senior Vice President & Principal Financial Officer,"Boundless Bio, Inc.",BOLD,medium
+Maria,Maccecchini,"Founder, President, Chief Executive Officer & Acting Chief Financial Officer","Annovis Bio, Inc.",ANVS,medium
+David,Moss,Chief Executive Officer,INmune Bio Inc.,INMB,medium
+Cory,Ellspermann,Chief Financial Officer,INmune Bio Inc.,INMB,medium
+Jason,Matuszewski,Chief Executive Officer,"BioStem Technologies, Inc.",BSEM,medium
+Brandon,Poe,Chief Financial Officer,"BioStem Technologies, Inc.",BSEM,medium
+Heather,Getz,Chief Executive Officer,"TELA Bio, Inc.",TELA,high
+Brent,Lucas,Chief Executive Officer,"Envoy Medical, Inc.",COCH,medium
+Robert,Potashnick,Chief Accounting Officer & Vice President of Finance (principal financial officer),"Envoy Medical, Inc.",COCH,medium
+Erez,Meltzer,Chief Executive Officer,NANO-X IMAGING LTD,NNOX,high
+Guy,Nathanzon,Chief Financial Officer,NANO-X IMAGING LTD,NNOX,medium
+Kevin,Hykes,President & Chief Executive Officer,"CVRx, Inc.",CVRX,high
+Jared,Oasheim,Chief Financial Officer (successor John Landry starts after Q3 2026 10-Q),"CVRx, Inc.",CVRX,high
+Kristin,Yarema,Chief Executive Officer & Interim Principal Financial Officer,"ImageneBio, Inc.",IMA,medium
+Vincent,Capone,Chief Executive Officer,"Spectral AI, Inc.",MDAI,high
+David,McGuire,Chief Financial Officer,"Spectral AI, Inc.",MDAI,medium
+Sean,Browne,President & Chief Executive Officer,"Xtant Medical Holdings, Inc.",XTNT,medium
+Scott,Neils,Chief Financial Officer,"Xtant Medical Holdings, Inc.",XTNT,medium
