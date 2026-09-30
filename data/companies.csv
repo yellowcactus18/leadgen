@@ -1,0 +1,428 @@
+ticker,company_name,market_cap_usd
+ZYME,Zymeworks Inc.,1976158006.9108455
+MRVI,"Maravai LifeSciences Holdings, Inc.",1961833677.6568625
+SRPT,"Sarepta Therapeutics, Inc.",1951987299.0643775
+XNCR,"Xencor, Inc.",1941367305.3319995
+BRVE,"Braveheart Bio, Inc.",1940339803.5
+GENB,"Generate Biomedicines, Inc.",1938121736.478599
+BLFS,"BioLife Solutions, Inc.",1915348515.6387048
+LMAT,"LeMaitre Vascular, Inc.",1892202308.4784653
+ESTA,Establishment Labs Holdings Inc.,1880946393.367347
+VIR,"Vir Biotechnology, Inc.",1879143141.9549294
+NVCR,NovoCure Limited,1860222372.326454
+SEPN,"Septerna, Inc.",1840005211.3401482
+ABSI,Absci Corporation,1830263518.2514791
+NVAX,"Novavax, Inc.",1814402918.5767097
+ZBIO,"Zenas BioPharma, Inc.",1799529245.1842299
+CMPS,COMPASS Pathways Plc - American Depository Shares,1794659618
+XERS,"Xeris Biopharma Holdings, Inc.",1785827378.7399797
+XRAY,DENTSPLY SIRONA Inc.,1765278534.0356348
+KMTS,"Kestra Medical Technologies, Ltd.",1743969391.859452
+QURE,uniQure N.V.,1741097081.3749492
+FRNM,"Freenome, Inc.",1733117142.3636932
+STOK,"Stoke Therapeutics, Inc.",1711235964.5239568
+OCUL,"Ocular Therapeutix, Inc.",1710807643.2363408
+NTLA,"Intellia Therapeutics, Inc.",1690628522.1712384
+ANIP,"ANI Pharmaceuticals, Inc.",1682578341.2524097
+SNDX,"Syndax Pharmaceuticals, Inc.",1659139962.6147518
+GHRS,GH Research PLC,1631627195.4337249
+TSHA,"Taysha Gene Therapies, Inc.",1609617547.418838
+ATEC,"Alphatec Holdings, Inc.",1589301598.7126324
+IMCR,Immunocore Holdings plc,1588732354
+RAPP,"Rapport Therapeutics, Inc.",1583283484.2519684
+ETON,"Eton Pharmaceuticals, Inc.",1553833523.2042286
+INBX,"Inhibrx Biosciences, Inc.",1537406785.7216444
+MAZE,"Maze Therapeutics, Inc.",1534268036.1472983
+INVA,"Innoviva, Inc.",1531604292.695405
+ANAB,"AnaptysBio, Inc.",1528394347.1858249
+TYRA,"Tyra Biosciences, Inc.",1523631503.166515
+COAG,"Hemab Therapeutics Holdings, Inc.",1507399920.3638039
+RARE,Ultragenyx Pharmaceutical Inc.,1502987366.5365534
+KLRA,"Kailera Therapeutics, Inc.",1492198688.5150137
+AVBP,"ArriVent BioPharma, Inc.",1486135076.884902
+KRSA,"Korsana Biosciences, Inc.",1475086840.5355883
+ORIC,"Oric Pharmaceuticals, Inc.",1454246758.7270007
+PAHC,Phibro Animal Health Corporation,1435571170.7416782
+OMER,Omeros Corporation,1389855615.3350646
+CNMD,CONMED Corporation,1386143724.6108375
+IMTX,Immatics N.V.,1364679427.1775699
+KARD,"Kardigan, Inc.",1358608640.0818555
+DMRA,"Damora Therapeutics, Inc.",1310645067.8151016
+TRAX,"First Tracks Biotherapeutics, Inc.",1309535364.2301283
+IART,Integra LifeSciences Holdings Corporation,1268469537.730769
+REPL,"Replimune Group, Inc.",1261600912.65
+LBRX,LB Pharmaceuticals Inc,1249397781.2607296
+AVLN,Avalyn Pharma Inc.,1247754991.489668
+BCAX,Bicara Therapeutics Inc.,1232801752.3496766
+HROW,"Harrow, Inc.",1171495304.5382166
+MNKD,MannKind Corporation,1167206375.236527
+VOR,Vor Biopharma Inc.,1160882498.591053
+TNDM,"Tandem Diabetes Care, Inc.",1155702266.142426
+BVS,Bioventus Inc.,1153740520.1000001
+LTGO,"Latigo Biotherapeutics, Inc.",1134713346.8825965
+STAA,STAAR Surgical Company,1127236815.3223362
+AMPH,"Amphastar Pharmaceuticals, Inc.",1123214445.0487256
+AORT,"Artivion, Inc.",1115542383.4610672
+ODTX,"Odyssey Therapeutics, Inc.",1106787946.721034
+IRMD,iRadimed Corporation,1099169744.5107563
+MGTX,MeiraGTx Holdings plc,1097771405.7897573
+AKTS,"Aktis Oncology, Inc.",1087639402.944642
+CSTL,"Castle Biosciences, Inc.",1078092140.3147933
+JANX,"Janux Therapeutics, Inc.",1060111677.2212389
+SVRA,"Savara, Inc.",1049900696.5669291
+PRCT,PROCEPT BioRobotics Corporation,1048680652.0927551
+BBNX,"Beta Bionics, Inc.",1046017057.7527049
+ENOV,Enovis Corporation,1045547816.9685805
+ANRO,"Alto Neuroscience, Inc.",1041877846.8961627
+SPTX,"Seaport Therapeutics, Inc.",1033139681.6051363
+GLUE,"Monte Rosa Therapeutics, Inc.",1023760783.6456559
+MLTX,MoonLake Immunotherapeutics,1007237652.8934499
+PCRX,"Pacira BioSciences, Inc.",1003323632.4479533
+CGEM,"Cullinan Therapeutics, Inc.",1000071979.8397899
+ALMS,Alumis Inc.,984526723.6625514
+CRVS,"Corvus Pharmaceuticals, Inc.",984215119.9744897
+ABUS,Arbutus Biopharma Corporation,975670798.2729208
+KURA,"Kura Oncology, Inc.",958105873.313281
+CBLL,"CeriBell, Inc.",954079623.0000001
+APMD,"Apnimed, Inc.",930655969.980544
+JBIO,"Jade Biosciences, Inc.",922162107.7574048
+RIGL,"Rigel Pharmaceuticals, Inc.",912324495.8633668
+NNNN,Anbio Biotechnology,902197807.7142859
+OBX,"Obsidian Therapeutics, Inc.",882388475.7343758
+SGP,"SpyGlass Pharma, Inc.",878009466.5389152
+SANA,"Sana Biotechnology, Inc.",874133054.3505155
+LXRX,"Lexicon Pharmaceuticals, Inc.",856540167.9122341
+ARDX,"Ardelyx, Inc.",850975599.6017699
+SIBN,"SI-BONE, Inc.",847967384.4135772
+ACHV,"Achieve Life Sciences, Inc.",840713338.9440832
+CADL,"Candel Therapeutics, Inc.",838643452.0514706
+AVTX,"Avalo Therapeutics, Inc.",838504883.4139923
+INMD,InMode Ltd.,816551792.85654
+ANNX,"Annexon, Inc.",800024023.7288135
+ATTO,"Attovia Therapeutics, Inc.",799581818.3213106
+SLDB,Solid Biosciences Inc.,791858343.353352
+GERN,Geron Corporation,790242349.451613
+DSGN,"Design Therapeutics, Inc.",784773928.7591124
+VREX,Varex Imaging Corporation,784087459.7891175
+ACRS,"Aclaris Therapeutics, Inc.",780890105.2206439
+FDMT,"4D Molecular Therapeutics, Inc.",780324443.926846
+GYRE,"Gyre Therapeutics, Inc.",778287873.4043715
+IMMX,"Immix Biopharma, Inc.",772624591.650854
+FTH,"Faeth Therapeutics, Inc.",772499512.0313501
+OLMA,"Olema Pharmaceuticals, Inc.",759916756.6809134
+CTKB,"Cytek Biosciences, Inc.",758972202.8322917
+AVR,Anteris Technologies Global Corp.,755303183.0368906
+VSTM,"Verastem, Inc.",743073019.1912879
+ETRA,"Electra Therapeutics, Inc.",740963899.3546256
+MLAB,"Mesa Laboratories, Inc.",735744840.4403727
+WVE,"Wave Life Sciences, Inc.",724152053.2211537
+STTK,"Shattuck Labs, Inc.",721611768.5993885
+COLL,"Collegium Pharmaceutical, Inc.",714921279.271255
+PACB,"Pacific Biosciences of California, Inc.",711833516.2177595
+QDEL,QuidelOrtho Corporation,710098613.9584711
+NVCT,"Nuvectis Pharma, Inc.",687973710.4749147
+MDXG,"MiMedx Group, Inc",677786184.6038544
+CLYM,"Climb Bio, Inc.",677747780.7826087
+IRWD,"Ironwood Pharmaceuticals, Inc.",676657610.0156249
+ZVRA,"Zevra Therapeutics, Inc.",661832253.4563491
+AURA,"Aura Biosciences, Inc.",651784747.712195
+ANGO,"AngioDynamics, Inc.",636105494.9250001
+CRMD,CorMedix Inc.,614590955.6431273
+BLSM,"BlossomHill Therapeutics, Inc.",612813056.0486664
+SGMT,Sagimet Biosciences Inc. - Series A,612733488.8932904
+PHAT,"Phathom Pharmaceuticals, Inc.",601093994.9008151
+CTMX,"CytomX Therapeutics, Inc.",594865025.4654546
+AQST,"Aquestive Therapeutics, Inc.",586139415
+KIDS,OrthoPediatrics Corp.,576373553.7280315
+ALT,"Altimmune, Inc.",572854632.4494948
+NGNE,Neurogene Inc.,568723494.4790419
+CAPR,"Capricor Therapeutics, Inc.",567436507.8926487
+PRME,"Prime Medicine, Inc.",564988908.4158576
+ALLO,"Allogene Therapeutics, Inc.",563150128.765432
+SSII,SS Innovations International Inc.,561941043.4605535
+DCTH,"Delcath Systems, Inc.",551710858.8075709
+MNPR,Monopar Therapeutics Inc.,550297424.4944375
+CBIO,"Crescent Biopharma, Inc.",540444334.4918699
+MPLT,"MapLight Therapeutics, Inc.",537466230.070936
+YDES,YD Bio Limited,533446610.53088045
+EOLS,"Evolus, Inc. Common Stock",533027018.88360447
+SGHT,"Sight Sciences, Inc.",523060484.8524064
+AGMB,AgomAb Therapeutics NV,518581216.00000006
+ARVN,"Arvinas, Inc.",518185573.7133333
+PBYI,Puma Biotechnology Inc,515684460.892638
+MASS,908 Devices Inc.,511297911.7991561
+TCMD,"Tactile Systems Technology, Inc.",508543805.17532176
+RGNX,REGENXBIO Inc.,507971552.309396
+OVID,Ovid Therapeutics Inc.,498986041.956693
+PROK,ProKidney Corp.,497320765.809816
+ENTX,Entera Bio Ltd.,495427649.05204463
+AUTL,Autolus Therapeutics plc,495049766
+CERS,Cerus Corporation,491720730.3157894
+KMDA,Kamada Ltd.,489824384.20143074
+CTNM,"Contineum Therapeutics, Inc.",484936409.413913
+ASMB,"Assembly Biosciences, Inc.",483156926.8287904
+TKNO,"Alpha Teknova, Inc.",479972930.3854626
+NPCE,"Neuropace, Inc.",476764125.44548064
+DMAC,DiaMedica Therapeutics Inc.,456480985.4640245
+AGEN,Agenus Inc.,444844876.34479266
+PRTA,Prothena Corporation plc,441497939.453303
+KYTX,"Kyverna Therapeutics, Inc.",432594906.1608187
+SPRY,"ARS Pharmaceuticals, Inc.",430109763.1931818
+EIKN,"Eikon Therapeutics, Inc.",428445390
+IRD,"Opus Genetics, Inc.",427626527.1442987
+AVIR,"Atea Pharmaceuticals, Inc.",421074643.58108115
+MYGN,"Myriad Genetics, Inc.",416075982.1276595
+RZLT,"Rezolute, Inc.",411069942.2982885
+CCCC,"C4 Therapeutics, Inc.",405367822.40415335
+EDIT,"Editas Medicine, Inc.",402425745.8306178
+RLMD,"Relmada Therapeutics, Inc.",401131956.30643433
+GALT,Galectin Therapeutics Inc.,400373079.5319693
+SI,"Shoulder Innovations, Inc.",398058464.9324109
+TTRX,Turn Therapeutics Inc.,396180903.8329604
+ZURA,Zura Bio Limited,395295201.46875
+ARCT,Arcturus Therapeutics Holdings Inc.,393943730.9781022
+OFIX,Orthofix Medical Inc.,386552457.7066667
+ENTA,"Enanta Pharmaceuticals, Inc.",386494101.04351264
+CLPT,ClearPoint Neuro Inc.,375812087.32710284
+OBIO,"Orchestra BioMed Holdings, Inc.",374454451.2532895
+SCTX,Scribe Therapeutics Inc.,373900666.7933131
+RCEL,"Avita Medical, Inc.",373596318.70903003
+SRZN,"Surrozen, Inc.",371529937.89681053
+FENC,Fennec Pharmaceuticals Inc.,371361247.9333333
+ARTV,"Artiva Biotherapeutics, Inc.",356408995.9544808
+OCGN,"Ocugen, Inc.",356065944.0825688
+INDP,"Indaptus Therapeutics, Inc.",351701162.53684205
+CV,"CapsoVision, Inc.",345867302.69058293
+BNTC,Benitec Biopharma Inc.,343943665.71897435
+EBS,Emergent BioSolutions Inc.,340967678.5187862
+VOGX,Vogenx Inc,333496716.6255397
+CABA,"Cabaletta Bio, Inc.",329918476.41333336
+LRMR,"Larimar Therapeutics, Inc.",328789498.44745225
+BIOA,"BioAge Labs, Inc.",325868066.5686274
+EMBC,Embecta Corp.,325509410.9765625
+SMTI,Sanara MedTech Inc.,322637850.87631804
+ZJYL,JIN MEDICAL INTERNATIONAL LTD.,316389064.89361703
+PRLD,Prelude Therapeutics Incorporated,315223760.1641414
+BBOT,"BridgeBio Oncology Therapeutics, Inc.",314283117
+MOBI,"Mobia Medical, Inc.",310772429.8841464
+IPSC,"Century Therapeutics, Inc.",306922684.8636364
+CATX,"Perspective Therapeutics, Inc.",306497206.8950382
+EVMN,"Evommune, Inc.",305942537.2742515
+VNDA,Vanda Pharmaceuticals Inc.,303825022.5447316
+ABEO,Abeona Therapeutics Inc.,301073841.627907
+SABS,"SAB Biotherapeutics, Inc.",296615556.6832298
+TMCI,"Treace Medical Concepts, Inc.",296557556.88311684
+CYDY,CytoDyn Inc.,294388443.5643564
+RCKT,"Rocket Pharmaceuticals, Inc.",294195910.4092664
+FATE,"Fate Therapeutics, Inc.",293560284.7058824
+LAB,Standard BioTools Inc.,289857431.8348044
+UPB,"Upstream Bio, Inc.",288643374.0982659
+EYPT,"EyePoint, Inc.",288379624.1447369
+XFOR,"X4 Pharmaceuticals, Inc.",286038364.7965517
+IKT,"Inhibikase Therapeutics, Inc.",285350920.5618812
+LXEO,"Lexeo Therapeutics, Inc.",284025031.374269
+FULC,"Fulcrum Therapeutics, Inc.",283062825.5756756
+GLSI,"Greenwich LifeSciences, Inc.",278445599.52611536
+BFNH,"BioForce Nanosciences Holdings, Inc.",277651540.4899203
+AMRN,Amarin Corporation plc,277554049
+ACIU,AC Immune SA,276824092.61538464
+TLSI,"TriSalus Life Sciences, Inc.",275238463.05176467
+STRO,"Sutro Biopharma, Inc.",271765399.71428573
+IFRX,InflaRx N.V.,271157537.7297297
+IMRX,Immuneering Corporation,270435152.24213076
+OSUR,"OraSure Technologies, Inc.",268205195.5170681
+USNA,"USANA Health Sciences, Inc.",267540207.59183678
+ANIK,Anika Therapeutics Inc.,265584957.41438955
+ZNTL,"Zentalis Pharmaceuticals, Inc.",259874393.30386743
+ELTP,"Elite Pharmaceuticals, Inc.",258728172.72719666
+BCYC,Bicycle Therapeutics plc,254821636
+AKBA,"Akebia Therapeutics, Inc.",253496806.66245344
+QTTB,Q32 Bio Inc.,252296220.81059813
+LFCR,"Lifecore Biomedical, Inc.",250110381.97311074
+NWBO,"Northwest Biotherapeutics, Inc.",249534826.6782609
+CAMP,CAMP4 Therapeutics Corporation,249130211.10741687
+IVVD,"Invivyd, Inc.",248039489.7335608
+MGNX,"MacroGenics, Inc.",246838225.66313
+TRDA,"Entrada Therapeutics, Inc.",244522286.39616615
+PALI,"Palisade Bio, Inc.",243978804.27586207
+SLGL,Sol-Gel Technologies Ltd.,243094423.9515571
+LCTX,"Lineage Cell Therapeutics, Inc.",242310645.16158313
+SIGA,SIGA Technologies Inc.,240696553.43023258
+UTMD,"Utah Medical Products, Inc.",236766821.70513675
+LYEL,"Lyell Immunopharma, Inc.",235004298.37590858
+ELMD,"Electromed, Inc.",234503555.03423938
+NAGE,"Niagen Bioscience, Inc.",233817332.00338984
+SION,"Sionna Therapeutics, Inc.",233748104.98834953
+PRQR,ProQR Therapeutics N.V.,230606365.88484848
+YARW,"Yarrow Bioscience, Inc.",229666278.6008681
+RNAC,"Cartesian Therapeutics, Inc.",227822793.82044202
+CGEN,Compugen Ltd.,226873378.59148937
+PLX,"Protalix BioTherapeutics, Inc. (DE)",226809171.20446098
+KROS,"Keros Therapeutics, Inc.",225038559.74084002
+NATR,"Nature's Sunshine Products, Inc.",223463107.78213167
+PDEX,"Pro-Dex, Inc.",220725724.6645244
+WHWK,"Whitehawk Therapeutics, Inc.",217204330.85790884
+ADAG,Adagene Inc.,215530137
+ALEC,"Alector, Inc.",215497859.31550798
+ELDN,"Eledon Pharmaceuticals, Inc.",210872674.90800002
+FHTX,Foghorn Therapeutics Inc.,209333233.57244316
+NGEN,NervGen Pharma Corp.,209131522.8463542
+AVXL,Anavex Life Sciences Corp.,204396536.49788135
+ORMP,Oramed Pharmaceuticals Inc.,195299583.7771855
+ANTX,"AN2 Therapeutics, Inc.",192832174.75442043
+ALXO,ALX Oncology Holdings Inc.,190822253.86666664
+CUE,"Cue Biopharma, Inc.",190327644.6021168
+DERM,Journey Medical Corporation,189950164.2989214
+NKTX,"Nkarta, Inc.",189447551.5801527
+CHRS,"Coherus Oncology, Inc.",184628640.31355935
+PYXS,"Pyxis Oncology, Inc.",183914757.85344827
+CMPX,"Compass Therapeutics, Inc.",183689683.96363637
+STIM,"Neuronetics, Inc.",183627672.10461867
+NAUT,"Nautilus Biotechnology, Inc.",181974974.76190478
+MDWD,MediWound Ltd.,178533659.0201739
+TARA,"Protara Therapeutics, Inc.",177877425.9314642
+ORGO,Organogenesis Holdings Inc.,177570871.27797833
+VRXA,Veraxa Biotech AG,177279360
+HSDT,Solana Company,175934817
+PEPG,PepGen Inc.,174187670.44444445
+DTIL,"Precision BioSciences, Inc.",173613774.94498384
+QTRX,Quanterix Corporation,173092632.31062672
+FOCL,EDAP TMS S.A.,170168215
+ABOS,"Acumen Pharmaceuticals, Inc.",169584020.97327396
+TNXP,Tonix Pharmaceuticals Holding Corp.,168594558.17823833
+VYGR,"Voyager Therapeutics, Inc.",164519934.59090906
+ADCT,ADC Therapeutics SA,161563469.20569104
+NERV,"Minerva Neurosciences, Inc",161386743.71940297
+NBP,NovaBridge Biosciences,158918931
+LUCD,Lucid Diagnostics Inc.,157005971.8572311
+MENS,Jyong Biotech Ltd.,154257554.89753696
+OTLK,"Outlook Therapeutics, Inc.",149123789.8653508
+SDEV,Stablecoin Development Corporation,147486194.5889908
+HUMA,"Humacyte, Inc.",144760588.08072087
+RNA,"Atrium Therapeutics, Inc.",143858453.57482186
+KRRO,"Korro Bio, Inc.",143354170.16422594
+SPRB,"Spruce Biosciences, Inc.",142033720.8813201
+INGN,"Inogen, Inc",141980103.25884545
+TNYA,"Tenaya Therapeutics, Inc.",140076490.47951445
+HURA,"TuHURA Biosciences, Inc.",137012220.12077296
+ARMP,"Armata Pharmaceuticals, Inc.",136457863.3286908
+CRBU,"Caribou Biosciences, Inc.",135617503.82258067
+TLSA,Tiziana Life Sciences Ltd,134724585.08965084
+KRMD,"KORU Medical Systems, Inc.",134591098.68552414
+AGPU,Axe Compute Inc.,133761568.01752985
+SMNR,Semnur Pharmaceuticals Inc.,131219206.00000001
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",130940558.11312218
+NRXP,"NRX Pharmaceuticals, Inc.",130748884.03297946
+UNCY,"Unicycive Therapeutics, Inc.",130641161.15384617
+HRBR,"Harbor Diversified, Inc.",128545643.00000001
+AIRS,"AirSculpt Technologies, Inc.",127608513.83333333
+STXS,"Stereotaxis, Inc.",124250702.208
+IMUX,"Immunic, Inc.",124028197.91919191
+MXCT,"MaxCyte, Inc.",123847433.89830509
+PMVP,"PMV Pharmaceuticals, Inc.",123463838.46503498
+SEER,"Seer, Inc.",122925883.36744188
+VTVT,vTv Therapeutics Inc.,121507034.60000001
+LENZ,"LENZ Therapeutics, Inc.",120336769.69113989
+CPIX,Cumberland Pharmaceuticals Inc.,119190621.85228758
+INO,"Inovio Pharmaceuticals, Inc.",118907142.61261259
+COYA,"Coya Therapeutics, Inc.",117992988
+AARD,"Aardvark Therapeutics, Inc.",116646226.09158878
+UMEW,UMeWorld Inc.,116099594
+NMRA,"Neumora Therapeutics, Inc.",115602959.88414992
+RANI,"Rani Therapeutics Holdings, Inc.",114136885.35998999
+GNLX,Genelux Corporation,113959426.54955101
+IMDX,Insight Molecular Diagnostics Inc.,113471449.72263314
+VANI,"Vivani Medical, Inc.",113205220.06504063
+QUCY,Quantum Cyber N.V.,111987234.76310077
+KZIA,Kazia Therapeutics Limited,111412265
+MIST,Milestone Pharmaceuticals Inc.,109981512.7309756
+VXRT,"Vaxart, Inc.",109275908.92936474
+BDTX,"Black Diamond Therapeutics, Inc.",108633544.93882352
+PYPD,PolyPid Ltd.,106839887.0321361
+OKUR,"OnKure Therapeutics, Inc.",106707765.70192307
+APYX,Apyx Medical Corporation,105310054.80769232
+ZSTK,ZeroStack Corp.,103891901.33694214
+EQ,"Equillium, Inc.",102721092
+ANIX,"Anixa Biosciences, Inc.",100693347.71631578
+PMN,ProMIS Neurosciences Inc.,99900106.24729665
+CNXU,Conexeu Sciences Inc.,99005509.43126684
+ECOR,"electroCore, Inc.",98615744.2990809
+CTOR,"Citius Oncology, Inc.",98560068.97142857
+KEQU,Kewaunee Scientific Corporation,98441794
+BGM,BGM Group Ltd.,98152720.60240963
+BMEA,"Biomea Fusion, Inc.",97853195.35714287
+NTHI,"NeOnc Technologies Holdings, Inc.",96209973.24848485
+CRDF,"Cardiff Oncology, Inc.",95688153.82051282
+NTRB,Nutriband Inc.,95057437.50545454
+NRXS,"Neuraxis, Inc.",94434395.31958762
+UPXI,"Upexi, Inc.",94245432.79930437
+RNGE,Range Impact Inc.,92779504.78727272
+CGTX,"Cognition Therapeutics, Inc.",92145836.642917
+ACRV,"Acrivon Therapeutics, Inc.",91920460.5
+GUTS,"Fractyl Health, Inc.",90716587.7473077
+RLYB,Rallybio Corporation,89880194.80836238
+ICCC,ImmuCell Corporation,88415185.65995975
+FTLF,"FitLife Brands, Inc.",87524794.64906491
+HYPR,"Hyperfine, Inc.",87113683.69608696
+WRAP,"Wrap Technologies, Inc.",86795956.02898552
+MNOV,"MediciNova, Inc.",85644964.12500001
+LUNG,Pulmonx Corporation,84822831.6540404
+LNSR,"LENSAR, Inc.",84588180.02608694
+ATRA,"Atara Biotherapeutics, Inc.",84417144.75652173
+ONCY,Oncolytics Biotech Inc.,83353616.51519644
+MBOT,Microbot Medical Inc.,82948530.9759036
+PTHS,Pelthos Therapeutics Inc.,82484366.1704111
+TELO,"Telomir Pharmaceuticals, Inc.",82186068.82478634
+SKIN,SkinHealth Systems Inc.,81364006.13556592
+LFVN,Lifevantage Corporation,78872869.55458862
+ALDX,"Aldeyra Therapeutics, Inc.",78725985.61363636
+GANX,"Gain Therapeutics, Inc.",78558505.71428572
+VRCA,Verrica Pharmaceuticals Inc.,78163473.68834081
+CNTB,Connect Biopharma Holdings Limited,77143526.63810484
+ZOMDF,Zomedica Corp.,76926053.23662154
+OSTX,OS Therapies Incorporated,76760576.89440992
+GOSS,"Gossamer Bio, Inc.",74182486.90846287
+IBIO,"iBio, Inc.",73632806.35897435
+RNXT,"RenovoRx, Inc.",73335454.06050955
+FBIO,"Fortress Biotech, Inc.",72538405.2272727
+SPRO,"Spero Therapeutics, Inc.",72211191.26666667
+CING,Cingulate Inc.,71545788.40366973
+OKYO,OKYO Pharma Limited,71340669.28367646
+MAIA,"MAIA Biotechnology, Inc.",71236853.29130435
+TENX,"Tenax Therapeutics, Inc.",69047132.60054347
+RNTX,"Rein Therapeutics, Inc.",68983431.85537975
+DRIO,DarioHealth Corp.,67744793.95990936
+PLRX,"Pliant Therapeutics, Inc.",67185261.5
+ACET,"Adicet Bio, Inc.",67168692.11566617
+XBIT,XBiotech Inc.,67073007.61467889
+CSBR,"Champions Oncology, Inc.",66948319.39039666
+HYFT,MindWalk Holdings Corp.,64542984.32608697
+VISK,"Viskase Holdings, Inc.",64492290.00000001
+FRMM,"Forum Markets, Incorporated",64014895.95238095
+HRTX,"Heron Therapeutics, Inc.",63980227.522875816
+INKT,"MiNK Therapeutics, Inc.",63838557.550570965
+SGMOQ,"Sangamo Therapeutics, Inc.",62681903.00499999
+KLRS,"Kalaris Therapeutics, Inc.",60936430.53351724
+TLPH,"Talphera, Inc.",60729779.00000001
+AURX,"Nuo Therapeutics, Inc.",60542221
+NMAD,"Nomad Power Solutions, Inc.",60540017.68533333
+ELOX,"Eloxx Pharmaceuticals, Inc.",60244150.787937745
+MREO,Mereo BioPharma Group plc,59569665
+MDXH,MDxHealth SA,59130148.47923077
+XLO,"Xilio Therapeutics, Inc.",58812094
+CLNN,Clene Inc.,58419462.81219514
+HYPD,"Hyperion DeFi, Inc.",58117481.60401002
+POSC,Positron Corp.,57481069.459459454
+CIRC,"Circle8 Group, Inc.",57237783.79781939
+OM,"Outset Medical, Inc.",57079540.64686468
+BOLD,"Boundless Bio, Inc.",56983698.90234375
+ANVS,"Annovis Bio, Inc.",56336354.12307692
+INMB,INmune Bio Inc.,55507580.612244904
+BSEM,"BioStem Technologies, Inc.",55281719.66057441
+TELA,"TELA Bio, Inc.",55074959.80645161
+COCH,"Envoy Medical, Inc.",54865025.54090269
+NNOX,NANO-X IMAGING LTD,54689834.7457317
+CVRX,"CVRx, Inc.",54348861.6730038
+IMA,"ImageneBio, Inc.",51989666.00000001
+MDAI,"Spectral AI, Inc.",51817736.89240507
+XTNT,"Xtant Medical Holdings, Inc.",50503663.15789473
