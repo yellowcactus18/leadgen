@@ -1,0 +1,68 @@
+ticker,clean_name,domain,confidence
+GUTS,Fractyl Health,fractyl.com,medium
+RLYB,Rallybio,rallybio.com,medium
+ICCC,ImmuCell,immucell.com,medium
+FTLF,FitLife Brands,fitlifebrands.com,medium
+HYPR,Hyperfine,hyperfine.io,medium
+WRAP,Wrap Technologies,wrap.com,medium
+MNOV,MediciNova,medicinova.com,medium
+LUNG,Pulmonx,pulmonx.com,medium
+LNSR,LENSAR,lensar.com,medium
+ATRA,Atara Biotherapeutics,atarabio.com,medium
+ONCY,Oncolytics Biotech,oncolyticsbiotech.com,medium
+MBOT,Microbot Medical,microbotmedical.com,medium
+PTHS,Pelthos Therapeutics,pelthos.com,medium
+TELO,Telomir Pharmaceuticals,telomir.com,medium
+SKIN,SkinHealth Systems,skinhealthsystems.com,high
+LFVN,LifeVantage,lifevantage.com,medium
+ALDX,Aldeyra Therapeutics,aldeyra.com,medium
+GANX,Gain Therapeutics,gaintherapeutics.com,medium
+VRCA,Verrica Pharmaceuticals,verrica.com,medium
+CNTB,Connect Biopharma,connectbiopharm.com,medium
+ZOMDF,Zomedica,zomedica.com,medium
+OSTX,OS Therapies,ostherapies.com,medium
+GOSS,Gossamer Bio,gossamerbio.com,medium
+IBIO,iBio,ibioinc.com,medium
+RNXT,RenovoRx,renovorx.com,medium
+FBIO,Fortress Biotech,fortressbiotech.com,medium
+SPRO,Spero Therapeutics,sperotherapeutics.com,medium
+CING,Cingulate,cingulate.com,medium
+OKYO,OKYO Pharma,okyopharma.com,medium
+MAIA,MAIA Biotechnology,maiabiotech.com,medium
+TENX,Tenax Therapeutics,tenax.com,medium
+RNTX,Rein Therapeutics,reintx.com,medium
+DRIO,DarioHealth,dariohealth.com,medium
+PLRX,Pliant Therapeutics,pliantrx.com,medium
+ACET,Adicet Bio,adicetbio.com,medium
+XBIT,XBiotech,xbiotech.com,medium
+CSBR,Champions Oncology,championsoncology.com,medium
+HYFT,MindWalk,mindwalk.ai,medium
+VISK,Viskase,viskase.com,medium
+FRMM,Forum Markets,forum-markets.com,high
+HRTX,Heron Therapeutics,herontx.com,medium
+INKT,MiNK Therapeutics,minktherapeutics.com,medium
+SGMOQ,Sangamo Therapeutics,sangamo.com,medium
+KLRS,Kalaris Therapeutics,kalaristx.com,medium
+TLPH,Talphera,talphera.com,medium
+AURX,Nuo Therapeutics,nuotherapeutics.com,medium
+NMAD,Nomad Power Solutions,nomadpower.com,high
+ELOX,Eloxx Pharmaceuticals,eloxxpharma.com,low
+MREO,Mereo BioPharma,mereobiopharma.com,medium
+MDXH,MDxHealth,mdxhealth.com,medium
+XLO,Xilio Therapeutics,xiliotx.com,medium
+CLNN,Clene,clene.com,medium
+HYPD,Hyperion DeFi,hyperiondefi.com,high
+POSC,Positron,positron.com,low
+CIRC,Circle8 Group,circle8group.com,high
+OM,Outset Medical,outsetmedical.com,medium
+BOLD,Boundless Bio,boundlessbio.com,medium
+ANVS,Annovis Bio,annovisbio.com,medium
+INMB,INmune Bio,inmunebio.com,medium
+BSEM,BioStem Technologies,biostemtechnologies.com,medium
+TELA,TELA Bio,telabio.com,medium
+COCH,Envoy Medical,envoymedical.com,medium
+NNOX,Nano-X Imaging,nanox.vision,medium
+CVRX,CVRx,cvrx.com,medium
+IMA,ImageneBio,imagenebio.com,high
+MDAI,Spectral AI,spectral-ai.com,medium
+XTNT,Xtant Medical,xtantmedical.com,medium

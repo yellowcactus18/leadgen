@@ -1,0 +1,73 @@
+ticker,clean_name,domain,confidence
+FOCL,EDAP TMS,focalone.com,medium
+ABOS,Acumen Pharmaceuticals,acumenpharm.com,medium
+TNXP,Tonix Pharmaceuticals,tonixpharma.com,medium
+VYGR,Voyager Therapeutics,voyagertherapeutics.com,medium
+ADCT,ADC Therapeutics,adctherapeutics.com,medium
+NERV,Minerva Neurosciences,minervaneurosciences.com,medium
+NBP,NovaBridge Biosciences,novabridge.com,high
+LUCD,Lucid Diagnostics,luciddx.com,medium
+MENS,Jyong Biotech,jyongbio.com,medium
+OTLK,Outlook Therapeutics,outlooktherapeutics.com,medium
+SDEV,Stablecoin Development Corporation,stabledev.com,high
+HUMA,Humacyte,humacyte.com,medium
+RNA,Atrium Therapeutics,atriumtherapeutics.com,high
+KRRO,Korro Bio,korrobio.com,medium
+SPRB,Spruce Biosciences,sprucebio.com,medium
+INGN,Inogen,inogen.com,medium
+TNYA,Tenaya Therapeutics,tenayatherapeutics.com,medium
+HURA,TuHURA Biosciences,tuhurabio.com,medium
+ARMP,Armata Pharmaceuticals,armatapharma.com,medium
+CRBU,Caribou Biosciences,cariboubio.com,medium
+TLSA,Tiziana Life Sciences,tizianalifesciences.com,medium
+KRMD,KORU Medical Systems,korucare.com,medium
+AGPU,Axe Compute,axecompute.com,high
+SMNR,Semnur Pharmaceuticals,semnur.com,medium
+CRBP,Corbus Pharmaceuticals,corbuspharma.com,medium
+NRXP,NRX Pharmaceuticals,nrxpharma.com,medium
+UNCY,Unicycive Therapeutics,unicycive.com,medium
+HRBR,Harbor Diversified,harbordiversified.com,low
+AIRS,AirSculpt Technologies,airsculpt.com,medium
+STXS,Stereotaxis,stereotaxis.com,medium
+IMUX,Immunic,imux.com,medium
+MXCT,MaxCyte,maxcyte.com,medium
+PMVP,PMV Pharmaceuticals,pmvpharma.com,medium
+SEER,Seer,seer.bio,medium
+VTVT,vTv Therapeutics,vtvtherapeutics.com,medium
+LENZ,LENZ Therapeutics,lenz-tx.com,medium
+CPIX,Cumberland Pharmaceuticals,cumberlandpharma.com,medium
+INO,Inovio Pharmaceuticals,inovio.com,medium
+COYA,Coya Therapeutics,coyatherapeutics.com,medium
+AARD,Aardvark Therapeutics,aardvarktherapeutics.com,medium
+UMEW,UMeWorld,umeworld.com,medium
+NMRA,Neumora Therapeutics,neumoratx.com,medium
+RANI,Rani Therapeutics,ranitherapeutics.com,medium
+GNLX,Genelux,genelux.com,medium
+IMDX,Insight Molecular Diagnostics,imdxinc.com,high
+VANI,Vivani Medical,vivani.com,medium
+QUCY,Quantum Cyber,quantum-cyber.ai,high
+KZIA,Kazia Therapeutics,kaziatherapeutics.com,medium
+MIST,Milestone Pharmaceuticals,milestonepharma.com,medium
+VXRT,Vaxart,vaxart.com,medium
+BDTX,Black Diamond Therapeutics,blackdiamondtherapeutics.com,medium
+PYPD,PolyPid,polypid.com,medium
+OKUR,OnKure Therapeutics,onkuretherapeutics.com,medium
+APYX,Apyx Medical,apyxmedical.com,medium
+ZSTK,ZeroStack,zerostack.ai,high
+EQ,Equillium,equilliumbio.com,medium
+ANIX,Anixa Biosciences,anixa.com,medium
+PMN,ProMIS Neurosciences,promisneurosciences.com,medium
+CNXU,Conexeu Sciences,conexeu.com,high
+ECOR,electroCore,electrocore.com,medium
+CTOR,Citius Oncology,citiusonc.com,medium
+KEQU,Kewaunee Scientific,kewaunee.com,medium
+BGM,BGM Group,bgmgroupltd.com,medium
+BMEA,Biomea Fusion,biomeafusion.com,medium
+NTHI,NeOnc Technologies,neonc.com,medium
+CRDF,Cardiff Oncology,cardiffoncology.com,medium
+NTRB,Nutriband,nutriband.com,medium
+NRXS,Neuraxis,neuraxis.com,medium
+UPXI,Upexi,upexi.com,medium
+RNGE,Range Impact,rangeimpact.com,high
+CGTX,Cognition Therapeutics,cogrx.com,medium
+ACRV,Acrivon Therapeutics,acrivon.com,medium

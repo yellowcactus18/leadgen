@@ -1,0 +1,73 @@
+ticker,clean_name,domain,confidence
+ZYME,Zymeworks,zymeworks.com,medium
+MRVI,Maravai LifeSciences,maravai.com,medium
+SRPT,Sarepta Therapeutics,sarepta.com,medium
+XNCR,Xencor,xencor.com,medium
+BRVE,Braveheart Bio,braveheart.bio,high
+GENB,Generate Biomedicines,generatebiomedicines.com,high
+BLFS,BioLife Solutions,biolifesolutions.com,medium
+LMAT,LeMaitre Vascular,lemaitre.com,medium
+ESTA,Establishment Labs,establishmentlabs.com,medium
+VIR,Vir Biotechnology,vir.bio,medium
+NVCR,Novocure,novocure.com,medium
+SEPN,Septerna,septerna.com,medium
+ABSI,Absci,absci.com,medium
+NVAX,Novavax,novavax.com,medium
+ZBIO,Zenas BioPharma,zenasbio.com,medium
+CMPS,Compass Pathways,compasspathways.com,medium
+XERS,Xeris Biopharma,xerispharma.com,medium
+XRAY,Dentsply Sirona,dentsplysirona.com,medium
+KMTS,Kestra Medical Technologies,kestramedical.com,high
+QURE,uniQure,uniqure.com,medium
+FRNM,Freenome,freenome.com,high
+STOK,Stoke Therapeutics,stoketherapeutics.com,medium
+OCUL,Ocular Therapeutix,ocutx.com,medium
+NTLA,Intellia Therapeutics,intelliatx.com,medium
+ANIP,ANI Pharmaceuticals,anipharmaceuticals.com,medium
+SNDX,Syndax Pharmaceuticals,syndax.com,medium
+GHRS,GH Research,ghres.com,medium
+TSHA,Taysha Gene Therapies,tayshagtx.com,medium
+ATEC,Alphatec,atecspine.com,medium
+IMCR,Immunocore,immunocore.com,medium
+RAPP,Rapport Therapeutics,rapportrx.com,medium
+ETON,Eton Pharmaceuticals,etonpharma.com,medium
+INBX,Inhibrx Biosciences,inhibrx.com,medium
+MAZE,Maze Therapeutics,mazetx.com,medium
+INVA,Innoviva,inva.com,medium
+ANAB,AnaptysBio,anaptysbio.com,medium
+TYRA,Tyra Biosciences,tyra.bio,medium
+COAG,Hemab Therapeutics,hemab.com,high
+RARE,Ultragenyx Pharmaceutical,ultragenyx.com,medium
+KLRA,Kailera Therapeutics,kailera.com,high
+AVBP,ArriVent BioPharma,arrivent.com,medium
+KRSA,Korsana Biosciences,korsana.com,high
+ORIC,Oric Pharmaceuticals,oricpharma.com,medium
+PAHC,Phibro Animal Health,pahc.com,medium
+OMER,Omeros,omeros.com,medium
+CNMD,CONMED,conmed.com,medium
+IMTX,Immatics,immatics.com,medium
+KARD,Kardigan,kardigan.bio,high
+DMRA,Damora Therapeutics,damoratx.com,medium
+TRAX,First Tracks Biotherapeutics,firsttracksbio.com,high
+IART,Integra LifeSciences,integralife.com,medium
+REPL,Replimune,replimune.com,medium
+LBRX,LB Pharmaceuticals,lbpharma.us,high
+AVLN,Avalyn Pharma,avalynpharma.com,high
+BCAX,Bicara Therapeutics,bicara.com,medium
+HROW,Harrow,harrow.com,medium
+MNKD,MannKind,mannkindcorp.com,medium
+VOR,Vor Biopharma,vorbio.com,medium
+TNDM,Tandem Diabetes Care,tandemdiabetes.com,medium
+BVS,Bioventus,bioventus.com,medium
+LTGO,Latigo Biotherapeutics,latigobio.com,high
+STAA,STAAR Surgical,staar.com,medium
+AMPH,Amphastar Pharmaceuticals,amphastar.com,medium
+AORT,Artivion,artivion.com,medium
+ODTX,Odyssey Therapeutics,odysseytx.com,high
+IRMD,iRadimed,iradimed.com,medium
+MGTX,MeiraGTx,meiragtx.com,medium
+AKTS,Aktis Oncology,aktisoncology.com,high
+CSTL,Castle Biosciences,castlebiosciences.com,medium
+JANX,Janux Therapeutics,janux.com,medium
+SVRA,Savara,savarapharma.com,medium
+PRCT,PROCEPT BioRobotics,procept-biorobotics.com,medium

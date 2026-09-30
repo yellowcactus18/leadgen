@@ -1,0 +1,73 @@
+ticker,clean_name,domain,confidence
+LAB,Standard BioTools,standardbio.com,medium
+UPB,Upstream Bio,upstreambio.com,medium
+EYPT,EyePoint,eyepoint.com,medium
+XFOR,X4 Pharmaceuticals,x4pharma.com,medium
+IKT,Inhibikase Therapeutics,inhibikase.com,medium
+LXEO,Lexeo Therapeutics,lexeotx.com,medium
+FULC,Fulcrum Therapeutics,fulcrumtx.com,medium
+GLSI,Greenwich LifeSciences,greenwichlifesciences.com,medium
+BFNH,BioForce Nanosciences,bioforceeclipse.com,high
+AMRN,Amarin,amarincorp.com,medium
+ACIU,AC Immune,acimmune.com,medium
+TLSI,TriSalus Life Sciences,trisalus.com,medium
+STRO,Sutro Biopharma,sutrobio.com,medium
+IFRX,InflaRx,inflarx.com,medium
+IMRX,Immuneering,immuneering.com,medium
+OSUR,OraSure Technologies,orasure.com,medium
+USNA,USANA Health Sciences,usana.com,medium
+ANIK,Anika Therapeutics,anika.com,medium
+ZNTL,Zentalis Pharmaceuticals,zentalis.com,medium
+ELTP,Elite Pharmaceuticals,elitepharma.com,medium
+BCYC,Bicycle Therapeutics,bicycletherapeutics.com,medium
+AKBA,Akebia Therapeutics,akebia.com,medium
+QTTB,Q32 Bio,q32bio.com,medium
+LFCR,Lifecore Biomedical,lifecore.com,medium
+NWBO,Northwest Biotherapeutics,nwbio.com,medium
+CAMP,CAMP4 Therapeutics,camp4tx.com,medium
+IVVD,Invivyd,invivyd.com,medium
+MGNX,MacroGenics,macrogenics.com,medium
+TRDA,Entrada Therapeutics,entradatx.com,medium
+PALI,Palisade Bio,palisadebio.com,medium
+SLGL,Sol-Gel Technologies,sol-gel.com,medium
+LCTX,Lineage Cell Therapeutics,lineagecell.com,medium
+SIGA,SIGA Technologies,siga.com,medium
+UTMD,Utah Medical Products,utahmed.com,medium
+LYEL,Lyell Immunopharma,lyell.com,medium
+ELMD,Electromed,electromed.com,medium
+NAGE,Niagen Bioscience,niagenbioscience.com,medium
+SION,Sionna Therapeutics,sionnatx.com,medium
+PRQR,ProQR Therapeutics,proqr.com,medium
+YARW,Yarrow Bioscience,yarrowbioscience.com,high
+RNAC,Cartesian Therapeutics,cartesiantx.com,medium
+CGEN,Compugen,cgen.com,medium
+PLX,Protalix BioTherapeutics,protalix.com,medium
+KROS,Keros Therapeutics,kerostx.com,medium
+NATR,Nature's Sunshine Products,naturessunshine.com,medium
+PDEX,Pro-Dex,pro-dex.com,medium
+WHWK,Whitehawk Therapeutics,whitehawktx.com,high
+ADAG,Adagene,adagene.com,medium
+ALEC,Alector,alector.com,medium
+ELDN,Eledon Pharmaceuticals,eledon.com,medium
+FHTX,Foghorn Therapeutics,foghorntx.com,medium
+NGEN,NervGen Pharma,nervgen.com,medium
+AVXL,Anavex Life Sciences,anavex.com,medium
+ORMP,Oramed Pharmaceuticals,oramed.com,medium
+ANTX,AN2 Therapeutics,an2therapeutics.com,medium
+ALXO,ALX Oncology,alxoncology.com,medium
+CUE,Cue Biopharma,cuebiopharma.com,medium
+DERM,Journey Medical,journeymedicalcorp.com,medium
+NKTX,Nkarta,nkartatx.com,medium
+CHRS,Coherus Oncology,coherus.com,medium
+PYXS,Pyxis Oncology,pyxisoncology.com,medium
+CMPX,Compass Therapeutics,compasstherapeutics.com,medium
+STIM,Neuronetics,neuronetics.com,medium
+NAUT,Nautilus Biotechnology,nautilus.bio,medium
+MDWD,MediWound,mediwound.com,medium
+TARA,Protara Therapeutics,protaratx.com,medium
+ORGO,Organogenesis,organogenesis.com,medium
+VRXA,Veraxa Biotech,veraxa.com,high
+HSDT,Solana Company,solanacompany.co,high
+PEPG,PepGen,pepgen.com,medium
+DTIL,Precision BioSciences,precisionbiosciences.com,medium
+QTRX,Quanterix,quanterix.com,medium

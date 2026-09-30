@@ -1,0 +1,73 @@
+ticker,clean_name,domain,confidence
+BBNX,Beta Bionics,betabionics.com,medium
+ENOV,Enovis,enovis.com,medium
+ANRO,Alto Neuroscience,altoneuroscience.com,medium
+SPTX,Seaport Therapeutics,seaporttx.com,high
+GLUE,Monte Rosa Therapeutics,monterosatx.com,medium
+MLTX,MoonLake Immunotherapeutics,moonlaketx.com,medium
+PCRX,Pacira BioSciences,pacira.com,medium
+CGEM,Cullinan Therapeutics,cullinantherapeutics.com,medium
+ALMS,Alumis,alumis.com,medium
+CRVS,Corvus Pharmaceuticals,corvuspharma.com,medium
+ABUS,Arbutus Biopharma,arbutusbio.com,medium
+KURA,Kura Oncology,kuraoncology.com,medium
+CBLL,CeriBell,ceribell.com,medium
+APMD,Apnimed,apnimed.com,high
+JBIO,Jade Biosciences,jadebiosciences.com,medium
+RIGL,Rigel Pharmaceuticals,rigel.com,medium
+NNNN,Anbio Biotechnology,anbio.com,medium
+OBX,Obsidian Therapeutics,obsidiantx.com,high
+SGP,SpyGlass Pharma,spyglasspharma.com,high
+SANA,Sana Biotechnology,sana.com,medium
+LXRX,Lexicon Pharmaceuticals,lexpharma.com,medium
+ARDX,Ardelyx,ardelyx.com,medium
+SIBN,SI-BONE,si-bone.com,medium
+ACHV,Achieve Life Sciences,achievelifesciences.com,medium
+CADL,Candel Therapeutics,candeltx.com,medium
+AVTX,Avalo Therapeutics,avalotx.com,medium
+INMD,InMode,inmodemd.com,medium
+ANNX,Annexon,annexonbio.com,medium
+ATTO,Attovia Therapeutics,attovia.com,high
+SLDB,Solid Biosciences,solidbio.com,medium
+GERN,Geron,geron.com,medium
+DSGN,Design Therapeutics,designtx.com,medium
+VREX,Varex Imaging,vareximaging.com,medium
+ACRS,Aclaris Therapeutics,aclaris.com,medium
+FDMT,4D Molecular Therapeutics,4dmt.com,medium
+GYRE,Gyre Therapeutics,gyretx.com,high
+IMMX,Immix Biopharma,immixbio.com,medium
+FTH,Faeth Therapeutics,faeththerapeutics.com,high
+OLMA,Olema Pharmaceuticals,olema.com,medium
+CTKB,Cytek Biosciences,cytekbio.com,medium
+AVR,Anteris Technologies,anteristech.com,high
+VSTM,Verastem,verastem.com,medium
+ETRA,Electra Therapeutics,electra-therapeutics.com,high
+MLAB,Mesa Laboratories,mesalabs.com,medium
+WVE,Wave Life Sciences,wavelifesciences.com,medium
+STTK,Shattuck Labs,shattucklabs.com,medium
+COLL,Collegium Pharmaceutical,collegiumpharma.com,medium
+PACB,Pacific Biosciences,pacb.com,medium
+QDEL,QuidelOrtho,quidelortho.com,medium
+NVCT,Nuvectis Pharma,nuvectis.com,medium
+MDXG,MiMedx Group,mimedx.com,medium
+CLYM,Climb Bio,climbbio.com,high
+IRWD,Ironwood Pharmaceuticals,ironwoodpharma.com,medium
+ZVRA,Zevra Therapeutics,zevra.com,medium
+AURA,Aura Biosciences,aurabiosciences.com,medium
+ANGO,AngioDynamics,angiodynamics.com,medium
+CRMD,CorMedix,cormedix.com,medium
+BLSM,BlossomHill Therapeutics,bhtherapeutics.com,high
+SGMT,Sagimet Biosciences,sagimet.com,medium
+PHAT,Phathom Pharmaceuticals,phathompharma.com,medium
+CTMX,CytomX Therapeutics,cytomx.com,medium
+AQST,Aquestive Therapeutics,aquestive.com,medium
+KIDS,OrthoPediatrics,orthopediatrics.com,medium
+ALT,Altimmune,altimmune.com,medium
+NGNE,Neurogene,neurogene.com,medium
+CAPR,Capricor Therapeutics,capricor.com,medium
+PRME,Prime Medicine,primemedicine.com,medium
+ALLO,Allogene Therapeutics,allogene.com,medium
+SSII,SS Innovations International,ssinnovations.com,high
+DCTH,Delcath Systems,delcath.com,medium
+MNPR,Monopar Therapeutics,monopar.com,medium
+CBIO,Crescent Biopharma,crescentbiopharma.com,high
