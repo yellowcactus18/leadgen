@@ -1,0 +1,52 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Michael,Metzger,Chief Executive Officer,"Syndax Pharmaceuticals, Inc.",SNDX,https://ir.syndax.com/,high
+Keith,Goldan,Chief Financial Officer,"Syndax Pharmaceuticals, Inc.",SNDX,https://ir.syndax.com/news-releases/news-release-details/syndax-pharmaceuticals-announces-appointment-keith-goldan-chief,high
+Velichka,Valcheva,Chief Executive Officer,GH Research PLC,GHRS,https://investor.ghres.com/corporate-governance/executive-officers/,high
+Julie,Ryan,Vice President of Finance (CFO not confirmed),GH Research PLC,GHRS,https://investor.ghres.com/corporate-governance/executive-officers/,low
+Aaron,Cameron,Chief Operating Officer,GH Research PLC,GHRS,https://investor.ghres.com/corporate-governance/executive-officers/,medium
+Sean,Nolan,Chief Executive Officer,"Taysha Gene Therapies, Inc.",TSHA,https://tayshagtx.com/our-team/sean-nolan/,medium
+Kamran,Alam,Chief Financial Officer,"Taysha Gene Therapies, Inc.",TSHA,https://seekingalpha.com/article/4899665-taysha-gene-therapies-inc-tsha-q1-2026-earnings-call-transcript,medium
+Patrick,Miles,Chairman & Chief Executive Officer,"Alphatec Holdings, Inc.",ATEC,https://atecspine.com/about/,medium
+Todd,Koning,Executive Vice President & Chief Financial Officer,"Alphatec Holdings, Inc.",ATEC,https://finance.yahoo.com/quote/ATEC/profile/,medium
+Bahija,Jallal,Chief Executive Officer,Immunocore Holdings plc,IMCR,https://www.immunocore.com/investors,medium
+Travis,Coy,"EVP, Chief Financial Officer and Head of Corporate Development",Immunocore Holdings plc,IMCR,https://www.immunocore.com/investors/news/press-releases/detail/106/immunocore-appoints-travis-coy-previously-a-non-executive-director-as-its-evp-chief-financial-officer-and-head-of-corporate-development,high
+Abraham,Ceesay,Chief Executive Officer,"Rapport Therapeutics, Inc.",RAPP,https://www.rapportrx.com/about/leadership/,high
+Troy,Ignelzi,Chief Financial Officer,"Rapport Therapeutics, Inc.",RAPP,https://www.rapportrx.com/about/leadership/,high
+Sean,Brynjelsen,Chief Executive Officer,"Eton Pharmaceuticals, Inc.",ETON,https://www.sec.gov/Archives/edgar/data/1710340/000143774926012488/ex_945240.htm,high
+Judith,Matthews,"EVP, Accounting and Finance and Chief Financial Officer","Eton Pharmaceuticals, Inc.",ETON,https://www.sec.gov/Archives/edgar/data/1710340/000143774926012488/ex_945240.htm,high
+Mark,Lappe,Chief Executive Officer,"Inhibrx Biosciences, Inc.",INBX,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-inbx/inhibrx-biosciences/management,medium
+Kelly,Deck,Chief Financial Officer,"Inhibrx Biosciences, Inc.",INBX,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-inbx/inhibrx-biosciences/management,medium
+Jason,Coloma,Chief Executive Officer,"Maze Therapeutics, Inc.",MAZE,https://ir.mazetx.com/,high
+Misbah,Tahir,Chief Financial Officer,"Maze Therapeutics, Inc.",MAZE,https://ir.mazetx.com/news-releases/news-release-details/maze-therapeutics-appoints-misbah-tahir-chief-financial-officer,high
+Pavel,Raifeld,Chief Executive Officer,"Innoviva, Inc.",INVA,https://www.zoominfo.com/c/innoviva-inc/372161905,medium
+Stephen,Basso,Chief Financial Officer,"Innoviva, Inc.",INVA,https://www.streetinsider.com/Corporate+News/Innoviva+(INVA)+Appoints+Stephen+Basso+as+CFO/22091896.html,medium
+Daniel,Faga,President & Chief Executive Officer,"AnaptysBio, Inc.",ANAB,https://ir.anaptysbio.com/news-releases/news-release-details/anaptys-board-directors-approves-spin-first-tracks,low
+Christopher,Murphy,Chief Financial Officer,"AnaptysBio, Inc.",ANAB,https://www.sec.gov/Archives/edgar/data/1370053/000119312526127783/d122216dex993.htm,high
+Todd,Harris,Chief Executive Officer,"Tyra Biosciences, Inc.",TYRA,https://tyra.bio/our-people/,high
+Alan,Fuhrman,Chief Financial Officer,"Tyra Biosciences, Inc.",TYRA,https://www.sec.gov/Archives/edgar/data/1863127/000119312526140027/d136343d8k.htm,medium
+Benny,Sorensen,Chief Executive Officer,"Hemab Therapeutics Holdings, Inc.",COAG,https://www.hemab.com/team/benny-sorensen-md-phd-67022,medium
+Mads,Behrndt,Chief Financial Officer,"Hemab Therapeutics Holdings, Inc.",COAG,https://www.crunchbase.com/person/mads-behrndt,low
+Emil,Kakkis,"Chairman, CEO and President",Ultragenyx Pharmaceutical Inc.,RARE,https://www.ultragenyx.com/ultra-committed/leadership/,high
+Howard,Horn,EVP & Chief Financial Officer,Ultragenyx Pharmaceutical Inc.,RARE,https://www.ultragenyx.com/ultra-committed/leadership/,high
+Ron,Renaud,President & Chief Executive Officer,"Kailera Therapeutics, Inc.",KLRA,https://investors.kailera.com/news-releases/news-release-details/kailera-therapeutics-appoints-doug-pagan-chief-financial-officer,high
+Doug,Pagan,Chief Financial Officer,"Kailera Therapeutics, Inc.",KLRA,https://investors.kailera.com/news-releases/news-release-details/kailera-therapeutics-appoints-doug-pagan-chief-financial-officer,high
+Zhengbin,Yao,Chairman & Chief Executive Officer,"ArriVent BioPharma, Inc.",AVBP,https://www.marketscreener.com/quote/stock/ARRIVENT-BIOPHARMA-INC-164838091/company/,medium
+Winston,Kung,Chief Financial Officer and Treasurer,"ArriVent BioPharma, Inc.",AVBP,https://www.fox21news.com/business/press-releases/globenewswire/9013359/arrivent-appoints-winston-kung-as-chief-financial-officer-and-treasurer/,medium
+Jonathan,Violin,President & Chief Executive Officer,"Korsana Biosciences, Inc.",KRSA,https://www.sec.gov/Archives/edgar/data/0001755237/000119312526389318/d178159d8k.htm,high
+Mark,Vignola,Chief Financial Officer,"Korsana Biosciences, Inc.",KRSA,https://www.biospace.com/press-releases/korsana-biosciences-appoints-mark-vignola-ph-d-as-chief-financial-officer,high
+Jacob,Chacko,President & Chief Executive Officer,"Oric Pharmaceuticals, Inc.",ORIC,https://oricpharma.com/about/,medium
+Dominic,Piscitelli,Chief Financial Officer,"Oric Pharmaceuticals, Inc.",ORIC,https://oricpharma.com/about/,medium
+Daniel,Bendheim,"President & Chief Executive Officer (effective July 1, 2026)",Phibro Animal Health Corporation,PAHC,https://finance.yahoo.com/news/phibro-animal-health-corporation-announces-211000058.html,high
+Glenn,David,Chief Financial Officer,Phibro Animal Health Corporation,PAHC,https://www.nasdaq.com/articles/phibro-animal-health-names-glenn-david-cfo,medium
+Gregory,Demopulos,Chairman & Chief Executive Officer,Omeros Corporation,OMER,https://www.omeros.com/leadership/,medium
+David,Borges,"VP Finance, Chief Accounting Officer & Treasurer (CFO not confirmed)",Omeros Corporation,OMER,https://www.omeros.com/leadership/,low
+Patrick,Beyer,President & Chief Executive Officer,CONMED Corporation,CNMD,https://www.businesswire.com/news/home/20241030725777/en/CONMED-Corporation-Announces-Leadership-Succession,high
+John,Gallagher,Chief Financial Officer,CONMED Corporation,CNMD,https://www.businesswire.com/news/home/20260617824560/en/CONMED-Corporation-Appoints-John-E.-Gallagher-as-Chief-Financial-Officer,high
+Harpreet,Singh,Chief Executive Officer,Immatics N.V.,IMTX,https://investors.immatics.com/news-releases/news-release-details/immatics-appoints-harpreet-singh-chief-executive-officer,medium
+Venkat,Ramanan,Chief Financial Officer,Immatics N.V.,IMTX,https://investors.immatics.com/news-releases/news-release-details/immatics-appoints-venkat-ramanan-chief-financial-officer,high
+Tassos,Gianakakos,Chief Executive Officer,"Kardigan, Inc.",KARD,https://www.kardigan.bio/leadership/,high
+Brianne,Jahn,Chief Financial Officer,"Kardigan, Inc.",KARD,https://www.kardigan.bio/leadership/,high
+Jennifer,Jarrett,President & Chief Executive Officer,"Damora Therapeutics, Inc.",DMRA,https://finance.yahoo.com/sectors/healthcare/articles/damora-therapeutics-dmra-appoints-jennifer-170519713.html,high
+Brian,Burkavage,"Principal Financial Officer; SVP, Finance","Damora Therapeutics, Inc.",DMRA,https://www.stocktitan.net/sec-filings/DMRA/8-k-damora-therapeutics-inc-reports-material-event-83f678cccadf.html,medium
+Daniel,Faga,President & Chief Executive Officer,"First Tracks Biotherapeutics, Inc.",TRAX,https://www.sec.gov/Archives/edgar/data/0002091349/000119312526224317/d53570d424b3.htm,high
+Ajim,Tamboli,Chief Financial Officer,"First Tracks Biotherapeutics, Inc.",TRAX,https://www.sec.gov/Archives/edgar/data/0002091349/000119312526224317/d53570d424b3.htm,high

@@ -1,0 +1,51 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Kenneth,Galbraith,"Chair, President & Chief Executive Officer",Zymeworks Inc.,ZYME,https://www.zymeworks.com/our-people/kenneth-galbraith/,high
+Kristin,Stafford,Executive Vice President & Chief Financial Officer,Zymeworks Inc.,ZYME,https://www.sec.gov/Archives/edgar/data/1937653/000119312526135610/d142598dex991.htm,high
+Bernd,Brust,Chief Executive Officer,"Maravai LifeSciences Holdings, Inc.",MRVI,https://investors.maravai.com/news-events/press-releases/detail/115/maravai-lifesciences-appoints-bernd-brust-as-chief-executive-officer-and-member-of-its-board-of-directors,high
+Rajesh,Asarpota,Executive Vice President & Chief Financial Officer,"Maravai LifeSciences Holdings, Inc.",MRVI,https://investors.maravai.com/news-events/press-releases/detail/116/maravai-lifesciences-appoints-rajesh-asarpota-as-chief-financial-officer,high
+Michael,Severino,Chief Executive Officer,"Sarepta Therapeutics, Inc.",SRPT,https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-appoints-michael-severino-md-chief,high
+Ryan,Wong,Executive Vice President & Chief Financial Officer,"Sarepta Therapeutics, Inc.",SRPT,https://www.sec.gov/Archives/edgar/data/0000873303/000119312526177247/srpt-20260424.htm,high
+Bassil,Dahiyat,President & Chief Executive Officer,"Xencor, Inc.",XNCR,https://investors.xencor.com/corporate-governance/management,high
+Bart,Cornelissen,Senior Vice President & Chief Financial Officer,"Xencor, Inc.",XNCR,https://investors.xencor.com/corporate-governance/management,high
+Travis,Murdoch,Chief Executive Officer,"Braveheart Bio, Inc.",BRVE,https://www.sec.gov/Archives/edgar/data/0002131524/000162828026054354/braveheartbioinc-sx1a2.htm,high
+Paul,Rickey,Chief Financial Officer,"Braveheart Bio, Inc.",BRVE,https://www.fool.com/coverage/filings/2026/08/10/braveheart-bio-cfo-acquires-27-777-shares-for-usd500-000-is-this-a-signal-brve-ipo-is-a-success/,medium
+Michael,Nally,Chief Executive Officer,"Generate Biomedicines, Inc.",GENB,https://generatebiomedicines.com/about-us/,high
+Jason,Silvers,President & Chief Financial Officer,"Generate Biomedicines, Inc.",GENB,https://generatebiomedicines.com/about-us/,high
+Roderick,de Greef,Chairman & Chief Executive Officer,"BioLife Solutions, Inc.",BLFS,https://www.sec.gov/Archives/edgar/data/0000834365/000162828026028012/blfs-20251231.htm,high
+Troy,Wichterman,Chief Financial Officer,"BioLife Solutions, Inc.",BLFS,https://www.sec.gov/Archives/edgar/data/0000834365/000162828026028012/blfs-20251231.htm,high
+George,LeMaitre,Chairman & Chief Executive Officer,"LeMaitre Vascular, Inc.",LMAT,https://craft.co/lemaitre-vascular/executives,medium
+Dorian,LeBlanc,Chief Financial Officer,"LeMaitre Vascular, Inc.",LMAT,https://www.tipranks.com/news/company-announcements/lemaitre-vascular-appoints-dorian-leblanc-as-cfo,medium
+Peter,Caldini,Chief Executive Officer,Establishment Labs Holdings Inc.,ESTA,https://www.businesswire.com/news/home/20260224736951/en/Establishment-Labs-Announces-Leadership-Transition-to-Support-Next-Phase-of-Growth,high
+Sandra,Harris,Senior Vice President & Chief Financial Officer,Establishment Labs Holdings Inc.,ESTA,https://www.businesswire.com/news/home/20260224736951/en/Establishment-Labs-Announces-Leadership-Transition-to-Support-Next-Phase-of-Growth,high
+Marianne,De Backer,President & Chief Executive Officer,"Vir Biotechnology, Inc.",VIR,https://www.vir.bio/team/marianne-de-backer/,high
+Brent,Sabatini,"Interim Principal Financial Officer & SVP, Chief Accounting Officer","Vir Biotechnology, Inc.",VIR,https://www.stocktitan.net/sec-filings/VIR/8-k-vir-biotechnology-inc-reports-material-event-fa4810c713dc.html,medium
+Frank,Leonard,Chief Executive Officer,NovoCure Limited,NVCR,https://www.novocure.com/about-us/our-leadership/our-leader/frank-leonard,low
+Christoph,Brackmann,Chief Financial Officer,NovoCure Limited,NVCR,https://www.novocure.com/about-us/our-leadership/our-leader/christoph-brackmann,high
+Jeffrey,Finer,Chief Executive Officer,"Septerna, Inc.",SEPN,https://www.septerna.com/about/,medium
+Gil,Labrucherie,Chief Financial Officer,"Septerna, Inc.",SEPN,https://www.investing.com/news/company-news/septerna-appoints-new-cfo-to-bolster-financial-strategy-93CH-3797068,medium
+Sean,McClain,"Founder, Chief Executive Officer",Absci Corporation,ABSI,https://investors.absci.com/management/sean-mcclain,high
+Zach,Jonasson,Chief Financial Officer & Chief Business Officer,Absci Corporation,ABSI,https://www.absci.com/about-us/team/,high
+John,Jacobs,President & Chief Executive Officer,"Novavax, Inc.",NVAX,https://www.novavax.com/leadership/john-c-jacobs,high
+Jim,Kelly,"Executive Vice President, Chief Financial Officer & Treasurer","Novavax, Inc.",NVAX,https://www.novavax.com/leadership/jim-kelly,high
+Leon,Moulder,"Founder, Chief Executive Officer & Chairman","Zenas BioPharma, Inc.",ZBIO,https://zenasbio.com/who-we-are/,high
+Joseph,Farmer,"President, Chief Operating Officer & Principal Financial Officer","Zenas BioPharma, Inc.",ZBIO,https://investors.zenasbio.com/news-releases/news-release-details/zenas-biopharma-reports-first-quarter-2026-financial-results-and,low
+Kabir,Nath,Chief Executive Officer,COMPASS Pathways Plc - American Depository Shares,CMPS,https://www.compasspathways.com/who-we-are,medium
+Teri,Loxam,Chief Financial Officer,COMPASS Pathways Plc - American Depository Shares,CMPS,https://finance.yahoo.com/news/compass-pathways-appoints-teri-loxam-120000583.html,medium
+John,Shannon,Chairman & Chief Executive Officer,"Xeris Biopharma Holdings, Inc.",XERS,https://xerispharma.com/about-us/leadership,high
+Steven,Pieper,Chief Financial Officer,"Xeris Biopharma Holdings, Inc.",XERS,https://xerispharma.com/about-us/leadership,high
+Simon,Campion,President & Chief Executive Officer,DENTSPLY SIRONA Inc.,XRAY,https://investor.dentsplysirona.com/news-releases/news-release-details/dentsply-sirona-provides-corporate-update,medium
+Matthew,Garth,Executive Vice President & Chief Financial Officer,DENTSPLY SIRONA Inc.,XRAY,https://www.sec.gov/Archives/edgar/data/818479/000081847925000086/cfoappointmentpressrelea.htm,high
+Brian,Webster,"Founder, President & Chief Executive Officer","Kestra Medical Technologies, Ltd.",KMTS,https://www.sec.gov/Archives/edgar/data/0001877184/000119312526320956/ck0001877184-20260727.htm,high
+Vaseem,Mahboob,Chief Financial Officer,"Kestra Medical Technologies, Ltd.",KMTS,https://www.sec.gov/Archives/edgar/data/0001877184/000119312526320956/ck0001877184-20260727.htm,high
+Matthew,Kapusta,Chief Executive Officer,uniQure N.V.,QURE,https://www.uniqure.com/pioneers-leaders/leadership/kapusta-matt,high
+Christian,Klemt,Chief Financial Officer,uniQure N.V.,QURE,https://www.fool.com/earnings/call-transcripts/2026/08/07/uniqure-qure-q2-2026-earnings-call-transcript/,medium
+Aaron,Elliott,Chief Executive Officer,"Freenome, Inc.",FRNM,https://www.freenome.com/our-company/chief-executive-officer/,high
+Linh,Le,Chief Financial Officer,"Freenome, Inc.",FRNM,https://www.freenome.com/our-company/chief-financial-officer/,high
+Ian,Smith,Chief Executive Officer,"Stoke Therapeutics, Inc.",STOK,https://investor.stoketherapeutics.com/news-releases/news-release-details/stoke-therapeutics-appoints-ian-f-smith-chief-executive-officer/,high
+Tommy,Leggett,Chief Financial Officer,"Stoke Therapeutics, Inc.",STOK,https://www.stoketherapeutics.com/about-stoke/leadership/tommy-leggett/,high
+Pravin,Dugel,"Executive Chairman, President & Chief Executive Officer","Ocular Therapeutix, Inc.",OCUL,https://www.sec.gov/Archives/edgar/data/1393434/000110465926053176/ocul-20260611xdef14a.htm,high
+Jason,Robins,Chief Financial Officer,"Ocular Therapeutix, Inc.",OCUL,https://in.investing.com/news/sec-filings/ocular-therapeutix-appoints-jason-robins-as-cfo-and-expands-stock-plan-93CH-5453220,medium
+John,Leonard,President & Chief Executive Officer,"Intellia Therapeutics, Inc.",NTLA,https://www.intelliatx.com/overview/leadership/,high
+Edward,Dulac,"Executive Vice President, Chief Financial Officer & Treasurer","Intellia Therapeutics, Inc.",NTLA,https://www.intelliatx.com/overview/leadership/,high
+Nikhil,Lalwani,President & Chief Executive Officer,"ANI Pharmaceuticals, Inc.",ANIP,https://investor.anipharmaceuticals.com/corporate-governance/executive-management,high
+Stephen,Carey,Senior Vice President & Chief Financial Officer,"ANI Pharmaceuticals, Inc.",ANIP,https://investor.anipharmaceuticals.com/corporate-governance/executive-management,high
