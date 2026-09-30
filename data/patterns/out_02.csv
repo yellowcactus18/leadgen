@@ -1,0 +1,29 @@
+ticker,email_domain,pattern,evidence_email,source,confidence
+ETRA,electra-therapeutics.com,flast,info@electra-therapeutics.com,RocketReach summary via search,low
+NVCT,nuvectis.com,flast,rbentsur@nuvectis.com,search snippet (RocketReach-style),medium
+AURA,aurabiosciences.com,flast,mburke@aurabiosciences.com,press release contact + RocketReach summary,medium
+SSII,ssinnovations.org,first.last,info@ssinnovations.org,RocketReach summary; company contact page uses .org (site is .com),low
+CBIO,crescentbiopharma.com,first.last,amy.reilly@crescentbiopharma.com,search snippet,medium
+MPLT,maplightrx.com,flast,investors@maplightrx.com,RocketReach summary; IR address,low
+ENTX,enterabio.com,first,miranda@enterabio.com,search snippet + RocketReach summary (89% first),medium
+KMDA,kamada.com,firstl,ir@kamada.com,LeadIQ summary (FirstL 86%); IR address,low
+PRTA,prothena.com,first.last,ellen.rose@prothena.com,press release contact,medium
+AVIR,ateapharma.com,other:last.first,barnes.jonae@ateapharma.com,press release contact (RocketReach summary says first.last),medium
+MYGN,myriad.com,first.last,matt.scalo@myriad.com,search snippet (LeadIQ summary says flast most common),medium
+CCCC,c4therapeutics.com,flast,csolberg@c4therapeutics.com,press release snippet; older release had Kendra.Adams@c4therapeutics.com (mixed),medium
+EDIT,editasmed.com,first.last,cristi.barnett@editasmed.com,press release contact; email domain differs from website editasmedicine.com,medium
+SRZN,surrozen.com,first,investorinfo@surrozen.com,SignalHire summary (first 81%); IR address,low
+ARTV,artivabio.com,flast,ir@artivabio.com,RocketReach summary (94%); IR address,low
+INDP,indaptusrx.com,first,nir@indaptusrx.com; michael@indaptusrx.com; maggie@indaptusrx.com,search snippets,high
+CV,capsovision.com,first.last,investors@capsovision.com,RocketReach summary (97.6%); note CFO press contact kml@capsovision.com conflicts,low
+ZJYL,zhjmedical.com,unknown,IR@zhjmedical.com,IR site contact only,low
+CATX,perspectivetherapeutics.com,flast,ir@perspectivetherapeutics.com,aggregator summary (75%); IR address,low
+TMCI,treace.com,flast,mhair@treace.com; jddewey@treace.com,press releases,high
+CYDY,cytodyn.com,flast,ir@cytodyn.com,LeadIQ summary (92%); IR address,low
+RCKT,rocketpharma.com,flast,kgiordano@rocketpharma.com,older press release contact,medium
+FATE,fatetherapeutics.com,first.last,IR@fatetherapeutics.com,RocketReach summary; IR address,low
+LAB,standardbio.com,unknown,ir@standardbio.com,press release IR contact only; no employee email seen,low
+UPB,upstreambio.com,first.last,ir@upstreambio.com,RocketReach summary (97.7%); IR address,low
+EYPT,eyepointpharma.com,f.last,,RocketReach summary (99.5%); domain differs from website eyepoint.com (also eyepoint.bio seen); no address seen,low
+XFOR,x4pharma.com,first.last,IR@x4pharma.com,RocketReach summary (95%); IR address,low
+IKT,inhibikase.com,flast,info@inhibikase.com,aggregator summary (100%); generic address,low
