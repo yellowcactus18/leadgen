@@ -1,0 +1,19 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Leon,Moulder,"Founder, Chief Executive Officer & Chairman","Zenas BioPharma, Inc.",ZBIO,https://zenasbio.com/who-we-are/,high
+Joseph,Farmer,"President, Chief Operating Officer & Principal Financial Officer","Zenas BioPharma, Inc.",ZBIO,https://investors.zenasbio.com/news-releases/news-release-details/zenas-biopharma-reports-first-quarter-2026-financial-results-and,low
+John,Volpone,President & Chief Operating Officer (no CEO found; Adam Craig is Executive Chair),"X4 Pharmaceuticals, Inc.",XFOR,https://www.sec.gov/Archives/edgar/data/1501697/000150169725000021/ex991_2025916release.htm,low
+David,Kirske,Chief Financial Officer,"X4 Pharmaceuticals, Inc.",XFOR,https://www.sec.gov/Archives/edgar/data/1501697/000150169725000021/ex991_2025916release.htm,medium
+Kevin,Guest,Chief Executive Officer,"USANA Health Sciences, Inc.",USNA,https://www.sec.gov/Archives/edgar/data/896264/000089626426000002/ex991ceotransitionpressrel.htm,high
+Douglas,Hekking,Chief Financial Officer,"USANA Health Sciences, Inc.",USNA,https://ir.usana.com/corporate-governance/management-team,low
+Al,Sandrock,Chief Executive Officer,"Voyager Therapeutics, Inc.",VYGR,https://ir.voyagertherapeutics.com/news-releases/news-release-details/voyager-therapeutics-appoints-alfred-w-sandrock-jr-md-phd-chief,medium
+Robin,Swartz,Principal Financial Officer,"Voyager Therapeutics, Inc.",VYGR,https://www.stocktitan.net/sec-filings/VYGR/8-k-voyager-therapeutics-inc-reports-material-event-277d1f9b7751.html,low
+Daniel,Reis-Faria,Chief Executive Officer,ZeroStack Corp.,ZSTK,https://simplywall.st/stocks/us/healthcare/nasdaq-zstk/zerostack/management,low
+Dany,Vaiman,Chief Financial Officer,ZeroStack Corp.,ZSTK,https://www.tradingview.com/news/tradingview:24f1f35b4f747:0-zerostack-grants-stock-options-to-ceo-cfo-and-executive-chairman/,low
+Allan,Marshall,Chief Executive Officer,"Upexi, Inc.",UPXI,https://simplywall.st/stocks/us/household/nasdaq-upxi/upexi/management,low
+Andrew,Norstrud,Chief Financial Officer,"Upexi, Inc.",UPXI,https://simplywall.st/stocks/us/household/nasdaq-upxi/upexi/management,low
+Scot,Cohen,Chief Executive Officer (also Principal Financial Officer),"Wrap Technologies, Inc.",WRAP,https://ir.wrap.com/news-events/press-releases/detail/310/wrap-technologies-inc-appoints-scot-cohen-as-chief,medium
+Kevin,Mullins,President,"Wrap Technologies, Inc.",WRAP,https://www.tipranks.com/news/company-announcements/wrap-technologies-cfo-departure-and-leadership-changes,low
+Sushma,Shivaswamy,Interim CEO & Chief Scientific Officer,XBiotech Inc.,XBIT,https://www.panabee.com/news/xbiotech-shifts-leadership-simard-remains-chairman-cso-sushma-shivaswamy-appointed-inter,medium
+Angela,Hu,Director of Finance,XBiotech Inc.,XBIT,https://www.xbiotech.com/leadership,low
+Thomas,Davis,Chief Executive Officer,"Viskase Holdings, Inc.",VISK,https://www.sec.gov/Archives/edgar/data/727510/000110465926020478/tm266940-1_sc14f1.htm,low
+Michael,Blecic,Chief Financial Officer,"Viskase Holdings, Inc.",VISK,https://www.tipranks.com/news/company-announcements/enzon-pharmaceuticals-announces-new-permanent-financial-leadership,low

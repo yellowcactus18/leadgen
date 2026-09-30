@@ -1,0 +1,31 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Velichka,Valcheva,Chief Executive Officer,GH Research PLC,GHRS,https://investor.ghres.com/corporate-governance/executive-officers/,high
+Julie,Ryan,Vice President of Finance (CFO not confirmed),GH Research PLC,GHRS,https://investor.ghres.com/corporate-governance/executive-officers/,low
+Aaron,Cameron,Chief Operating Officer,GH Research PLC,GHRS,https://investor.ghres.com/corporate-governance/executive-officers/,medium
+Brent,Pfeiffenberger,Chief Executive Officer,"Century Therapeutics, Inc.",IPSC,https://investors.centurytx.com/news-releases/news-release-details/century-therapeutics-announces-leadership-changes,medium
+Morgan,Conn,Chief Financial Officer,"Century Therapeutics, Inc.",IPSC,https://craft.co/century-therapeutics/executives,low
+Nolan,Townsend,Chief Executive Officer,"Lexeo Therapeutics, Inc.",LXEO,https://www.lexeotx.com/team/,medium
+Louis,Tamayo,Chief Financial Officer,"Lexeo Therapeutics, Inc.",LXEO,https://www.marketscreener.com/news/lexeo-therapeutics-inc-announces-cfo-changes-ce7c51dfd98ef125,low
+Niels,Riedemann,Chief Executive Officer,InflaRx N.V.,IFRX,https://www.tipranks.com/news/company-announcements/inflarx-sets-april-23-2026-agm-to-approve-2025-accounts-board-mandates-and-new-ltip,medium
+Thomas,Taapken,Chief Financial Officer,InflaRx N.V.,IFRX,https://www.marketscreener.com/quote/stock/INFLARX-N-V-38607083/company/,low
+Marc,Elia,Chairman & Chief Executive Officer,"Invivyd, Inc.",IVVD,https://www.stocktitan.net/news/IVVD/invivyd-appoints-chairman-marc-w-elia-as-chief-executive-officer-j2bd4mqtttct.html,medium
+William,Duke,Principal Financial and Accounting Officer,"Invivyd, Inc.",IVVD,https://www.stocktitan.net/sec-filings/IVVD/8-k-invivyd-inc-reports-material-event-9c951c9bf22d.html,low
+Lynn,Seely,President & CEO (also Interim CFO),"Lyell Immunopharma, Inc.",LYEL,https://www.sahmcapital.com/news/content/lyell-immunopharma-appoints-ceo-lynn-seely-as-interim-cfo-and-veronica-sanchez-bulis-as-principal-accounting-officer-2025-11-03,medium
+Gary,Lee,Chief Scientific Officer,"Lyell Immunopharma, Inc.",LYEL,https://www.globaldata.com/company-profile/lyell-immunopharma-inc/executives/,low
+Jasbir,Seehra,Chief Executive Officer & Chair,"Keros Therapeutics, Inc.",KROS,https://craft.co/keros-therapeutics/executives,medium
+Annita,Tanini,Interim Principal Financial Officer,"Keros Therapeutics, Inc.",KROS,https://kalkine.com/news/healthcare/keros-therapeutics-nasdaq-kros-names-new-interim-cfo-shares-down-significantly-ytd,low
+Joseph,Chee,Executive Chairman,Solana Company,HSDT,https://www.marketscreener.com/news/solana-company-nasdaq-hsdt-appoints-madelene-gani-as-chief-operating-officer-and-deputy-cfo-to-lea-ce7e50d8dd8ff721,low
+Madelene,Gani,Chief Operating Officer & Deputy CFO,Solana Company,HSDT,https://www.sec.gov/Archives/edgar/data/1610853/000110465926041571/hsdt-20260409xex99d1.htm,medium
+Adam,Kalbermatten,President & Chief Executive Officer,"KORU Medical Systems, Inc.",KRMD,https://www.businesswire.com/news/home/20260312338078/en/KORU-Medical-Systems-Announces-CEO-Transition,medium
+Thomas,Adams,Chief Financial Officer,"KORU Medical Systems, Inc.",KRMD,https://www.zoominfo.com/pic/koru-medical-systems-inc/71795304,low
+Andrew,LaFrence,Chief Financial Officer,"KORU Medical Systems, Inc.",KRMD,https://www.businesswire.com/news/home/20230627376742/en/KORU-Medical-Systems-Inc.-Names-Andrew-LaFrence-as-Chief-Financial-Officer,low
+Christine,Deister,Chief Executive Officer,"Harbor Diversified, Inc.",HRBR,https://simplywall.st/stocks/us/transportation/otc-hrbr/harbor-diversified/management,low
+Gregg,Garvey,Chief Financial Officer,"Harbor Diversified, Inc.",HRBR,https://simplywall.st/stocks/us/transportation/otc-hrbr/harbor-diversified/management,low
+Josh,Riggs,President & Chief Executive Officer,Insight Molecular Diagnostics Inc.,IMDX,https://www.sec.gov/Archives/edgar/data/1642380/000164238026000004/imdx-20251231.htm,low
+Andrea,James,Chief Financial Officer,Insight Molecular Diagnostics Inc.,IMDX,https://www.sec.gov/Archives/edgar/data/1642380/000164238026000004/imdx-20251231.htm,low
+Thomas,Hull,President & Chief Executive Officer,Kewaunee Scientific Corporation,KEQU,https://craft.co/kewaunee-scientific-corporation/executives,low
+Donald,Gardner,Vice President of Finance & Chief Financial Officer,Kewaunee Scientific Corporation,KEQU,https://craft.co/kewaunee-scientific-corporation/executives,low
+Nicholas,Curtis,Chief Executive Officer,"LENSAR, Inc.",LNSR,https://ir.lensar.com/governance/executive-management,medium
+Michael,Rossi,Interim Chief Financial Officer,"LENSAR, Inc.",LNSR,https://ir.lensar.com/governance/executive-management,low
+Gene,Mack,President & Chief Executive Officer,"Gain Therapeutics, Inc.",GANX,https://gaintherapeutics.com/newsroom/press-releases/press-releases-2025/gain-therapeutics-appoints-gene-mack-as-chief-executive-officer-and-director/,medium
+Gene,Mack,Interim Chief Financial Officer,"Gain Therapeutics, Inc.",GANX,https://rallies.ai/news/gain-therapeutics-ceo-gene-mack-takes-interim-cfo-role-after-fuggetta-resignation-e2fc8f3d432e4e5b,low
