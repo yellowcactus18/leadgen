@@ -1,0 +1,19 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Leon,Moulder,"Founder, Chief Executive Officer & Chairman","Zenas BioPharma, Inc.",ZBIO,https://www.manilatimes.net/2026/08/13/tmt-newswire/globenewswire/zenas-biopharma-reports-second-quarter-2026-financial-results-and-provides-corporate-update/2404738/amp,high
+Joseph,Farmer,"President, Chief Operating Officer & Interim Principal Financial Officer","Zenas BioPharma, Inc.",ZBIO,https://www.marketscreener.com/news/zenas-biopharma-inc-announces-chief-financial-officer-changes-effective-september-30-2026-ce7859d9d180f32c,high
+Adam,Craig,Executive Chairman (no CEO; principal executive),"X4 Pharmaceuticals, Inc.",XFOR,https://www.globenewswire.com/news-release/2026/08/06/3340795/0/en/x4-pharmaceuticals-reports-second-quarter-2026-financial-results-and-provides-corporate-update.html,medium
+David,Kirske,Chief Financial Officer,"X4 Pharmaceuticals, Inc.",XFOR,https://www.sec.gov/Archives/edgar/data/0001501697/000150169726000068/xfor-20260630.htm,high
+Kevin,Guest,Chief Executive Officer,"USANA Health Sciences, Inc.",USNA,https://www.nasdaq.com/press-release/usana-health-sciences-reports-second-quarter-2026-results-2026-08-04,high
+Douglas,Hekking,Chief Financial Officer,"USANA Health Sciences, Inc.",USNA,https://www.investing.com/news/transcripts/earnings-call-transcript-usana-health-sciences-posts-q2-2026-loss-stock-sinks-28-93CH-4838598,high
+Al,Sandrock,Chief Executive Officer,"Voyager Therapeutics, Inc.",VYGR,https://ir.voyagertherapeutics.com/news-releases/news-release-details/voyager-therapeutics-appoints-alfred-w-sandrock-jr-md-phd-chief,medium
+Robin,Swartz,"Chief Operating Officer, Chief Business Officer & Principal Financial Officer (Interim CFO)","Voyager Therapeutics, Inc.",VYGR,https://www.sec.gov/Archives/edgar/data/0001640266/000110465926057115/vygr-20260507xex99d1.htm,high
+Daniel,Reis-Faria,Chief Executive Officer,ZeroStack Corp.,ZSTK,https://www.sec.gov/Archives/edgar/data/0001790169/000106299326004625/forms3.htm,medium
+Dany,Vaiman,Chief Financial Officer,ZeroStack Corp.,ZSTK,https://www.sec.gov/Archives/edgar/data/0001790169/000106299326004625/forms3.htm,medium
+Allan,Marshall,Chief Executive Officer,"Upexi, Inc.",UPXI,https://www.nasdaq.com/press-release/upexi-reports-financial-results-fiscal-year-ended-june-30-2026-2026-09-17,high
+Andrew,Norstrud,Chief Financial Officer,"Upexi, Inc.",UPXI,https://www.nasdaq.com/press-release/upexi-reports-financial-results-fiscal-year-ended-june-30-2026-2026-09-17,high
+Scot,Cohen,Chief Executive Officer & Executive Chairman,"Wrap Technologies, Inc.",WRAP,https://www.fool.com/earnings/call-transcripts/2026/08/18/wrap-wrap-q2-2026-earnings-call-transcript/,high
+Scot,Cohen,Interim Chief Financial Officer (Principal Financial Officer),"Wrap Technologies, Inc.",WRAP,https://www.marketbeat.com/instant-alerts/wrap-technologies-q2-earnings-call-highlights-2026-08-11/,medium
+Sushma,Shivaswamy,Interim CEO & Chief Scientific Officer,XBiotech Inc.,XBIT,https://www.panabee.com/news/xbiotech-shifts-leadership-simard-remains-chairman-cso-sushma-shivaswamy-appointed-inter,medium
+Angela,Hu,"Interim Chief Financial Officer (Director of Finance, Principal Financial Officer)",XBiotech Inc.,XBIT,https://www.sec.gov/Archives/edgar/data/0001626878/000117184326005492/xbit20260630_10q.htm,medium
+Thomas,Davis,Chief Executive Officer,"Viskase Holdings, Inc.",VISK,https://www.sec.gov/Archives/edgar/data/0000727510/000110465926053522/tm2613266d1_8k.htm,high
+Michael,Blecic,Chief Financial Officer,"Viskase Holdings, Inc.",VISK,https://www.sec.gov/Archives/edgar/data/0000727510/000110465926053522/tm2613266d1_8k.htm,high
