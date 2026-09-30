@@ -1,0 +1,51 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Daphne,Zohar,Founder & Chief Executive Officer,"Seaport Therapeutics, Inc.",SPTX,https://seaporttx.com/team/,high
+Lauren,White,Chief Financial Officer,"Seaport Therapeutics, Inc.",SPTX,https://news.puretechhealth.com/news-releases/news-release-details/puretech-founded-entity-seaport-therapeutics-names-lauren-white,medium
+Markus,Warmuth,Chief Executive Officer,"Monte Rosa Therapeutics, Inc.",GLUE,https://www.monterosatx.com/about/,medium
+Ajim,Tamboli,Chief Financial Officer,"Monte Rosa Therapeutics, Inc.",GLUE,https://www.monterosatx.com/about/,medium
+Jorge,Santos da Silva,Chief Executive Officer,MoonLake Immunotherapeutics,MLTX,https://moonlaketx.com/about-us/,medium
+Matthias,Bodenstedt,Chief Financial Officer,MoonLake Immunotherapeutics,MLTX,https://moonlaketx.com/about-us/,medium
+Frank,Lee,Chief Executive Officer,"Pacira BioSciences, Inc.",PCRX,https://investor.pacira.com/corporate-governance/management,high
+Shawn,Cross,Chief Financial Officer,"Pacira BioSciences, Inc.",PCRX,https://investor.pacira.com/corporate-governance/management,high
+Nadim,Ahmed,President & Chief Executive Officer,"Cullinan Therapeutics, Inc.",CGEM,https://seekingalpha.com/article/4872465-cullinan-therapeutics-inc-cgem-presents-at-citis-2026-virtual-oncology-leadership-summit,medium
+Mary Kay,Fenton,Chief Financial Officer,"Cullinan Therapeutics, Inc.",CGEM,https://www.nasdaq.com/articles/cullinan-therapeutics-appoints-fenton-as-cfo,medium
+Martin,Babler,"Chairman, President & Chief Executive Officer",Alumis Inc.,ALMS,https://www.alumis.com/about/,high
+John,Schroer,Chief Financial Officer,Alumis Inc.,ALMS,https://www.sec.gov/Archives/edgar/data/0001847367/000184736726000018/alms-20260630x10q.htm,high
+Richard,Miller,"Co-Founder, President & Chief Executive Officer","Corvus Pharmaceuticals, Inc.",CRVS,https://craft.co/corvus-pharmaceuticals/executives,medium
+Leiv,Lea,Chief Financial Officer,"Corvus Pharmaceuticals, Inc.",CRVS,https://craft.co/corvus-pharmaceuticals/executives,medium
+Lindsay,Androski,"President, Chief Executive Officer & Chairperson",Arbutus Biopharma Corporation,ABUS,https://www.arbutusbio.com/about-arbutus/leadership-team/,high
+Tuan,Nguyen,Chief Financial Officer,Arbutus Biopharma Corporation,ABUS,https://www.arbutusbio.com/about-arbutus/leadership-team/,high
+Troy,Wilson,President & Chief Executive Officer,"Kura Oncology, Inc.",KURA,https://kuraoncology.com/about-us/,medium
+Jennifer,Fulk,Chief Financial Officer,"Kura Oncology, Inc.",KURA,https://www.globenewswire.com/news-release/2026/09/08/3357495/35186/en/kura-oncology-appoints-jennifer-fulk-as-chief-financial-officer.html,high
+Jane,Chao,Co-Founder & Chief Executive Officer,"CeriBell, Inc.",CBLL,https://ceribell.com/about-us/leadership-team/,high
+Scott,Blumberg,Chief Financial Officer,"CeriBell, Inc.",CBLL,https://ceribell.com/about-us/leadership-team/,high
+Kevin,Lind,Chief Executive Officer,"Apnimed, Inc.",APMD,https://www.prnewswire.com/news-releases/apnimed-appoints-experienced-pharmaceutical-executive-kevin-r-lind-as-chief-executive-officer-to-implement-next-phase-of-growth-strategy-302793489.html,high
+Michael,Kelly,Chief Financial Officer,"Apnimed, Inc.",APMD,https://www.aol.com/articles/apnimed-strengthens-leadership-team-appointments-120000000.html,medium
+Tom,Frohlich,Chief Executive Officer,"Jade Biosciences, Inc.",JBIO,https://www.prnewswire.com/news-releases/jade-biosciences-appoints-tom-frohlich-as-chief-executive-officer-and-hetal-kocinsky-as-chief-medical-officer-forms-board-of-directors-and-expands-financing-to-95-million-302285283.html,medium
+Brad,Dahms,Chief Financial Officer,"Jade Biosciences, Inc.",JBIO,https://www.investing.com/news/company-news/jade-biosciences-appoints-brad-dahms-as-new-cfo-93CH-4119098,medium
+Raul,Rodriguez,President & Chief Executive Officer,"Rigel Pharmaceuticals, Inc.",RIGL,https://www.rigel.com/who-we-are/management-team,high
+Dean,Schorno,Executive Vice President & Chief Financial Officer,"Rigel Pharmaceuticals, Inc.",RIGL,https://www.rigel.com/who-we-are/management-team,high
+Michael,Lau,Chief Executive Officer,Anbio Biotechnology,NNNN,https://www.stocktitan.net/sec-filings/NNNN/form-3-anbio-biotechnology-initial-statement-of-beneficial-ownership-edae0c452cef.html,medium
+Suki,Song,Chief Financial Officer,Anbio Biotechnology,NNNN,https://www.stocktitan.net/sec-filings/NNNN/form-3-anbio-biotechnology-initial-statement-of-beneficial-ownership-a818f02eccc6.html,medium
+Madan,Jagasia,"President, Chief Executive Officer & Director","Obsidian Therapeutics, Inc.",OBX,https://www.biopharmadive.com/news/obsidian-galera-reverse-merger-private-placement-cell-therapy/817532/,medium
+Julie,Feder,Chief Financial Officer,"Obsidian Therapeutics, Inc.",OBX,https://finance.yahoo.com/news/obsidian-therapeutics-appoints-julie-feder-133000616.html,medium
+Patrick,Mooney,Chief Executive Officer,"SpyGlass Pharma, Inc.",SGP,https://www.sec.gov/Archives/edgar/data/1778922/000177892226000020/sgp-20251231.htm,medium
+Jean-Frederic,Viret,Chief Financial Officer,"SpyGlass Pharma, Inc.",SGP,https://finance.yahoo.com/news/spyglass-pharma-appoints-jean-fr-130000002.html,medium
+Steven,Harr,President & Chief Executive Officer,"Sana Biotechnology, Inc.",SANA,https://sana.com/department/senior-leadership/,high
+Brian,Piper,Executive Vice President & Chief Financial Officer,"Sana Biotechnology, Inc.",SANA,https://www.geekwire.com/2026/tech-moves-sana-hires-cfo-aptevo-names-new-ceo-violett-founder-departs-and-more/,medium
+Mike,Exton,Chief Executive Officer,"Lexicon Pharmaceuticals, Inc.",LXRX,https://www.tipranks.com/news/the-fly/lexicon-appoints-mike-exton-as-ceo-jeff-wade-as-coo,medium
+Scott,Coiante,Senior Vice President & Chief Financial Officer,"Lexicon Pharmaceuticals, Inc.",LXRX,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-lxrx/lexicon-pharmaceuticals/management,medium
+Michael,Raab,Chief Executive Officer & Chairman,"Ardelyx, Inc.",ARDX,https://ardelyx.com/about-us/leadership/,high
+Sue,Hohenleitner,Chief Financial Officer,"Ardelyx, Inc.",ARDX,https://ardelyx.com/about-us/leadership/,high
+Laura,Francis,Chief Executive Officer,"SI-BONE, Inc.",SIBN,https://investor.si-bone.com/corporate-governance/management-team/,high
+Anshul,Maheshwari,Chief Operating Officer & Chief Financial Officer,"SI-BONE, Inc.",SIBN,https://investor.si-bone.com/corporate-governance/management-team/,high
+Andrew,Goldberg,Chief Executive Officer,"Achieve Life Sciences, Inc.",ACHV,https://achievelifesciences.com/about/management-team/,high
+Mark,Oki,Chief Financial Officer,"Achieve Life Sciences, Inc.",ACHV,https://achievelifesciences.com/about/management-team/,high
+Paul-Peter,Tak,President & Chief Executive Officer,"Candel Therapeutics, Inc.",CADL,https://candeltx.com/press-release/candel-therapeutics-appoints-pharma-veteran-and-immunologist-paul-peter-tak-md-phd-as-chief-executive-officer/,medium
+Charles,Schoch,Chief Financial Officer,"Candel Therapeutics, Inc.",CADL,https://www.nasdaq.com/articles/candel-therapeutics-appoints-charles-schoch-chief-financial-officer,medium
+Garry,Neil,Chief Executive Officer,"Avalo Therapeutics, Inc.",AVTX,https://ir.avalotx.com/news-events-presentations/press-releases/detail/213/avalo-therapeutics-reports-third-quarter-2025-financial-results-and-recent-business-updates,low
+Chris,Sullivan,Chief Financial Officer,"Avalo Therapeutics, Inc.",AVTX,https://news.biobuzz.io/2025/07/16/avalo-therapeutics-promotes-dr-garry-neil-to-ceo-chris-sullivan-to-cfo/,low
+Moshe,Mizrahy,Chief Executive Officer,InMode Ltd.,INMD,https://www.investing.com/news/company-news/inmode-names-new-board-chairman-and-cfo-93CH-4700955,medium
+Moshik,Itzkovich,Chief Financial Officer,InMode Ltd.,INMD,https://www.investing.com/news/company-news/inmode-names-new-board-chairman-and-cfo-93CH-4700955,medium
+Douglas,Love,President & Chief Executive Officer,"Annexon, Inc.",ANNX,https://annexonbio.com/about/,medium
+Jennifer,Lew,Executive Vice President & Chief Financial Officer,"Annexon, Inc.",ANNX,https://annexonbio.com/about/,medium

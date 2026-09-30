@@ -1,0 +1,51 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Tao,Fu,Chief Executive Officer,"Attovia Therapeutics, Inc.",ATTO,https://www.attovia.com/our-team/,medium
+Steven,Chan,Chief Financial Officer,"Attovia Therapeutics, Inc.",ATTO,https://www.biospace.com/press-releases/attovia-therapeutics-appoints-chief-financial-officer,medium
+Alexander,Cumbo,President & Chief Executive Officer,Solid Biosciences Inc.,SLDB,https://www.solidbio.com/about/solid-team/management/,medium
+Kevin,Tan,Chief Financial Officer,Solid Biosciences Inc.,SLDB,https://investors.solidbio.com/news-releases/news-release-details/solid-biosciences-appoints-kevin-tan-cfa-chief-financial-officer,medium
+Harout,Semerjian,President & Chief Executive Officer,Geron Corporation,GERN,https://www.businesswire.com/news/home/20250806814224/en/Geron-Appoints-Harout-Semerjian-as-President-and-Chief-Executive-Officer,high
+Michelle,Robertson,"EVP, Chief Financial Officer & Treasurer",Geron Corporation,GERN,https://www.geron.com/about-geron/leadership/,medium
+Pratik,Shah,"President, Chief Executive Officer & Chairperson","Design Therapeutics, Inc.",DSGN,https://www.designtx.com/about-us/,medium
+Pratik,Shah,Principal Financial Officer,"Design Therapeutics, Inc.",DSGN,https://www.marketscreener.com/quote/stock/DESIGN-THERAPEUTICS-INC-120591195/news/Design-Therapeutics-Inc-Announces-Principal-Financial-Officer-Changes-44707972/,low
+Sunny,Sanyal,President & Chief Executive Officer,Varex Imaging Corporation,VREX,https://www.vareximaging.com/about-us/,medium
+Shubham,Maheshwari,Chief Financial Officer,Varex Imaging Corporation,VREX,https://www.vareximaging.com/about-us/,medium
+Neal,Walker,Chief Executive Officer,"Aclaris Therapeutics, Inc.",ACRS,https://www.aclaristx.com/leadership/,medium
+Kevin,Balthaser,Chief Financial Officer,"Aclaris Therapeutics, Inc.",ACRS,https://www.aclaristx.com/leadership/,medium
+David,Kirn,Chief Executive Officer,"4D Molecular Therapeutics, Inc.",FDMT,https://4dmoleculartherapeutics.com/about/,medium
+Kristian,Humer,Chief Financial Officer,"4D Molecular Therapeutics, Inc.",FDMT,https://www.gurufocus.com/news/3211560/4d-molecular-fdmt-therapeutics-appoints-new-cfo-to-drive-financial-strategy,medium
+Ying,Luo,President & Chief Executive Officer,"Gyre Therapeutics, Inc.",GYRE,https://ir.gyretx.com/news-releases/news-release-details/gyre-therapeutics-reports-second-quarter-2026-and-year-date,medium
+Thomas,Eastling,Chief Financial Officer,"Gyre Therapeutics, Inc.",GYRE,https://ir.gyretx.com/news-releases/news-release-details/gyre-therapeutics-reports-second-quarter-2026-and-year-date,medium
+Ilya,Rachman,Chief Scientific Officer & Chairman,"Immix Biopharma, Inc.",IMMX,https://www.stocktitan.net/sec-filings/IMMX/def-14a-immix-biopharma-inc-definitive-proxy-statement-c85caa63b362.html,medium
+Gabriel,Morris,President & Chief Financial Officer,"Immix Biopharma, Inc.",IMMX,https://immixbio.com/meet-the-team/,medium
+Anand,Parikh,"Chairman, President & Chief Executive Officer","Faeth Therapeutics, Inc.",FTH,https://www.stocktitan.net/sec-filings/SNSE/8-k-sensei-biotherapeutics-inc-reports-material-event-ff7794b5df7c.html,medium
+Brian,Stephenson,Chief Financial Officer,"Faeth Therapeutics, Inc.",FTH,https://www.stocktitan.net/sec-filings/SNSE/8-k-sensei-biotherapeutics-inc-reports-material-event-ff7794b5df7c.html,medium
+Sean,Bohen,Chief Executive Officer,"Olema Pharmaceuticals, Inc.",OLMA,https://stockanalysis.com/stocks/olma/company/,medium
+Jason,O'Byrne,Chief Financial Officer,"Olema Pharmaceuticals, Inc.",OLMA,https://www.quiverquant.com/news/Olema+Pharmaceuticals+Grants+Inducement+Stock+Options+to+Newly+Appointed+CFO+Jason+V.+O%E2%80%99Byrne,medium
+Wenbin,Jiang,Chief Executive Officer,"Cytek Biosciences, Inc.",CTKB,https://cytekbio.com/pages/meet-the-team,medium
+William,McCombe,Chief Financial Officer,"Cytek Biosciences, Inc.",CTKB,https://investors.cytekbio.com/news-releases/news-release-details/cytekr-biosciences-names-william-mccombe-chief-financial-officer,medium
+Wayne,Paterson,Chief Executive Officer,Anteris Technologies Global Corp.,AVR,https://anteristech.com/investors/corporate-governance/leadership-team/wayne-paterson.html,medium
+Brent,Moen,Chief Financial Officer,Anteris Technologies Global Corp.,AVR,https://www.proactiveinvestors.com/companies/news/1098143/anteris-technologies-appoints-brent-moen-as-chief-financial-officer-1098143.html,medium
+Dan,Paterson,President & Chief Executive Officer,"Verastem, Inc.",VSTM,https://www.verastem.com/about-us/leadership/,medium
+Dan,Calkins,Chief Financial Officer,"Verastem, Inc.",VSTM,https://www.verastem.com/about-us/leadership/,medium
+Kathy,Dong,President & Chief Executive Officer,"Electra Therapeutics, Inc.",ETRA,https://www.sec.gov/Archives/edgar/data/0002088082/000119312526395670/d61940d424b4.htm,high
+Chris,Clark,Chief Financial Officer,"Electra Therapeutics, Inc.",ETRA,https://www.sec.gov/Archives/edgar/data/0002088082/000119312526395670/d61940d424b4.htm,high
+Siddhartha,Kadia,President & Chief Executive Officer,"Mesa Laboratories, Inc.",MLAB,https://www.sec.gov/Archives/edgar/data/724004/000072400426000020/ex_930087.htm,high
+John,Sakys,Chief Financial Officer,"Mesa Laboratories, Inc.",MLAB,https://mesalabs.com/executive-officers,medium
+Paul,Bolno,President & Chief Executive Officer,"Wave Life Sciences, Inc.",WVE,https://wavelifesciences.com/company/leadership/,medium
+Kyle,Moran,Chief Financial Officer,"Wave Life Sciences, Inc.",WVE,https://wavelifesciences.com/company/leadership/executives/kyle-moran/,medium
+Taylor,Schreiber,Chief Executive Officer,"Shattuck Labs, Inc.",STTK,https://www.shattucklabs.com/about/about-overview/,medium
+Andrew,Neill,Chief Financial Officer,"Shattuck Labs, Inc.",STTK,https://finance.yahoo.com/news/shattuck-labs-announces-promotion-andrew-110000427.html,medium
+Vikram,Karnani,President & Chief Executive Officer,"Collegium Pharmaceutical, Inc.",COLL,https://ir.collegiumpharma.com/news-releases/news-release-details/collegium-appoints-vikram-karnani-chief-executive-officer,medium
+Colleen,Tupper,Chief Financial Officer,"Collegium Pharmaceutical, Inc.",COLL,https://www.bioxconomy.com/finance-and-accounting/leading-the-way-in-pharma-finance-collegium-cfo-colleen-tupper-shares-her-vision,medium
+Christian,Henry,President & Chief Executive Officer,"Pacific Biosciences of California, Inc.",PACB,https://www.sec.gov/Archives/edgar/data/1299130/000119312520212545/d46017dex991.htm,low
+Susan,Kim,Chief Financial Officer,"Pacific Biosciences of California, Inc.",PACB,https://www.sec.gov/Archives/edgar/data/1299130/000119312520244775/d59842dex991.htm,low
+Brian,Blaser,President & Chief Executive Officer,QuidelOrtho Corporation,QDEL,https://ir.quidelortho.com/news/news-release-details/2024/QuidelOrtho-Appoints-Brian-J.-Blaser-as-President-and-Chief-Executive-Officer/default.aspx,medium
+Micah,Young,Chief Financial Officer,QuidelOrtho Corporation,QDEL,https://ir.quidelortho.com/news/news-release-details/2026/QuidelOrtho-Appoints-Micah-Young-as-Chief-Financial-Officer/default.aspx,high
+Ron,Bentsur,Chief Executive Officer,"Nuvectis Pharma, Inc.",NVCT,https://www.marketscreener.com/quote/stock/NUVECTIS-PHARMA-INC-130089463/company/,low
+Michael,Carson,Chief Financial Officer,"Nuvectis Pharma, Inc.",NVCT,https://www.marketscreener.com/quote/stock/NUVECTIS-PHARMA-INC-130089463/company/,low
+Joseph,Capper,Chief Executive Officer,"MiMedx Group, Inc",MDXG,https://www.mimedx.com/management-team-board-of-directors/,medium
+Doug,Rice,Chief Financial Officer,"MiMedx Group, Inc",MDXG,https://investors.mimedx.com/corporate-governance/management,medium
+Aoife,Brennan,President & Chief Executive Officer,"Climb Bio, Inc.",CLYM,https://www.sec.gov/Archives/edgar/data/0001768446/000119312526177271/d78900ddef14a.htm,high
+Susan,Altschuller,Chief Financial Officer,"Climb Bio, Inc.",CLYM,https://ir.climbbio.com/news-releases/news-release-details/climb-bio-appoints-susan-altschuller-phd-mba-chief-financial,high
+Thomas,McCourt,Chief Executive Officer,"Ironwood Pharmaceuticals, Inc.",IRWD,https://ironwoodpharma.com/company/leadership/,medium
+Ron,Silver,Interim Chief Financial Officer,"Ironwood Pharmaceuticals, Inc.",IRWD,https://ironwoodpharma.com/company/leadership/,medium
