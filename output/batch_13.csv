@@ -1,0 +1,53 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Kath,Gallagher,President & Chief Executive Officer,"Atrium Therapeutics, Inc.",RNA,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-rna/atrium-therapeutics/management,medium
+Brendan,Winslow,Chief Financial Officer,"Atrium Therapeutics, Inc.",RNA,https://www.sec.gov/Archives/edgar/data/2093101/000119312526077105/d14901dex991.htm,medium
+Ram,Aiyar,Chief Executive Officer & President,"Korro Bio, Inc.",KRRO,https://korrobio.com/about-us/,medium
+Vineet,Agarwal,Chief Financial Officer,"Korro Bio, Inc.",KRRO,https://www.investing.com/news/sec-filings/korro-bio-reappoints-cfo-names-new-principal-accounting-officer-93CH-3952102,medium
+Javier,Szwarcberg,Chief Executive Officer,"Spruce Biosciences, Inc.",SPRB,https://sprucebio.com/company/about/leadership/,medium
+Samir,Gharib,President & Chief Financial Officer,"Spruce Biosciences, Inc.",SPRB,https://sprucebio.com/company/about/leadership/,medium
+Kevin,Smith,President & Chief Executive Officer,"Inogen, Inc",INGN,https://www.investing.com/news/company-news/inogen-names-new-cfo-cmo-in-leadership-reshuffle-93CH-4588639,medium
+Jason,Richardson,Chief Financial Officer,"Inogen, Inc",INGN,https://www.investing.com/news/company-news/inogen-names-new-cfo-cmo-in-leadership-reshuffle-93CH-4588639,medium
+Faraz,Ali,Chief Executive Officer,"Tenaya Therapeutics, Inc.",TNYA,https://www.sec.gov/Archives/edgar/data/0001858848/000119312526286957/tnya-ex99_1.htm,medium
+Eric,Hyllengren,Chief Financial Officer,"Tenaya Therapeutics, Inc.",TNYA,https://www.investing.com/news/company-news/tenaya-therapeutics-appoints-eric-hyllengren-as-cfo-93CH-4765423,medium
+James,Bianco,President & Chief Executive Officer,"TuHURA Biosciences, Inc.",HURA,https://stockanalysis.com/stocks/hura/company/,medium
+Dan,Dearborn,Executive VP of Finance & Chief Financial Officer,"TuHURA Biosciences, Inc.",HURA,https://stockanalysis.com/stocks/hura/company/,medium
+Deborah,Birx,Chief Executive Officer,"Armata Pharmaceuticals, Inc.",ARMP,https://simplywall.st/stocks/de/pharmaceuticals-biotech/fra-tg1n/armata-pharmaceuticals-shares/management,medium
+David,House,SVP Finance & Principal Financial Officer,"Armata Pharmaceuticals, Inc.",ARMP,https://simplywall.st/stocks/de/pharmaceuticals-biotech/fra-tg1n/armata-pharmaceuticals-shares/management,medium
+Rachel,Haurwitz,President & Chief Executive Officer,"Caribou Biosciences, Inc.",CRBU,https://investor.cariboubio.com/board-member/rachel-haurwitz-phd,medium
+Sri,Ryali,Chief Financial Officer,"Caribou Biosciences, Inc.",CRBU,https://www.stocktitan.net/news/CRBU/caribou-biosciences-appoints-sri-ryali-as-chief-financial-f0x4t8dobvu0.html,low
+Jason,O'Byrne,Chief Financial Officer,"Caribou Biosciences, Inc.",CRBU,https://investor.cariboubio.com/news-releases/news-release-details/caribou-biosciences-appoints-jason-obyrne-chief-financial,low
+Ivor,Elrifi,Chief Executive Officer,Tiziana Life Sciences Ltd,TLSA,https://ir.tizianalifesciences.com/news-releases/news-release-details/tiziana-life-sciences-appoints-new-chief-executive-officer,medium
+Keeren,Shah,Chief Financial Officer & Chief Operating Officer,Tiziana Life Sciences Ltd,TLSA,https://www.tizianalifesciences.com/our-company/our-team/,medium
+Adam,Kalbermatten,President & Chief Executive Officer,"KORU Medical Systems, Inc.",KRMD,https://www.businesswire.com/news/home/20260312338078/en/KORU-Medical-Systems-Announces-CEO-Transition,medium
+Thomas,Adams,Chief Financial Officer,"KORU Medical Systems, Inc.",KRMD,https://www.zoominfo.com/pic/koru-medical-systems-inc/71795304,low
+Andrew,LaFrence,Chief Financial Officer,"KORU Medical Systems, Inc.",KRMD,https://www.businesswire.com/news/home/20230627376742/en/KORU-Medical-Systems-Inc.-Names-Andrew-LaFrence-as-Chief-Financial-Officer,low
+Christopher,Miglino,Chief Executive Officer,Axe Compute Inc.,AGPU,https://www.sec.gov/Archives/edgar/data/1446159/000117184326000690/exh_991.htm,medium
+Jeremy,Yaukey-Witter,Chief Financial Officer,Axe Compute Inc.,AGPU,https://www.sec.gov/Archives/edgar/data/0001446159/000117184326003484/agpu20260331_10q.htm,medium
+Henry,Ji,"Executive Chairman, Chief Executive Officer & President",Semnur Pharmaceuticals Inc.,SMNR,https://semnurpharma.com/executive-team/,medium
+Stephen,Ma,"Chief Operating Officer (formerly SVP, CFO)",Semnur Pharmaceuticals Inc.,SMNR,https://x.com/USCorpFilings/status/2034004366710215158,medium
+Yuval,Cohen,Chief Executive Officer,"Corbus Pharmaceuticals Holdings, Inc.",CRBP,https://www.corbuspharma.com/our-company/our-leadership-team,medium
+Sean,Moran,Chief Financial Officer,"Corbus Pharmaceuticals Holdings, Inc.",CRBP,https://www.corbuspharma.com/our-company/our-leadership-team,medium
+Jonathan,Javitt,Chief Executive Officer,"NRX Pharmaceuticals, Inc.",NRXP,https://www.nrxpharma.com/nrx-pharmaceuticals-announces-leadership-transition/,low
+Michael,Abrams,Chief Financial Officer,"NRX Pharmaceuticals, Inc.",NRXP,https://www.marketscreener.com/quote/stock/NRX-PHARMACEUTICALS-INC-38908842/company/,low
+Shalabh,Gupta,Chief Executive Officer,"Unicycive Therapeutics, Inc.",UNCY,https://unicycive.com/our-team/,medium
+John,Townsend,Chief Financial Officer,"Unicycive Therapeutics, Inc.",UNCY,https://craft.co/unicycive-therapeutics/executives,medium
+Christine,Deister,Chief Executive Officer,"Harbor Diversified, Inc.",HRBR,https://simplywall.st/stocks/us/transportation/otc-hrbr/harbor-diversified/management,low
+Gregg,Garvey,Chief Financial Officer,"Harbor Diversified, Inc.",HRBR,https://simplywall.st/stocks/us/transportation/otc-hrbr/harbor-diversified/management,low
+Yogi,Jashnani,Chief Executive Officer,"AirSculpt Technologies, Inc.",AIRS,https://www.nasdaq.com/articles/airsculpt-technologies-appoints-yogi-jashnani-ceo,medium
+Michael,Arthur,Chief Financial Officer,"AirSculpt Technologies, Inc.",AIRS,https://investors.airsculpt.com/management/michael-arthur,medium
+David,Fischel,Chairman & Chief Executive Officer,"Stereotaxis, Inc.",STXS,https://ir.stereotaxis.com/board-and-management,medium
+Kimberly,Peery,Chief Financial Officer,"Stereotaxis, Inc.",STXS,https://ir.stereotaxis.com/news-releases/news-release-details/stereotaxis-announces-cfo-transition,low
+Erik,Lundgren,Chief Executive Officer,"Immunic, Inc.",IMUX,https://www.prnewswire.com/news-releases/immunic-appoints-distinguished-biopharmaceutical-executive-erik-lundgren-as-chief-executive-officer-302782595.html,medium
+Maher,Masoud,President & Chief Executive Officer,"MaxCyte, Inc.",MXCT,https://maxcyte.com/leadership/,medium
+Parmeet,Ahuja,Chief Financial Officer,"MaxCyte, Inc.",MXCT,https://www.sec.gov/Archives/edgar/data/1287098/000110465926036201/mxct-20260323xex99d1.htm,medium
+David,Mack,Chief Executive Officer,"PMV Pharmaceuticals, Inc.",PMVP,https://craft.co/pmv-pharmaceutcals/executives,medium
+Michael,Carulli,Chief Financial Officer,"PMV Pharmaceuticals, Inc.",PMVP,https://ir.pmvpharma.com/news-releases/news-release-details/pmv-pharmaceuticals-strengthens-leadership-key-appointments,low
+Omid,Farokhzad,Chair & Chief Executive Officer,"Seer, Inc.",SEER,https://seer.bio/company/our-leaders/,medium
+David,Horn,"President, Chief Financial Officer & Treasurer (departing Oct 1, 2026)","Seer, Inc.",SEER,https://www.nasdaq.com/press-release/seer-announces-cfo-transition-2026-09-21,medium
+Charles,Endweiss,"Principal Financial Officer & Treasurer (effective Oct 1, 2026)","Seer, Inc.",SEER,https://www.nasdaq.com/press-release/seer-announces-cfo-transition-2026-09-21,medium
+Paul,Sekhri,President & Chief Executive Officer,vTv Therapeutics Inc.,VTVT,https://vtvtherapeutics.com/about/leadership/,medium
+Michael,Tung,EVP & Chief Financial Officer,vTv Therapeutics Inc.,VTVT,https://www.tipranks.com/news/company-announcements/vtv-therapeutics-appoints-new-cfo-amidst-phase-3-trial,medium
+Evert,Schimmelpennink,President & Chief Executive Officer,"LENZ Therapeutics, Inc.",LENZ,https://ir.lenz-tx.com/company-information/executive-team,medium
+Dan,Chevallard,Chief Financial Officer,"LENZ Therapeutics, Inc.",LENZ,https://ir.lenz-tx.com/company-information/executive-team,medium
+A.J.,Kazimi,Chairman & Chief Executive Officer,Cumberland Pharmaceuticals Inc.,CPIX,https://www.sec.gov/Archives/edgar/data/1087294/000108729426000025/cpix-20260309.htm,medium
+John,Hamm,Chief Financial Officer,Cumberland Pharmaceuticals Inc.,CPIX,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-cpix/cumberland-pharmaceuticals/management,medium
