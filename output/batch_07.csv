@@ -1,0 +1,51 @@
+first_name,last_name,title,company_name,ticker,source_url,confidence
+Alan,Auerbach,"Chairman, CEO & President",Puma Biotechnology Inc,PBYI,https://www.pumabiotechnology.com/about/leadership.html,medium
+Maximo,Nougues,Chief Financial Officer,Puma Biotechnology Inc,PBYI,https://www.pumabiotechnology.com/about/mnougues.html,medium
+Kevin,Knopp,President & CEO,908 Devices Inc.,MASS,https://simplywall.st/stocks/us/tech/nasdaq-mass/908-devices/management,medium
+Joseph,Griffith,Chief Financial Officer,908 Devices Inc.,MASS,https://www.sec.gov/Archives/edgar/data/1555279/000110465921026762/tm217595d1_ex99-1.htm,low
+Sheri,Dodd,Chief Executive Officer,"Tactile Systems Technology, Inc.",TCMD,https://people.equilar.com/bio/org/tactile-systems-technology-inc/112060,medium
+Elaine,Birkemeyer,Chief Financial Officer,"Tactile Systems Technology, Inc.",TCMD,https://people.equilar.com/bio/org/tactile-systems-technology-inc/112060,medium
+Curran,Simpson,President & CEO,REGENXBIO Inc.,RGNX,https://www.regenxbio.com/who-we-are/management-team/,medium
+Mitchell,Chan,"EVP, Chief Financial Officer & Treasurer",REGENXBIO Inc.,RGNX,https://www.regenxbio.com/who-we-are/management-team/,medium
+Meg,Alexander,Chief Executive Officer,Ovid Therapeutics Inc.,OVID,https://investors.ovidrx.com/news/news-details/2025/Ovid-Therapeutics-Announces-Planned-Leadership-Succession-and-Reports-Business-Updates-and-Third-Quarter-2025-Financial-Results/default.aspx,medium
+Charles,Carter,Chief Financial Officer,Ovid Therapeutics Inc.,OVID,https://www.stocktitan.net/news/OVID/ovid-therapeutics-strengthens-executive-leadership-team-to-support-r84k491noe1z.html,medium
+Bruce,Culleton,Chief Executive Officer,ProKidney Corp.,PROK,https://prokidney.com/aboutus/executive-leadership/,medium
+James,Coulston,Chief Financial Officer,ProKidney Corp.,PROK,https://prokidney.com/aboutus/executive-leadership/,medium
+Miranda,Toledano,Chief Executive Officer,Entera Bio Ltd.,ENTX,https://enterabio.com/about/,medium
+Ronnie,Yaacov-Garbeli,Chief Financial Officer,Entera Bio Ltd.,ENTX,https://enterabio.com/about/,medium
+Christian,Itin,Chief Executive Officer,Autolus Therapeutics plc,AUTL,https://www.autolus.com/about-us/leadership/,medium
+Robert,Dolski,Chief Financial Officer,Autolus Therapeutics plc,AUTL,https://www.sec.gov/Archives/edgar/data/1730463/000173046326000038/autl-20251231.htm,medium
+Vivek,Jayaraman,President & CEO,Cerus Corporation,CERS,https://secure.businesswire.com/news/home/20260316126576/en/Cerus-Appoints-Vivek-Jayaraman-as-President-and-Chief-Executive-Officer,medium
+Kevin,Green,VP Finance & Chief Financial Officer,Cerus Corporation,CERS,https://www.marketscreener.com/quote/stock/CERUS-CORPORATION-8745/company/,medium
+Amir,London,Chief Executive Officer,Kamada Ltd.,KMDA,https://www.kamada.com/leadership/,medium
+Chaime,Orlev,Chief Financial Officer,Kamada Ltd.,KMDA,https://www.nasdaq.com/press-release/kamada-announces-planned-transition-chief-financial-officer-2026-08-12,medium
+Carmine,Stengone,"President, CEO & Director","Contineum Therapeutics, Inc.",CTNM,https://www.sec.gov/Archives/edgar/data/1855175/000143774925013528/cont20250319_def14a.htm,medium
+Peter,Slover,Chief Financial Officer,"Contineum Therapeutics, Inc.",CTNM,https://www.sec.gov/Archives/edgar/data/1855175/000143774925013528/cont20250319_def14a.htm,medium
+Jason,Okazaki,President & CEO,"Assembly Biosciences, Inc.",ASMB,https://investor.assemblybio.com/news-releases/news-release-details/assembly-biosciences-reports-first-quarter-2026-financial,medium
+Jeanette,Bjorkquist,Principal Financial Officer (CFO),"Assembly Biosciences, Inc.",ASMB,https://www.sec.gov/Archives/edgar/data/0001426800/000119312526170355/asmb_-_2025_annual_repor.pdf,low
+Stephen,Gunstream,President & CEO,"Alpha Teknova, Inc.",TKNO,https://ir.teknova.com/corporate-governance/leadership,medium
+Matthew,Lowell,Chief Financial Officer,"Alpha Teknova, Inc.",TKNO,https://ir.teknova.com/corporate-governance/leadership,medium
+Joel,Becker,President & CEO,"Neuropace, Inc.",NPCE,https://investors.neuropace.com/corporate-governance/management/,medium
+Patrick,Williams,Chief Financial Officer,"Neuropace, Inc.",NPCE,https://investors.neuropace.com/news-releases/news-release-details/neuropace-announces-strategic-cfo-transition,medium
+Rick,Pauls,President & CEO,DiaMedica Therapeutics Inc.,DMAC,https://www.diamedica.com/investors/press-releases/detail/1711/diamedica-therapeutics-reports-second-quarter-2025,medium
+Scott,Kellen,Chief Financial Officer,DiaMedica Therapeutics Inc.,DMAC,https://www.diamedica.com/investors/press-releases/detail/1711/diamedica-therapeutics-reports-second-quarter-2025,medium
+Garo,Armen,Chairman & CEO,Agenus Inc.,AGEN,https://www.streetinsider.com/Corporate+News/Agenus+appoints+CEO+as+interim+CFO%2C+names+new+accounting+officer/25850088.html,medium
+Garo,Armen,Interim CFO (principal financial officer),Agenus Inc.,AGEN,https://www.streetinsider.com/Corporate+News/Agenus+appoints+CEO+as+interim+CFO%2C+names+new+accounting+officer/25850088.html,medium
+Gene,Kinney,President & CEO,Prothena Corporation plc,PRTA,https://www.prothena.com/management/gene-g-kinney/,medium
+Tran,Nguyen,Chief Financial Officer,Prothena Corporation plc,PRTA,https://www.prothena.com/management/tran-b-nguyen/,medium
+Warner,Biddle,Chief Executive Officer,"Kyverna Therapeutics, Inc.",KYTX,https://kyvernatx.com/leadership/,medium
+Greg,Martini,Chief Financial Officer,"Kyverna Therapeutics, Inc.",KYTX,https://www.stocktitan.net/news/KYTX/kyverna-therapeutics-names-greg-martini-as-chief-financial-fy54e7bwf8ph.html,medium
+Donn,Casale,CEO & Director,"ARS Pharmaceuticals, Inc.",SPRY,https://www.globenewswire.com/news-release/2026/07/07/3323647/0/en/ARS-Pharmaceuticals-Announces-CEO-Succession.html,medium
+Kathleen,Scott,Chief Financial Officer,"ARS Pharmaceuticals, Inc.",SPRY,https://www.sec.gov/Archives/edgar/data/0001671858/000119312526191433/spry-20260429.htm,medium
+Roger,Perlmutter,"Chairman, CEO & President","Eikon Therapeutics, Inc.",EIKN,https://www.eikontx.com/about-us/,medium
+Freddie,Bowie,Chief Financial Officer,"Eikon Therapeutics, Inc.",EIKN,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-eikn/eikon-therapeutics/management,low
+George,Magrath,Chief Executive Officer,"Opus Genetics, Inc.",IRD,https://opusgtx.com/about/leadership-team/,medium
+Robert,Gagnon,Chief Financial Officer,"Opus Genetics, Inc.",IRD,https://opusgtx.com/about/leadership/robert-gagnon-cpa-mba/,medium
+Jean-Pierre,Sommadossi,"Chairman, CEO & President","Atea Pharmaceuticals, Inc.",AVIR,https://ir.ateapharma.com/corporate-governance/board-of-directors,medium
+Andrea,Corcoran,"CFO, EVP Legal & Secretary","Atea Pharmaceuticals, Inc.",AVIR,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-avir/atea-pharmaceuticals/management,medium
+Sam,Raha,President & CEO,"Myriad Genetics, Inc.",MYGN,https://www.sec.gov/Archives/edgar/data/899923/000089992326000031/mygn-20260414.htm,medium
+Scott,Leffler,Chief Financial Officer,"Myriad Genetics, Inc.",MYGN,https://www.sec.gov/Archives/edgar/data/899923/000089992326000031/mygn-20260414.htm,medium
+Nevan,Elam,CEO,"Rezolute, Inc.",RZLT,https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-rzlt/rezolute/management,medium
+Daron,Evans,Chief Financial Officer,"Rezolute, Inc.",RZLT,https://www.rttnews.com/3418782/rezolute-names-daron-evans-as-cfo.aspx,medium
+Andrew,Hirsch,President & CEO,"C4 Therapeutics, Inc.",CCCC,https://c4therapeutics.com/our-company/leadership-team/,medium
+Kendra,Adams,Chief Financial Officer,"C4 Therapeutics, Inc.",CCCC,https://ir.c4therapeutics.com/news-releases/news-release-details/c4-therapeutics-announces-chief-financial-officer-succession/,low
