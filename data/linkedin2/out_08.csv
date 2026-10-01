@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Steven,Chan,Attovia Therapeutics,https://www.linkedin.com/in/steven-chan-381a643/,high
+Kevin,Tan,Solid Biosciences,,not_found
+Harout,Semerjian,Geron,https://www.linkedin.com/in/harout-semerjian/,high
+Michelle,Robertson,Geron,,not_found
+Julie,Burgess,Design Therapeutics,https://www.linkedin.com/in/julie-burgess-a6bb161/,high
+Sunny,Sanyal,Varex Imaging,https://www.linkedin.com/in/sunny-sanyal-4320857/,high
+Shubham,Maheshwari,Varex Imaging,,not_found
+Kevin,Balthaser,Aclaris Therapeutics,https://www.linkedin.com/in/kevin-balthaser-cpa-mba-43465b37/,high
+David,Kirn,4D Molecular Therapeutics,https://www.linkedin.com/in/davidkirnmd/,high
+Kristian,Humer,4D Molecular Therapeutics,https://www.linkedin.com/in/kristianhumer/,high
+Ying,Luo,Gyre Therapeutics,https://www.linkedin.com/in/ying-luo-02960419/,high
+Thomas,Eastling,Gyre Therapeutics,,not_found
+Ilya,Rachman,Immix Biopharma,https://www.linkedin.com/in/ilya-rachman-m-d-ph-d-mba-739380a/,high
+Gabriel,Morris,Immix Biopharma,https://www.linkedin.com/in/gabrielmorrisbio/,high
+Anand,Parikh,Faeth Therapeutics,https://www.linkedin.com/in/anandkparikh/,high
+Brian,Stephenson,Faeth Therapeutics,https://www.linkedin.com/in/brianstephenson-phd-cfa/,high
+Sean,Bohen,Olema Pharmaceuticals,https://www.linkedin.com/in/sean-bohen-md-phd-a625055/,high
+Jason,O'Byrne,Olema Pharmaceuticals,https://www.linkedin.com/in/jasonobyrne/,medium
+Wenbin,Jiang,Cytek Biosciences,,not_found
+Wayne,Paterson,Anteris Technologies,,not_found
+Brent,Moen,Anteris Technologies,,not_found
+Dan,Calkins,Verastem,,not_found
+Chris,Clark,Electra Therapeutics,,not_found
+Siddhartha,Kadia,Mesa Laboratories,,not_found
+John,Sakys,Mesa Laboratories,,not_found
+Paul,Bolno,Wave Life Sciences,,not_found

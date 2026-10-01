@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Kenneth,Galbraith,Zymeworks,https://uk.linkedin.com/in/kenneth-galbraith-57551a10,medium
+Kristin,Stafford,Zymeworks,https://www.linkedin.com/in/kristin-stafford/,high
+Bernd,Brust,Maravai LifeSciences,https://www.linkedin.com/in/bernd-brust-ab06b03/,medium
+Rajesh,Asarpota,Maravai LifeSciences,https://www.linkedin.com/in/raj-asarpota/,high
+Michael,Severino,Sarepta Therapeutics,https://www.linkedin.com/in/michael-e-severino/,high
+Ryan,Wong,Sarepta Therapeutics,,not_found
+Bassil,Dahiyat,Xencor,https://www.linkedin.com/in/bassil-dahiyat/,medium
+Bart,Cornelissen,Xencor,https://www.linkedin.com/in/bart-cornelissen-seattle/,high
+Travis,Murdoch,Braveheart Bio,,not_found
+Paul,Rickey,Braveheart Bio,https://www.linkedin.com/in/paulrickey/,high
+Michael,Nally,Generate Biomedicines,https://www.linkedin.com/in/michael-nally-0a137299/,high
+Jason,Silvers,Generate Biomedicines,https://www.linkedin.com/in/jason-silvers-b2975323b/,high
+George,LeMaitre,LeMaitre Vascular,,not_found
+Dorian,LeBlanc,LeMaitre Vascular,,not_found
+Peter,Caldini,Establishment Labs,,not_found
+Marianne,De Backer,Vir Biotechnology,,not_found
+Frank,Leonard,Novocure,,not_found
+Christoph,Brackmann,Novocure,,not_found
+Jeffrey,Finer,Septerna,,not_found
+Gil,Labrucherie,Septerna,,not_found
+Sean,McClain,Absci,,not_found
+Zach,Jonasson,Absci,,not_found
+John,Jacobs,Novavax,,not_found
+Jim,Kelly,Novavax,,not_found
+Leon,Moulder,Zenas BioPharma,,not_found
+Joseph,Farmer,Zenas BioPharma,,not_found

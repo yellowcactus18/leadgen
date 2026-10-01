@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Christopher,Kroeger,MapLight Therapeutics,https://www.linkedin.com/in/chriskroeger/,high
+Ethan,Shen,YD Bio,,not_found
+Edmund,Hen,YD Bio,,not_found
+David,Moatazedi,Evolus,https://www.linkedin.com/in/davidmoatazedi/,high
+Tatjana,Mitchell,Evolus,https://www.linkedin.com/in/tatjana-mitchell-479946/,medium
+Paul,Badawi,Sight Sciences,,not_found
+Jim,Rodberg,Sight Sciences,,not_found
+Tim,Knotnerus,AgomAb Therapeutics,,not_found
+Pierre,Kemula,AgomAb Therapeutics,https://www.linkedin.com/in/pierre-kemula-380504/,medium
+Randy,Teel,Arvinas,https://www.linkedin.com/in/randyteel/,high
+Andrew,Saik,Arvinas,https://www.linkedin.com/in/andrewsaik/,high
+Alan,Auerbach,Puma Biotechnology,,not_found
+Maximo,Nougues,Puma Biotechnology,,not_found
+Kevin,Knopp,908 Devices,https://www.linkedin.com/in/kjknopp/,high
+Joseph,Griffith,908 Devices,https://www.linkedin.com/in/joe-griffith-7621b55/,medium
+Sheri,Dodd,Tactile Systems Technology,,not_found
+Elaine,Birkemeyer,Tactile Systems Technology,https://www.linkedin.com/in/elaine-birkemeyer-ba97b87/,high
+Curran,Simpson,REGENXBIO,,not_found
+Mitchell,Chan,REGENXBIO,,not_found
+Meg,Alexander,Ovid Therapeutics,,not_found
+Charles,Carter,Ovid Therapeutics,,not_found
+Bruce,Culleton,ProKidney,,not_found
+James,Coulston,ProKidney,,not_found
+Miranda,Toledano,Entera Bio,,not_found
+Ronnie,Yaacov-Garbeli,Entera Bio,,not_found
+Christian,Itin,Autolus Therapeutics,,not_found

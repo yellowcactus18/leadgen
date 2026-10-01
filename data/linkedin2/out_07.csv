@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Dean,Schorno,Rigel Pharmaceuticals,https://www.linkedin.com/in/dean-schorno-47005b27/,high
+Michael,Lau,Anbio Biotechnology,,not_found
+Suki,Song,Anbio Biotechnology,,not_found
+Madan,Jagasia,Obsidian Therapeutics,https://www.linkedin.com/in/madan-jagasia-3255754/,high
+Julie,Feder,Obsidian Therapeutics,https://www.linkedin.com/in/julie-feder-15b5119/,medium
+Patrick,Mooney,SpyGlass Pharma,https://www.linkedin.com/in/patrick-mooney-63032ab/,high
+Jean-Frederic,Viret,SpyGlass Pharma,,not_found
+Steven,Harr,Sana Biotechnology,,not_found
+Brian,Piper,Sana Biotechnology,https://www.linkedin.com/in/brian-piper/,high
+Mike,Exton,Lexicon Pharmaceuticals,https://www.linkedin.com/in/mike-exton-phd-1a0b522a/,high
+Scott,Coiante,Lexicon Pharmaceuticals,,not_found
+Michael,Raab,Ardelyx,https://www.linkedin.com/in/mike-raab-5111548/,high
+Sue,Hohenleitner,Ardelyx,https://www.linkedin.com/in/sue-hohenleitner/,high
+Laura,Francis,SI-BONE,,not_found
+Anshul,Maheshwari,SI-BONE,,not_found
+Andrew,Goldberg,Achieve Life Sciences,,not_found
+Mark,Oki,Achieve Life Sciences,,not_found
+Paul-Peter,Tak,Candel Therapeutics,,not_found
+Charles,Schoch,Candel Therapeutics,,not_found
+Garry,Neil,Avalo Therapeutics,,not_found
+Christopher,Sullivan,Avalo Therapeutics,,not_found
+Moshe,Mizrahy,InMode,,not_found
+Moshik,Itzkovich,InMode,,not_found
+Douglas,Love,Annexon,,not_found
+Jennifer,Lew,Annexon,,not_found
+Tao,Fu,Attovia Therapeutics,,not_found

@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+David,Borges,Omeros,https://www.linkedin.com/in/davidborges1/,high
+Patrick,Beyer,CONMED,https://uk.linkedin.com/in/pat-beyer-8131a818,high
+John,Gallagher,CONMED,https://www.linkedin.com/in/john-gallagher-1840681/,high
+Harpreet,Singh,Immatics,https://www.linkedin.com/in/immaticssingh/,high
+Venkat,Ramanan,Immatics,https://www.linkedin.com/in/vramanan01/,high
+Tassos,Gianakakos,Kardigan,,not_found
+Brianne,Jahn,Kardigan,https://www.linkedin.com/in/briannejahn/,high
+Jennifer,Jarrett,Damora Therapeutics,https://www.linkedin.com/in/jejarrett/,high
+Brian,Burkavage,Damora Therapeutics,,not_found
+Daniel,Faga,First Tracks Biotherapeutics,https://www.linkedin.com/in/daniel-faga-95815b1/,medium
+Ajim,Tamboli,First Tracks Biotherapeutics,https://www.linkedin.com/in/ajim-tamboli/,high
+Lea,Knight,Integra LifeSciences,https://www.linkedin.com/in/leadanielsknight/,high
+Heather,Turner,LB Pharmaceuticals,,not_found
+Joseph,Miller,LB Pharmaceuticals,,not_found
+Lyn,Baranowski,Avalyn Pharma,,not_found
+Douglas,Carlson,Avalyn Pharma,,not_found
+Claire,Mazumdar,Bicara Therapeutics,,not_found
+Mark,Baum,Harrow,,not_found
+Andrew,Boll,Harrow,,not_found
+Michael,Castagna,MannKind,,not_found
+Chris,Prentiss,MannKind,,not_found
+Jean-Paul,Kress,Vor Biopharma,,not_found
+Sandy,Mahatme,Vor Biopharma,,not_found
+John,Sheridan,Tandem Diabetes Care,,not_found
+Leigh,Vosseller,Tandem Diabetes Care,,not_found
+Robert,Claypoole,Bioventus,,not_found

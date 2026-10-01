@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Travis,Coy,Immunocore,https://www.linkedin.com/in/travis-coy-4469802/,high
+Abraham,Ceesay,Rapport Therapeutics,,not_found
+Troy,Ignelzi,Rapport Therapeutics,,not_found
+Sean,Brynjelsen,Eton Pharmaceuticals,https://www.linkedin.com/in/sean-brynjelsen-74aa7b3/,high
+Judith,Matthews,Eton Pharmaceuticals,https://www.linkedin.com/in/judy-matthews-6016b210/,medium
+Mark,Lappe,Inhibrx Biosciences,https://www.linkedin.com/in/mark-lappe-91a44615/,high
+Kelly,Deck,Inhibrx Biosciences,,not_found
+Jason,Coloma,Maze Therapeutics,https://www.linkedin.com/in/jasoncoloma/,high
+Misbah,Tahir,Maze Therapeutics,,not_found
+Pavel,Raifeld,Innoviva,https://www.linkedin.com/in/pavel-raifeld-b540472/,high
+Stephen,Basso,Innoviva,https://www.linkedin.com/in/stephen-basso-7178a63/,high
+Daniel,Faga,AnaptysBio,https://www.linkedin.com/in/daniel-faga-95815b1/,high
+Todd,Harris,Tyra Biosciences,,not_found
+Alan,Fuhrman,Tyra Biosciences,,not_found
+Benny,Sorensen,Hemab Therapeutics,,not_found
+Mads,Behrndt,Hemab Therapeutics,,not_found
+Emil,Kakkis,Ultragenyx Pharmaceutical,,not_found
+Howard,Horn,Ultragenyx Pharmaceutical,,not_found
+Ron,Renaud,Kailera Therapeutics,,not_found
+Winston,Kung,ArriVent BioPharma,,not_found
+Jonathan,Violin,Korsana Biosciences,,not_found
+Jacob,Chacko,Oric Pharmaceuticals,,not_found
+Dominic,Piscitelli,Oric Pharmaceuticals,,not_found
+Daniel,Bendheim,Phibro Animal Health,,not_found
+Glenn,David,Phibro Animal Health,,not_found
+Gregory,Demopulos,Omeros,,not_found

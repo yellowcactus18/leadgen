@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Robert,Dolski,Autolus Therapeutics,,not_found
+Vivek,Jayaraman,Cerus,https://www.linkedin.com/in/vkjayaraman/,high
+Kevin,Green,Cerus,https://www.linkedin.com/in/kevin-green-3482221/,medium
+Chaime,Orlev,Kamada,https://www.linkedin.com/in/chaime-orlev-3660147/,high
+Carmine,Stengone,Contineum Therapeutics,https://www.linkedin.com/in/cstengone/,high
+Peter,Slover,Contineum Therapeutics,https://www.linkedin.com/in/peter-slover-1487705/,high
+Jason,Okazaki,Assembly Biosciences,https://www.linkedin.com/in/jason-okazaki-9972001/,high
+Jeanette,Bjorkquist,Assembly Biosciences,https://www.linkedin.com/in/jeanette-bjorkquist-cpa-mba-50bb4269/,high
+Stephen,Gunstream,Alpha Teknova,https://www.linkedin.com/in/stephen-gunstream-21443710/,medium
+Matthew,Lowell,Alpha Teknova,https://www.linkedin.com/in/matthewlowell/,high
+Joel,Becker,NeuroPace,https://www.linkedin.com/in/joel-becker-9225bb90/,high
+Patrick,Williams,NeuroPace,https://www.linkedin.com/in/patrick-f-williams-37044530/,high
+Rick,Pauls,DiaMedica Therapeutics,https://www.linkedin.com/in/rick-pauls-33b8a63/,high
+Scott,Kellen,DiaMedica Therapeutics,,not_found
+Garo,Armen,Agenus,https://www.linkedin.com/in/agenus,high
+Garo,Armen,Agenus,https://www.linkedin.com/in/agenus,high
+Gene,Kinney,Prothena,https://www.linkedin.com/in/gene-kinney-05145925/,high
+Warner,Biddle,Kyverna Therapeutics,,not_found
+Greg,Martini,Kyverna Therapeutics,,not_found
+Donn,Casale,ARS Pharmaceuticals,,not_found
+Kathleen,Scott,ARS Pharmaceuticals,,not_found
+Roger,Perlmutter,Eikon Therapeutics,,not_found
+Freddie,Bowie,Eikon Therapeutics,,not_found
+George,Magrath,Opus Genetics,,not_found
+Robert,Gagnon,Opus Genetics,,not_found
+Jean-Pierre,Sommadossi,Atea Pharmaceuticals,,not_found

@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Amit,Etkin,Alto Neuroscience,https://www.linkedin.com/in/amit-etkin/,high
+Nick,Smith,Alto Neuroscience,,not_found
+Daphne,Zohar,Seaport Therapeutics,https://www.linkedin.com/in/daphnezohar/,high
+Lauren,White,Seaport Therapeutics,https://www.linkedin.com/in/laurenawhite1mba/,medium
+Markus,Warmuth,Monte Rosa Therapeutics,https://www.linkedin.com/in/markus-warmuth-0b60909/,high
+Ajim,Tamboli,Monte Rosa Therapeutics,https://www.linkedin.com/in/ajim-tamboli/,medium
+Jorge,Santos da Silva,MoonLake Immunotherapeutics,https://www.linkedin.com/in/jorgesantosdasilva/,high
+Matthias,Bodenstedt,MoonLake Immunotherapeutics,https://www.linkedin.com/in/mattbodenstedt/,high
+Frank,Lee,Pacira BioSciences,https://www.linkedin.com/in/frank-lee-pacira/,medium
+Shawn,Cross,Pacira BioSciences,https://www.linkedin.com/in/shawn-cross-b06a7310/,high
+Nadim,Ahmed,Cullinan Therapeutics,https://www.linkedin.com/in/nadim-ahmed-806b181b7/,high
+Mary Kay,Fenton,Cullinan Therapeutics,https://www.linkedin.com/in/mary-kay-fenton-b6276315/,high
+Martin,Babler,Alumis,https://www.linkedin.com/in/martin-babler-33b48/,medium
+John,Schroer,Alumis,https://www.linkedin.com/in/john-schroer-cfa-8817586/,high
+Richard,Miller,Corvus Pharmaceuticals,https://www.linkedin.com/in/richard-miller-md/,high
+Leiv,Lea,Corvus Pharmaceuticals,,not_found
+Lindsay,Androski,Arbutus Biopharma,https://www.linkedin.com/in/lindsayandroski/,medium
+Tuan,Nguyen,Arbutus Biopharma,,not_found
+Troy,Wilson,Kura Oncology,,not_found
+Jennifer,Fulk,Kura Oncology,,not_found
+Jane,Chao,CeriBell,,not_found
+Scott,Blumberg,CeriBell,,not_found
+Kevin,Lind,Apnimed,,not_found
+Michael,Kelly,Apnimed,,not_found
+Tom,Frohlich,Jade Biosciences,,not_found
+Brad,Dahms,Jade Biosciences,,not_found

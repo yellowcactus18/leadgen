@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Mark,Singleton,Bioventus,https://www.linkedin.com/in/marklsingletonfinanceexecutive/,high
+Nima,Farzan,Latigo Biotherapeutics,https://www.linkedin.com/in/nima-farzan-bb293/,medium
+Neha,Krishnamohan,Latigo Biotherapeutics,https://www.linkedin.com/in/neha-krishnamohan/,high
+Warren,Foust,STAAR Surgical,https://www.linkedin.com/in/foust-warren/,medium
+Jack,Zhang,Amphastar Pharmaceuticals,,not_found
+William,Peters,Amphastar Pharmaceuticals,https://www.linkedin.com/in/bill-peters-474a413/,high
+Patrick,MacKin,Artivion,https://www.linkedin.com/in/pat-mackin-223aa7151/,high
+Gary,Glick,Odyssey Therapeutics,https://www.linkedin.com/in/gary-d-glick-71145015b/,medium
+Jason,Haas,Odyssey Therapeutics,https://www.linkedin.com/in/jason-haas-149814201/,high
+Roger,Susi,iRadimed,https://www.linkedin.com/in/roger-susi-b2b6963/,medium
+John,Glenn,iRadimed,,not_found
+Zandy,Forbes,MeiraGTx,https://www.linkedin.com/in/zandyforbes/,high
+Richard,Giroux,MeiraGTx,https://www.linkedin.com/in/richard-giroux-b67749122/,high
+Matthew,Roden,Aktis Oncology,https://www.linkedin.com/in/matthew-roden-26499a43/,high
+Kyle,Kuvalanka,Aktis Oncology,,not_found
+Derek,Maetzold,Castle Biosciences,,not_found
+Frank,Stokes,Castle Biosciences,,not_found
+Tighe,Reardon,Janux Therapeutics,,not_found
+Matthew,Pauls,Savara,,not_found
+Robert,Lutz,Savara,,not_found
+Larry,Wood,PROCEPT BioRobotics,,not_found
+Kevin,Waters,PROCEPT BioRobotics,,not_found
+Sean,Saint,Beta Bionics,,not_found
+Stephen,Feider,Beta Bionics,,not_found
+Damien,McDonald,Enovis,,not_found
+Ben,Berry,Enovis,,not_found

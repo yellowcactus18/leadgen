@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Kyle,Moran,Wave Life Sciences,https://www.linkedin.com/in/kyle-moran-cfa-2a18288/,high
+Taylor,Schreiber,Shattuck Labs,https://www.linkedin.com/in/taylor-schreiber-m-d-ph-d-28003b17/,high
+Andrew,Neill,Shattuck Labs,https://www.linkedin.com/in/arneill/,high
+Vikram,Karnani,Collegium Pharmaceutical,https://www.linkedin.com/in/vikram-karnani/,high
+Colleen,Tupper,Collegium Pharmaceutical,https://www.linkedin.com/in/colleen-tupper-5ab75415/,high
+Mark,Van Oene,Pacific Biosciences,https://www.linkedin.com/in/mark-van-oene-a12ab420a/,high
+Jim,Gibson,Pacific Biosciences,https://www.linkedin.com/in/jim-gibson-021789a8/,high
+Brian,Blaser,QuidelOrtho,https://www.linkedin.com/in/brian-j-blaser-443503159/,high
+Micah,Young,QuidelOrtho,https://www.linkedin.com/in/micah-young-53572219/,medium
+Michael,Carson,Nuvectis Pharma,,not_found
+Joseph,Capper,MiMedx Group,,not_found
+Doug,Rice,MiMedx Group,https://www.linkedin.com/in/doug-rice-5517675/,high
+Aoife,Brennan,Climb Bio,,not_found
+Susan,Altschuller,Climb Bio,https://www.linkedin.com/in/susan-altschuller-ph-d-mba-9212496/,high
+Thomas,McCourt,Ironwood Pharmaceuticals,https://www.linkedin.com/in/thomas-mccourt-8605771a5/,high
+Ron,Silver,Ironwood Pharmaceuticals,https://www.linkedin.com/in/ron-silver-b0ba195/,high
+Neil,McFarlane,Zevra Therapeutics,,not_found
+Justin,Renz,Zevra Therapeutics,,not_found
+Natalie,Holles,Aura Biosciences,,not_found
+Jim,Clemmer,AngioDynamics,,not_found
+Stephen,Trowbridge,AngioDynamics,,not_found
+Joseph,Todisco,CorMedix,,not_found
+Susan,Blum,CorMedix,,not_found
+Jingrong Jean,Cui,BlossomHill Therapeutics,,not_found
+Jason,Keyes,BlossomHill Therapeutics,,not_found
+David,Happel,Sagimet Biosciences,,not_found

@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Thierry,Chauche,Sagimet Biosciences,,not_found
+Steven,Basta,Phathom Pharmaceuticals,https://www.linkedin.com/in/steven-basta-a9195036/,high
+Sanjeev,Narula,Phathom Pharmaceuticals,https://www.linkedin.com/in/sanjeev-narula-914a767/,high
+Sean,McCarthy,CytomX Therapeutics,https://www.linkedin.com/in/sean-mccarthy-37485a7/,high
+Chris,Ogden,CytomX Therapeutics,https://www.linkedin.com/in/chris-ogden-761785b/,high
+Daniel,Barber,Aquestive Therapeutics,https://www.linkedin.com/in/daniel-barber-4779a65/,high
+Ernie,Toth,Aquestive Therapeutics,https://www.linkedin.com/in/ernietoth/,high
+David,Bailey,OrthoPediatrics,https://www.linkedin.com/in/dave-bailey-33253259/,high
+Fred,Hite,OrthoPediatrics,https://www.linkedin.com/in/fred-hite-043448a/,high
+Jerome,Durso,Altimmune,https://www.linkedin.com/in/jerrydurso/,high
+Gregory,Weaver,Altimmune,https://www.linkedin.com/in/weavergregory/,high
+Rachel,McMinn,Neurogene,,not_found
+Christine,Mikail,Neurogene,https://www.linkedin.com/in/christine-mikail-3277725/,high
+Linda,Marban,Capricor Therapeutics,https://www.linkedin.com/in/linda-marban-45a7b740/,high
+AJ,Bergmann,Capricor Therapeutics,https://www.linkedin.com/in/aj-bergmann-17633b40/,high
+Allan,Reine,Prime Medicine,https://www.linkedin.com/in/allan-reine-0291093a/,high
+Svetlana,Makhni,Prime Medicine,https://www.linkedin.com/in/svetlana-ni-makhni-528ab3a/,high
+Zachary,Roberts,Allogene Therapeutics,,not_found
+Geoffrey,Parker,Allogene Therapeutics,,not_found
+Sudhir,Srivastava,SS Innovations International,,not_found
+Sarah,Romano,SS Innovations International,,not_found
+Gerard,Michel,Delcath Systems,,not_found
+Sandra,Pennell,Delcath Systems,,not_found
+Chandler,Robinson,Monopar Therapeutics,,not_found
+Quan,Vu,Monopar Therapeutics,,not_found
+Joshua,Brumm,Crescent Biopharma,,not_found
