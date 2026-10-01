@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Kabir,Nath,Compass Pathways,https://www.linkedin.com/in/kabir-nath-7549362/,high
+Teri,Loxam,Compass Pathways,https://www.linkedin.com/in/teri-loxam-9497a73/,high
+John,Shannon,Xeris Biopharma,https://www.linkedin.com/in/john-shannon-7272787/,high
+Simon,Campion,Dentsply Sirona,https://www.linkedin.com/in/simoncampion/,high
+Matthew,Garth,Dentsply Sirona,https://www.linkedin.com/in/matthew-garth-21a80/,medium
+Brian,Webster,Kestra Medical Technologies,,not_found
+Vaseem,Mahboob,Kestra Medical Technologies,https://www.linkedin.com/in/vaseem-mahboob-6a397a11/,high
+Matthew,Kapusta,uniQure,https://www.linkedin.com/in/matthew-kapusta-b649408/,high
+Christian,Klemt,uniQure,,not_found
+Aaron,Elliott,Freenome,https://www.linkedin.com/in/aaron-elliott-10b1591a/,high
+Linh,Le,Freenome,,not_found
+Ian,Smith,Stoke Therapeutics,,not_found
+Pravin,Dugel,Ocular Therapeutix,,not_found
+Jason,Robins,Ocular Therapeutix,,not_found
+John,Leonard,Intellia Therapeutics,,not_found
+Edward,Dulac,Intellia Therapeutics,,not_found
+Nikhil,Lalwani,ANI Pharmaceuticals,,not_found
+Stephen,Carey,ANI Pharmaceuticals,,not_found
+Michael,Metzger,Syndax Pharmaceuticals,,not_found
+Keith,Goldan,Syndax Pharmaceuticals,,not_found
+Velichka,Valcheva,GH Research,,not_found
+Julie,Ryan,GH Research,,not_found
+Sean,Nolan,Taysha Gene Therapies,,not_found
+Kamran,Alam,Taysha Gene Therapies,,not_found
+Patrick,Miles,Alphatec,,not_found
+Todd,Koning,Alphatec,,not_found
