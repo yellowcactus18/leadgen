@@ -1,0 +1,30 @@
+first_name,last_name,company,linkedin_url,confidence
+Bahram,Valamehr,Fate Therapeutics,https://www.linkedin.com/in/bahram-bob-valamehr-415877a/,high
+Kamal,Adawi,Fate Therapeutics,https://www.linkedin.com/in/adawi/,high
+Michael,Egholm,Standard BioTools,https://www.linkedin.com/in/michael-egholm-5283152/,medium
+Alex,Kim,Standard BioTools,https://www.linkedin.com/in/alex-kim-5033662/,high
+Rand,Sutherland,Upstream Bio,https://www.linkedin.com/in/rand-sutherland-27301914/,high
+Mike,Gray,Upstream Bio,https://www.linkedin.com/in/michael-gray-4078753/,high
+Jay,Duker,EyePoint,https://www.linkedin.com/in/jay-s-duker-m-d-9b3ba52/,medium
+George,Elston,EyePoint,https://www.linkedin.com/in/george-elston-7a24247/,high
+Adam,Craig,X4 Pharmaceuticals,,not_found
+David,Kirske,X4 Pharmaceuticals,https://www.linkedin.com/in/dkirske/,medium
+Mark,Iwicki,Inhibikase Therapeutics,https://www.linkedin.com/in/mark-iwicki-58103970/,high
+David,McIntyre,Inhibikase Therapeutics,,not_found
+Nolan,Townsend,Lexeo Therapeutics,,not_found
+Louis,Tamayo,Lexeo Therapeutics,https://www.linkedin.com/in/louis-tamayo/,high
+Alex,Sapir,Fulcrum Therapeutics,https://www.linkedin.com/in/alex-sapir-5bba00/,high
+Alan,Musso,Fulcrum Therapeutics,https://www.linkedin.com/in/alan-musso-84a14217/,high
+Snehal,Patel,Greenwich LifeSciences,,not_found
+Richard,Kaiser,BioForce Nanosciences,,not_found
+Aaron,Berg,Amarin,https://www.linkedin.com/in/aaron-berg-7b13033/,medium
+Peter,Fishman,Amarin,https://www.linkedin.com/in/peter-l-fishman/,high
+Martin,Zügel,AC Immune,https://www.linkedin.com/in/martin-zuegel-6bb7643a/,high
+Christopher,Roberts,AC Immune,,not_found
+Mary,Szela,TriSalus Life Sciences,https://www.linkedin.com/in/maryszela/,high
+David,Patience,TriSalus Life Sciences,https://www.linkedin.com/in/david-patience-6b108216/,high
+Jane,Chung,Sutro Biopharma,https://www.linkedin.com/in/jane-chung-b7242b17/,high
+Gregory,Chow,Sutro Biopharma,https://www.linkedin.com/in/greg-chow-045133/,medium
+Niels,Riedemann,InflaRx,,not_found
+Thomas,Taapken,InflaRx,,not_found
+Ben,Zeskind,Immuneering,https://www.linkedin.com/in/bzeskind/,high

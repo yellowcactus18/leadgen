@@ -1,0 +1,30 @@
+first_name,last_name,company,linkedin_url,confidence
+Rob,Brainin,Champions Oncology,,not_found
+David,Miller,Champions Oncology,https://www.linkedin.com/in/david-miller-1488b08/,high
+Jennifer,Bath,MindWalk,https://www.linkedin.com/in/jennifer-bath-ph-d-8314174a/,high
+Scott,Areglado,MindWalk,,not_found
+Thomas,Davis,Viskase,https://www.linkedin.com/in/thomas-davis-9827715a/,high
+Michael,Blecic,Viskase,https://www.linkedin.com/in/michael-blecic-2788304/,high
+McAndrew,Rudisill,Forum Markets,https://www.linkedin.com/in/mcandrew-rudisill-1b450414b/,high
+John,Saunders,Forum Markets,,not_found
+Craig,Collard,Heron Therapeutics,https://www.linkedin.com/in/craig-collard-a01a5711b/,high
+Ira,Duarte,Heron Therapeutics,https://www.linkedin.com/in/ira-duarte-1145a39/,high
+Jennifer,Buell,MiNK Therapeutics,https://www.linkedin.com/in/jennifer-s-buell-7824837/,high
+Melissa,Orilall,MiNK Therapeutics,https://www.linkedin.com/in/melissa-orilall-cpa-cga-a2722136/,medium
+Sandy,Macrae,Sangamo Therapeutics,https://www.linkedin.com/in/sandymacrae/,high
+Nikunj,Jain,Sangamo Therapeutics,https://www.linkedin.com/in/nikunj-jain-464b189/,high
+Andrew,Oxtoby,Kalaris Therapeutics,https://www.linkedin.com/in/andrew-oxtoby-531a31129/,high
+Liisa,Bayko,Kalaris Therapeutics,https://www.linkedin.com/in/liisa-bayko-373914/,medium
+Vincent,Angotti,Talphera,https://www.linkedin.com/in/vince-angotti-b1a8416/,medium
+Raffi,Asadorian,Talphera,https://www.linkedin.com/in/raffi-asadorian-b347785/,high
+David,Jorden,Nuo Therapeutics,https://www.linkedin.com/in/david-jorden-84740745/,medium
+Geordan,Pursglove,Nomad Power Solutions,,not_found
+Peter,Stazzone,Nomad Power Solutions,,not_found
+Sumit,Aggarwal,Eloxx Pharmaceuticals,https://www.linkedin.com/in/sumitagg/,medium
+Daniel,Geffken,Eloxx Pharmaceuticals,https://www.linkedin.com/in/lifescienceconsultants/,medium
+Denise,Scots-Knight,Mereo BioPharma,,not_found
+Christine,Fox,Mereo BioPharma,,not_found
+Michael,McGarrity,MDxHealth,https://www.linkedin.com/in/michael-mcgarrity-31586a22/,high
+Ron,Kalfus,MDxHealth,,not_found
+Rene,Russo,Xilio Therapeutics,,not_found
+Christopher,Frankenfield,Xilio Therapeutics,https://www.linkedin.com/in/cfrankenfield/,high

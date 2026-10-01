@@ -1,0 +1,30 @@
+first_name,last_name,company,linkedin_url,confidence
+Andrew,Gengos,Immuneering,https://www.linkedin.com/in/andrew-gengos-b3832b6/,medium
+Carrie,Eglinton Manner,OraSure Technologies,,not_found
+Kenneth,McGrath,OraSure Technologies,https://www.linkedin.com/in/ken-mcgrath-cfa-2a8a6919/,high
+Kevin,Guest,USANA Health Sciences,https://www.linkedin.com/in/kevin-guest-a41a203/,high
+Douglas,Hekking,USANA Health Sciences,https://www.linkedin.com/in/g-douglas-hekking-0818953/,high
+Steve,Griffin,Anika Therapeutics,https://www.linkedin.com/in/steve-griffin-66655313/,high
+Steve,Griffin,Anika Therapeutics,https://www.linkedin.com/in/steve-griffin-66655313/,high
+Julie,Eastland,Zentalis Pharmaceuticals,,not_found
+Melissa,Epperly,Zentalis Pharmaceuticals,https://www.linkedin.com/in/melissa-epperly-1053b3/,medium
+Nasrat,Hakim,Elite Pharmaceuticals,https://www.linkedin.com/in/nasrat-hakim-2932616/,high
+Carter,Ward,Elite Pharmaceuticals,https://www.linkedin.com/in/carterjward/,medium
+Kevin,Lee,Bicycle Therapeutics,,not_found
+J.D.,Finley,Palisade Bio,https://www.linkedin.com/in/j-d-finley-3a131910/,high
+Avraham,Gabay,Oramed Pharmaceuticals,https://www.linkedin.com/in/gabay-avi/,high
+Shao-Lee,Lin,Cue Biopharma,https://www.linkedin.com/in/shao-lee-lin-md-phd-4138101/,medium
+James,Ahlers,Cue Biopharma,https://www.linkedin.com/in/james-ahlers-3010081a/,medium
+Raju,Willener,Veraxa Biotech,,not_found
+Ken,Mobeck,EDAP TMS,https://www.linkedin.com/in/kenmobeck/,medium
+Fu-Feng,Kuo,Jyong Biotech,,not_found
+Wei,Zhang,Jyong Biotech,,not_found
+Kevin,Lundquist,Outlook Therapeutics,https://www.linkedin.com/in/kml2244/,medium
+Kath,Gallagher,Atrium Therapeutics,https://www.linkedin.com/in/kathpgallagher/,high
+Brendan,Winslow,Atrium Therapeutics,,not_found
+Sriram,Ryali,Caribou Biosciences,https://www.linkedin.com/in/sri-ryali/,high
+Henry,Ji,Semnur Pharmaceuticals,,not_found
+Stephen,Ma,Semnur Pharmaceuticals,,not_found
+Christine,Deister,Harbor Diversified,,not_found
+Gregg,Garvey,Harbor Diversified,,not_found
+Winfield,Ding,UMeWorld,,not_found

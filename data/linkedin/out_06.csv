@@ -1,0 +1,27 @@
+first_name,last_name,company,linkedin_url,confidence
+Rob,Etherington,Clene,https://www.linkedin.com/in/rob-etherington-431718/,high
+Morgan,Brown,Clene,https://www.linkedin.com/in/morgan-brown-b551ba6/,medium
+Hyunsu,Jung,Hyperion DeFi,https://www.linkedin.com/in/hyunsu-hyperion/,high
+David,Knox,Hyperion DeFi,https://www.linkedin.com/in/daknox/,high
+Adel,Abdullah,Positron,,not_found
+Guus,Franke,Circle8 Group,,not_found
+Kevin,Murphy,Circle8 Group,,not_found
+Leslie,Trigg,Outset Medical,https://www.linkedin.com/in/leslie-trigg/,high
+Renee,Gaeta,Outset Medical,https://www.linkedin.com/in/renee-gaeta/,high
+Zachary,Hornby,Boundless Bio,https://www.linkedin.com/in/zacharyhornby/,high
+David,Hinkle,Boundless Bio,https://www.linkedin.com/in/david-hinkle-1058752/,medium
+Maria,Maccecchini,Annovis Bio,https://www.linkedin.com/in/maria-l-maccecchini/,high
+David,Moss,INmune Bio,https://www.linkedin.com/in/david-moss-4b705460/,high
+Cory,Ellspermann,INmune Bio,,not_found
+Jason,Matuszewski,BioStem Technologies,https://www.linkedin.com/in/jason-matuszewski-034163b4/,high
+Brent,Lucas,Envoy Medical,https://www.linkedin.com/in/brent-lucas-envoy/,high
+Robert,Potashnick,Envoy Medical,,not_found
+Erez,Meltzer,Nano-X Imaging,https://www.linkedin.com/in/erez-meltzer-4616a911/,high
+Guy,Nathanzon,Nano-X Imaging,https://www.linkedin.com/in/guy-nathanzon-2721401/,medium
+Kevin,Hykes,CVRx,https://www.linkedin.com/in/kevinhykes/,high
+Jared,Oasheim,CVRx,https://www.linkedin.com/in/jared-o-7aa14315/,medium
+Kristin,Yarema,ImageneBio,https://www.linkedin.com/in/kristinyarema/,high
+Vincent,Capone,Spectral AI,https://www.linkedin.com/in/vincent-s-capone/,high
+David,McGuire,Spectral AI,https://www.linkedin.com/in/david-mcguire-cpa-a8238133/,medium
+Sean,Browne,Xtant Medical,https://www.linkedin.com/in/sean-browne-b313904/,high
+Scott,Neils,Xtant Medical,,not_found

@@ -1,0 +1,30 @@
+first_name,last_name,company,linkedin_url,confidence
+Dorian,LeBlanc,LeMaitre Vascular,,not_found
+Ian,Smith,Stoke Therapeutics,,not_found
+Christopher,Murphy,AnaptysBio,https://www.linkedin.com/in/chris-murphy-610960a/,high
+Joseph,Miller,LB Pharmaceuticals,,not_found
+Jenn,Larson,Bicara Therapeutics,https://www.linkedin.com/in/jennifer-larson-6378268/,high
+Jack,Zhang,Amphastar Pharmaceuticals,,not_found
+Lance,Berry,Artivion,https://www.linkedin.com/in/lance-berry-3a644b45/,medium
+David,Campbell,Janux Therapeutics,https://www.linkedin.com/in/david-campbell-40968a51/,high
+Tighe,Reardon,Janux Therapeutics,,not_found
+Jennifer,Fulk,Kura Oncology,,not_found
+Michael,Lau,Anbio Biotechnology,,not_found
+Suki,Song,Anbio Biotechnology,,not_found
+Andrew,Goldberg,Achieve Life Sciences,,not_found
+Alexander,Cumbo,Solid Biosciences,https://www.linkedin.com/in/bocumbo/,high
+Brent,Moen,Anteris Technologies,,not_found
+Sarah,Romano,SS Innovations International,,not_found
+Ronnie,Yaacov-Garbeli,Entera Bio,,not_found
+Jean-Pierre,Sommadossi,Atea Pharmaceuticals,,not_found
+Gilmore,O'Neill,Editas Medicine,https://www.linkedin.com/in/gilmoreoneill/,high
+Junyi,Dai,Indaptus Therapeutics,,not_found
+Yu,Ding,Indaptus Therapeutics,,not_found
+Kang-Huai,Wang,CapsoVision,https://www.linkedin.com/in/johnny-wang-a5b781a/,medium
+Ziqiang,Wang,Jin Medical International,,not_found
+Johan,Spoor,Perspective Therapeutics,,not_found
+Mark,Hair,Treace Medical Concepts,https://www.linkedin.com/in/mark-hair-03a00534/,high
+Jacob,Lalezari,CytoDyn,https://www.linkedin.com/in/jay-lalezari-7100069/,high
+Robert,Hoffman,CytoDyn,,not_found
+Gaurav,Shah,Rocket Pharmaceuticals,,not_found
+Aaron,Ondrey,Rocket Pharmaceuticals,https://www.linkedin.com/in/aaron-ondrey-ab8b893/,high
